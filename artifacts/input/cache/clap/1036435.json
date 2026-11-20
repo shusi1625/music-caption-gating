@@ -1,0 +1,41 @@
+{
+  "track_id": "1036435",
+  "split": "evaluation",
+  "artist_id": "365425",
+  "captions": [
+    {
+      "caption_id": "194",
+      "caption": "This track starts creating an ambiental atmosphere on which a female singer starts singing, evoking a misterious and sinister character."
+    },
+    {
+      "caption_id": "970",
+      "caption": "A cyberpunk influenced track, featuring diverse synthesizers and a distorted female singing voice, which could be played in the ending credits of a video game or a sci-fi movie."
+    }
+  ],
+  "cache_key": "9d0914e3cf3ead82cf7362105a01d686fa661816e773b446c72597a6ad83f1d4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "00daeee7e196ac193a86755cf3aa42ca21cdd088c9b15e00e1e46fb37c3072a0",
+    "captions": [
+      {
+        "caption_id": "194",
+        "caption": "This track starts creating an ambiental atmosphere on which a female singer starts singing, evoking a misterious and sinister character."
+      },
+      {
+        "caption_id": "970",
+        "caption": "A cyberpunk influenced track, featuring diverse synthesizers and a distorted female singing voice, which could be played in the ending credits of a video game or a sci-fi movie."
+      }
+    ]
+  },
+  "npz_sha256": "c1f752f0e50a44fc8dc1876dd18e95915ae0521945f025a2e0be931e6800e998",
+  "decoded_pcm_sha256": "c5f1cd16acd0c9ef650d0d238c9c60cd86401a8afad03fba7dd235193ec28c73",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28,
+    38
+  ],
+  "audio_forward_seconds": 0.5065187001600862
+}

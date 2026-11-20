@@ -1,0 +1,32 @@
+{
+  "track_id": "309861",
+  "split": "evaluation",
+  "artist_id": "338058",
+  "captions": [
+    {
+      "caption_id": "171",
+      "caption": "Gentle and dreamy love song with acoustic guitars, strings and male vocals."
+    }
+  ],
+  "cache_key": "2ce1f41c9392e7996ee5479bc5ecb4ceb6f56c3d1dd531e7347f6ffce9a64c4d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "dcbe17408a352c046193649c3465f4f27ccdbbc0ac2c2fc42b6bb32d2e972690",
+    "captions": [
+      {
+        "caption_id": "171",
+        "caption": "Gentle and dreamy love song with acoustic guitars, strings and male vocals."
+      }
+    ]
+  },
+  "npz_sha256": "987f25948d45c4657bc41420b8a1da9c4c7eca03a424cc93dc8019887d952dca",
+  "decoded_pcm_sha256": "89fa5950464bd764c41d941727a7a7c580956fa4b026ef52b6ffae5fe91b3263",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.44306100020185113
+}

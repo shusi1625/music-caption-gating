@@ -1,0 +1,32 @@
+{
+  "track_id": "1245185",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "833",
+      "caption": "A pop style synthesized instrumental track with mellow, chorus-like top line, and a prominent drum beat."
+    }
+  ],
+  "cache_key": "c50a264ad7939c5b0136bf026e522e41ec9f088c916493714ebf7d6576ccc574",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a008ba0c84e06239a08d0e7ab1ec5f682c41be47a27539bdbab5181bb11ecf03",
+    "captions": [
+      {
+        "caption_id": "833",
+        "caption": "A pop style synthesized instrumental track with mellow, chorus-like top line, and a prominent drum beat."
+      }
+    ]
+  },
+  "npz_sha256": "ec2104d28cf8235796c190dc4b9b32994238fbd79ccbad2c730fd99eb5518970",
+  "decoded_pcm_sha256": "f7595f789a186ec975eb44d605832d9a0b18de61c6f599f6234145d6c170cd9e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.44126429967582226
+}

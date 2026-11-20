@@ -1,0 +1,32 @@
+{
+  "track_id": "103892",
+  "split": "development",
+  "artist_id": "3901",
+  "captions": [
+    {
+      "caption_id": "723",
+      "caption": "bluesy guitar with a slow repetitive rythm in a smoky room in latin america"
+    }
+  ],
+  "cache_key": "b9947a02f88cc36cc4386546d28ac006625b3107f08811c53155f34acf516ad5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "deb847048e4845b54dbc5373114f3746a195f4ed0e6b8ca3fc01e5101e08beed",
+    "captions": [
+      {
+        "caption_id": "723",
+        "caption": "bluesy guitar with a slow repetitive rythm in a smoky room in latin america"
+      }
+    ]
+  },
+  "npz_sha256": "e491428ead40c1b2c166ca53445b2ad2ba9e5737749909a3a183eefa2889a4d9",
+  "decoded_pcm_sha256": "1fa1f4d15d5146c79ce1b6ed0f932390ecf04f791a8d7e1f1bf5987a0988000d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.41186820017173886
+}

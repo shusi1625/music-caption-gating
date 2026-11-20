@@ -1,0 +1,32 @@
+{
+  "track_id": "1350313",
+  "split": "evaluation",
+  "artist_id": "490314",
+  "captions": [
+    {
+      "caption_id": "789",
+      "caption": "Instrumental mainly on flute ideal for a situation where someone is starting on a nature adventure"
+    }
+  ],
+  "cache_key": "06aaf46177496522081d80b90b86f647e82ed572bc92ac86b2508a28e011ef48",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "84e59279c80b6d0342a74ca069eb3a28f5c750b4b45d90bc837c886987fe9390",
+    "captions": [
+      {
+        "caption_id": "789",
+        "caption": "Instrumental mainly on flute ideal for a situation where someone is starting on a nature adventure"
+      }
+    ]
+  },
+  "npz_sha256": "ff6d5b18fd42dafee449af8232df841a6e25c587b0b3d2d499ba302debafc668",
+  "decoded_pcm_sha256": "7f781fc462fbeda50f2c423e4f545c7aa4dcb7c3babe9bbd8ca266bfa0088dd9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.5025825998745859
+}

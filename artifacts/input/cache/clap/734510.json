@@ -1,0 +1,32 @@
+{
+  "track_id": "734510",
+  "split": "evaluation",
+  "artist_id": "366921",
+  "captions": [
+    {
+      "caption_id": "64",
+      "caption": "Futuristic synth track, making you feel like you're floating in space on board of a spaceship."
+    }
+  ],
+  "cache_key": "afd51fd692e1094712e2d8927d0c979ababa376dca6e59271f3290f7ef19ff3f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c5a6b1403e8414c63d2ca2b245290a5722988312d29e7820f98056b483012d62",
+    "captions": [
+      {
+        "caption_id": "64",
+        "caption": "Futuristic synth track, making you feel like you're floating in space on board of a spaceship."
+      }
+    ]
+  },
+  "npz_sha256": "01294a05183d4da7d23ace12aad6ed0a85c5ef829bdc6fddfac643888a00822f",
+  "decoded_pcm_sha256": "35d8e58dcb28688e7e84d53448aca92ea566417e34be526a46bf7cb1faf11263",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.43095280043780804
+}

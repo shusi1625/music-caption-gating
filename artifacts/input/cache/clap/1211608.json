@@ -1,0 +1,32 @@
+{
+  "track_id": "1211608",
+  "split": "development",
+  "artist_id": "465566",
+  "captions": [
+    {
+      "caption_id": "809",
+      "caption": "Slow tempo pop song using only piano and vocals with sad lyrics"
+    }
+  ],
+  "cache_key": "ab781d63f18e505aa570ef317469fc69b45de06dd47b612a2043d2e3c95409f8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d2f7385744a83bfe82f33902cc697a406e9124ae6503f0180aa6c41d07250175",
+    "captions": [
+      {
+        "caption_id": "809",
+        "caption": "Slow tempo pop song using only piano and vocals with sad lyrics"
+      }
+    ]
+  },
+  "npz_sha256": "a0dbd912bf5acca379c4a1be230c5d54102b516ab2faa6f5670b4e0848b864f0",
+  "decoded_pcm_sha256": "0fa52e6f2a3b140166b119b6b1d2d3de1ab2a8142714a8b8b0ad70915c2af730",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.6192208002321422
+}

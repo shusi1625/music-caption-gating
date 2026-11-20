@@ -1,0 +1,32 @@
+{
+  "track_id": "1406830",
+  "split": "evaluation",
+  "artist_id": "365425",
+  "captions": [
+    {
+      "caption_id": "716",
+      "caption": "trance techno pop with old style effects, with an emotional sad sound, futuristic and ideal for a cyberpunk movie"
+    }
+  ],
+  "cache_key": "2b03a6d563e0d49d5ad102ee664339b837d876b96a135ff12d80d2b9110ab0ad",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2e17040a7c897cb57f3a826ce30d077069d68440b4b309b0aebd321be860cddf",
+    "captions": [
+      {
+        "caption_id": "716",
+        "caption": "trance techno pop with old style effects, with an emotional sad sound, futuristic and ideal for a cyberpunk movie"
+      }
+    ]
+  },
+  "npz_sha256": "c231e527840f27687153a9f167e32fecd9300a09ac7fe95139ae73ebe3f6a6f2",
+  "decoded_pcm_sha256": "b235b2d539786aff065e737aafeb5e3998b10fc6684753f1a3c91c36dcbc3d5f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.5716792996972799
+}

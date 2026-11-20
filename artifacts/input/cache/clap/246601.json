@@ -1,0 +1,32 @@
+{
+  "track_id": "246601",
+  "split": "evaluation",
+  "artist_id": "343843",
+  "captions": [
+    {
+      "caption_id": "222",
+      "caption": "epic song, film and game music, synthetic sound"
+    }
+  ],
+  "cache_key": "6d1399a8bfdc6a081a3df3a4ccc5fa3a9cbc4c42db30b9de92ecdb9b684642cf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "950badfbec5f441d2460a032df4b1597b4d08e0a50fa883481ee337e44929a80",
+    "captions": [
+      {
+        "caption_id": "222",
+        "caption": "epic song, film and game music, synthetic sound"
+      }
+    ]
+  },
+  "npz_sha256": "0ba6d412618af105b36736c1cd59a956453f017b5d5d4e4efa756220a56b259a",
+  "decoded_pcm_sha256": "f2fe6e2bf139374e5b60fcd8ef2b00558b2df3c4aa5d28979a24c8cc023ef135",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.43270030012354255
+}

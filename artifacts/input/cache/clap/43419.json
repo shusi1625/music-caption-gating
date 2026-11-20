@@ -1,0 +1,32 @@
+{
+  "track_id": "43419",
+  "split": "evaluation",
+  "artist_id": "5716",
+  "captions": [
+    {
+      "caption_id": "459",
+      "caption": "Ominous 2010s hip-hop beat with FM-style bass and discordant sound design and non-english rapping."
+    }
+  ],
+  "cache_key": "a5a6159d46d227bc8f46190ad6ea6143761802d73ba7ae24488195926e605991",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b6498e73ff1d62fc6fbf9e0b97dbdac947e12c8795440ef47d8f9feadb518192",
+    "captions": [
+      {
+        "caption_id": "459",
+        "caption": "Ominous 2010s hip-hop beat with FM-style bass and discordant sound design and non-english rapping."
+      }
+    ]
+  },
+  "npz_sha256": "9e2df5a46967b5b3703f97527bcfb4a45b127e765f68fdd7bd12ed4073359735",
+  "decoded_pcm_sha256": "dbb53725de56b0055e8fed14dbee95a100680c27ced293ff3a9d7457c8cc00c8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.5638490002602339
+}

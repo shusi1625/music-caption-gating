@@ -1,0 +1,34 @@
+{
+  "feature_source": {
+    "mode": "regenerated_features",
+    "score_absolute_tolerance_to_original": 1e-05,
+    "development_threshold_absolute_tolerance": 1e-05,
+    "metric_absolute_tolerance_to_original": 2e-14,
+    "ranks_gates_assignments_must_match_original_exactly": true,
+    "original_frozen_thresholds_and_lambda_used": true,
+    "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+    "regenerated_manifest_sha256": "3aead14b4d6a6c4fc5e79a5725193c5d0c73cdc7f6c9af7d00d623669747b66d",
+    "regenerated_exclusions_sha256": "ada93f6a80ec83cc855bdd5b80d0f1b4ab37449e7c08b0a282b2fc5505bb7417",
+    "regenerated_model_spec_sha256": "dbe03af76bec2aad520ca6589b0d06fbecd0936386ef0f79890ca9b498b1322c",
+    "regenerated_provenance_sha256": "3273eb0c491f0fe7095985ee896501c3ae39b462d59559fc4d15ed5e47ca920d",
+    "regeneration_provenance": {
+      "original_protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+      "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+      "original_frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+      "model_weight_sha256": "1cd3c601bc4afe0fa87be3de4c13dd2cfadd249fac1e29acf74a9b296c3219bb",
+      "model": "laion/clap-htsat-unfused",
+      "revision": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a",
+      "download_manifest_sha256": "25e66ac9da8e34a99a1d9b82ae695de5a67abc6f65120c45ea6958b82fbe9131",
+      "original_exclusions_sha256": "4925ee766cf07faa8241b6890d026101eee368f110d0ea7549511bddf8b96da2",
+      "model_spec_sha256": "4dee66b0e5ab652dbf307525fb12746e66527ebd2ad88fa67e158d7cdc5558c6",
+      "scope": "locally regenerated source features; no new parameter selection",
+      "score_absolute_tolerance": 1e-05,
+      "metric_absolute_tolerance": 2e-14,
+      "ranks_gates_assignments": "exact match required"
+    }
+  },
+  "protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+  "frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+  "reproduction_script_sha256": "e609773570a9fbf12dc84bcdc3091e12ac261288776e1ccdbb5b723186234ceb",
+  "feature_source_validator_sha256": "d04e8bceea5f340de89417dae0e13cbf1283b491ee4ed1dfa90638d976310ca3"
+}

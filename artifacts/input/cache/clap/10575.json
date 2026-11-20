@@ -1,0 +1,32 @@
+{
+  "track_id": "10575",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "953",
+      "caption": "A track with elements from eurodance and indie guitars."
+    }
+  ],
+  "cache_key": "7d18ed53cccdea85f646f640b985686ce176c73608797525d406a37dc9d8a917",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "910b745d9cde19a13e0d2a2ec5ecbb930671b4b8e932848a733aed416974529e",
+    "captions": [
+      {
+        "caption_id": "953",
+        "caption": "A track with elements from eurodance and indie guitars."
+      }
+    ]
+  },
+  "npz_sha256": "a8cec8269236a8bc3b7b0e69502bae2bd8f892e11e2db584c92b7a6c8fd1eb5a",
+  "decoded_pcm_sha256": "c61588c6ada7b539335d0e25ea1f1b03b14065ca877619b2036001c722dbb645",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.5994604998268187
+}

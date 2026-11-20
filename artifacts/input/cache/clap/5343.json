@@ -1,0 +1,32 @@
+{
+  "track_id": "5343",
+  "split": "evaluation",
+  "artist_id": "245",
+  "captions": [
+    {
+      "caption_id": "698",
+      "caption": "Ambient electronic piece of music with organic sounds perfect for a science fiction video game."
+    }
+  ],
+  "cache_key": "f24f30afedffd8e8799f58b2fdbf67bc1bf92bdb3eb4653563b935a55dd333be",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a5fe300b3e71349a13001b587dd983229c17659811a9c722fe35e894fb5654b9",
+    "captions": [
+      {
+        "caption_id": "698",
+        "caption": "Ambient electronic piece of music with organic sounds perfect for a science fiction video game."
+      }
+    ]
+  },
+  "npz_sha256": "1acbef5a8389d2a2a3a4272620e2dda291421f16dc76d66c4865c181e03ec4ed",
+  "decoded_pcm_sha256": "83c01e0fb94801d3172edee494b64e6a6a00d88768fa0aae5a60e06eba487cf3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.6180580002255738
+}

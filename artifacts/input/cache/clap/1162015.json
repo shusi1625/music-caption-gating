@@ -1,0 +1,32 @@
+{
+  "track_id": "1162015",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "299",
+      "caption": "A powerful and very enjoyable rock song, with a strong drum that makes you want to dance."
+    }
+  ],
+  "cache_key": "c3b9ab9e240a4698ce13da77119f435eee6a2119fd93dceccc490c37aebf96c6",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ede4189e6f6fecd4eb9a086fa96870ceebe26157e30883552cbced0c2718a34c",
+    "captions": [
+      {
+        "caption_id": "299",
+        "caption": "A powerful and very enjoyable rock song, with a strong drum that makes you want to dance."
+      }
+    ]
+  },
+  "npz_sha256": "2ddabab7ac6d2335a4485b4b70d846e93a89060b7b1e1cb23d2620baf45f1854",
+  "decoded_pcm_sha256": "1b4d7bb9b205de1b40bb8757b3ef85b70437f48a22867b3382a5092ea2213aaf",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.5079789003357291
+}

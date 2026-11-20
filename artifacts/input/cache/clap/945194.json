@@ -1,0 +1,32 @@
+{
+  "track_id": "945194",
+  "split": "evaluation",
+  "artist_id": "421686",
+  "captions": [
+    {
+      "caption_id": "1087",
+      "caption": "Electro dance song to play in the pub to cheer up the crowd."
+    }
+  ],
+  "cache_key": "8a0c5325c7f2ec1f5f489e1efa19fcb0f47e1d89e23a7309e6fb34e66dbf15c6",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1d5a4d8725a1eea7276bab5027319d147bb6f20a015e83a40f1fdb136bf5d529",
+    "captions": [
+      {
+        "caption_id": "1087",
+        "caption": "Electro dance song to play in the pub to cheer up the crowd."
+      }
+    ]
+  },
+  "npz_sha256": "65b561b3479e4548cf84ed6eb90d440102ea0a17ae84879cc4d993f8d121d41b",
+  "decoded_pcm_sha256": "b3afc7a06fc73d984daab00a90cf0f6a49712aef6a43ccfd0c7e5748244ac946",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.4996068002656102
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "922941",
+  "split": "evaluation",
+  "artist_id": "362433",
+  "captions": [
+    {
+      "caption_id": "346",
+      "caption": "It's very upbeat and bouncy on its own style, sounds like the theme song for a happy protagonist of a 90s show, sounds very jazzy"
+    }
+  ],
+  "cache_key": "e251653cde3c2e1f89ddc9e0913c5cba55257ea09aa2a2ad7daf8e7a934d1d5c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9898b125190c304694ca6ab2b1c918d29018c20f89bac2e6ee2d893bac8c9b8b",
+    "captions": [
+      {
+        "caption_id": "346",
+        "caption": "It's very upbeat and bouncy on its own style, sounds like the theme song for a happy protagonist of a 90s show, sounds very jazzy"
+      }
+    ]
+  },
+  "npz_sha256": "7a233c08c27338a0b817daea577c3ca81fdd176d064af5c86d0babdb093a3e25",
+  "decoded_pcm_sha256": "cf726d774070394a0127272add921b93b449f4411ec36db4f80debcd4594c41b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    34
+  ],
+  "audio_forward_seconds": 0.41689660027623177
+}

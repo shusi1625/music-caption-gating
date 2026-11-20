@@ -1,0 +1,32 @@
+{
+  "track_id": "95581",
+  "split": "development",
+  "artist_id": "336764",
+  "captions": [
+    {
+      "caption_id": "184",
+      "caption": "This instrumental track is of the electronica genre with a dreamy feel."
+    }
+  ],
+  "cache_key": "7ca1e519a6d3c7b2957016e80ce5729107705355dec7afeb71b6cd229785ce48",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d62c7c332bfed2b6c1784ba0adf27271f239c36136709bd6e399d1cc675121ec",
+    "captions": [
+      {
+        "caption_id": "184",
+        "caption": "This instrumental track is of the electronica genre with a dreamy feel."
+      }
+    ]
+  },
+  "npz_sha256": "51ada37fba7f4150413a675dd8aed22bea4fe8fcbb485eb4ec1f2ef0bd5d6dbc",
+  "decoded_pcm_sha256": "182764e080080796e7d245f8680d7d29eedcf42867a31018db071de802bc5b21",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.815582999959588
+}

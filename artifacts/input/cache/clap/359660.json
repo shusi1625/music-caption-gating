@@ -1,0 +1,32 @@
+{
+  "track_id": "359660",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "1077",
+      "caption": "Deeply emotional classical piece of music for solo piano with a lively interlude"
+    }
+  ],
+  "cache_key": "a114b46c30092acb73783ead9bb03e9657a644d1d8c3a72098376af34575dbeb",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d729b0274382f10c6ae0f8743d9b673054b1b886ccc794e689a0582e444db2e9",
+    "captions": [
+      {
+        "caption_id": "1077",
+        "caption": "Deeply emotional classical piece of music for solo piano with a lively interlude"
+      }
+    ]
+  },
+  "npz_sha256": "94322b491c0612f7d1bba91503a1d6db5eeb4f476d30d9694ddffc766c593457",
+  "decoded_pcm_sha256": "824631f2d4bb264bf27ee14bd2f156a5de5d7ac970f8faa6ccd5775d4cafe6ab",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.5428750002756715
+}

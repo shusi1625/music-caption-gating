@@ -1,0 +1,32 @@
+{
+  "track_id": "1119016",
+  "split": "development",
+  "artist_id": "6615",
+  "captions": [
+    {
+      "caption_id": "108",
+      "caption": "A garage rock-influenced song with lyrics about space which evokes psychedelia"
+    }
+  ],
+  "cache_key": "899eeeffac9a62d8563b1812d6200761f7eef0e24c1b374938a7ed4b5ef89309",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "861c51803642d3cdee859f5f7a1aa1b066001ca546d640dc1d6833c59e83b39c",
+    "captions": [
+      {
+        "caption_id": "108",
+        "caption": "A garage rock-influenced song with lyrics about space which evokes psychedelia"
+      }
+    ]
+  },
+  "npz_sha256": "9f0bbce816702095a6872c99cc978b1f276a8b2c73ec2dd8c730e7c9aa1501d4",
+  "decoded_pcm_sha256": "ed50f36518d74040cbbaefac0490a1da5121fd7f525c9c9a209e3a585d4a4cab",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.6081032999791205
+}

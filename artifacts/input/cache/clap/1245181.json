@@ -1,0 +1,32 @@
+{
+  "track_id": "1245181",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "559",
+      "caption": "A dreamy and ethereal piece of electronic music with a Spanish guitar."
+    }
+  ],
+  "cache_key": "d1118ad5f2fc029824198279e7dccb7eaa66b2827c210a8eb5897102ef23792c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "139ef1f4cec9f72896cb1b4e5ede25f53150b382432cad25fa8b7c18823271ca",
+    "captions": [
+      {
+        "caption_id": "559",
+        "caption": "A dreamy and ethereal piece of electronic music with a Spanish guitar."
+      }
+    ]
+  },
+  "npz_sha256": "0d793792e4b6de44fd5dd6bb2def474b2201378bfa5f5c943dc4823b2eabe453",
+  "decoded_pcm_sha256": "cc4f3becedb21c3cd94290df40130861e82eff5f2c8c85cb2b134a7375216a8c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.44167760014533997
+}

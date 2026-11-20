@@ -1,0 +1,32 @@
+{
+  "track_id": "108650",
+  "split": "evaluation",
+  "artist_id": "337296",
+  "captions": [
+    {
+      "caption_id": "495",
+      "caption": "Energetic German-language rock song with heavily distorted guitars"
+    }
+  ],
+  "cache_key": "4c4c8bf8ad5cb867102ca241ae0bc6b283601a40ed8728c551be026177829d08",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "195b71bb4ab0a3cbfd84684ac4a9b391dad80ae87f929a6f892b68abe8c72aac",
+    "captions": [
+      {
+        "caption_id": "495",
+        "caption": "Energetic German-language rock song with heavily distorted guitars"
+      }
+    ]
+  },
+  "npz_sha256": "93ef0609c4e7c6f515c332e0f193379227dfbb8c40f1a0a4bdb617cec5861723",
+  "decoded_pcm_sha256": "70a8605fbb691686866b4163fbea34aa781ad6e24d4006c55198166347fb3616",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.5741256000474095
+}

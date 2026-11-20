@@ -1,0 +1,41 @@
+{
+  "track_id": "1357118",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "130",
+      "caption": "This is an energetic and positive rock song with guitars, keyboard, drums and a male vocal."
+    },
+    {
+      "caption_id": "192",
+      "caption": "Happy song evoking summer vibes, performed by a male singer."
+    }
+  ],
+  "cache_key": "7de4ddba2b6b2131554f8aae4cc6e0f51e13cab25ce5a35591fbdf0d702d62f8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b050535d540860dfb2b4c4f7b807878a9c02005d7133bff18f8594d9948cb4a0",
+    "captions": [
+      {
+        "caption_id": "130",
+        "caption": "This is an energetic and positive rock song with guitars, keyboard, drums and a male vocal."
+      },
+      {
+        "caption_id": "192",
+        "caption": "Happy song evoking summer vibes, performed by a male singer."
+      }
+    ]
+  },
+  "npz_sha256": "a850e2e6cc0f09a836b24f17db00a13cbf20acb03a7770c3132450184fea786d",
+  "decoded_pcm_sha256": "288c67a70a9979535943a5934fc7608e990d9a9eed8cf95e4743778e790d15c3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    16
+  ],
+  "audio_forward_seconds": 0.44328639982268214
+}

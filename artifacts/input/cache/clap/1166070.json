@@ -1,0 +1,41 @@
+{
+  "track_id": "1166070",
+  "split": "evaluation",
+  "artist_id": "361694",
+  "captions": [
+    {
+      "caption_id": "563",
+      "caption": "Childish and innocent orchestral piece of music that conveys joy and happiness and gives a sense of beginning."
+    },
+    {
+      "caption_id": "904",
+      "caption": "This track sound like a Christmas song with bells as the melody and strings as support."
+    }
+  ],
+  "cache_key": "b1dce6c0576dac3bc5140b3869970bd15be32ab0a87da6871788cd7e6b61e64a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "39aaa93511d7075dfb4161d91a8c5c3d57ab802ef47cb2cd845bb2a297b92e44",
+    "captions": [
+      {
+        "caption_id": "563",
+        "caption": "Childish and innocent orchestral piece of music that conveys joy and happiness and gives a sense of beginning."
+      },
+      {
+        "caption_id": "904",
+        "caption": "This track sound like a Christmas song with bells as the melody and strings as support."
+      }
+    ]
+  },
+  "npz_sha256": "34fd7c9e7a59e12d2fc93f1729adead07445a973892117dd578b930d0db83fd0",
+  "decoded_pcm_sha256": "3c56d75ed9de8037758dadeeaecb77e17999d873a68f2b5231d08c097acb3888",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    25,
+    19
+  ],
+  "audio_forward_seconds": 0.4484713999554515
+}

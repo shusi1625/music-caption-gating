@@ -1,0 +1,32 @@
+{
+  "track_id": "5345",
+  "split": "evaluation",
+  "artist_id": "245",
+  "captions": [
+    {
+      "caption_id": "540",
+      "caption": "A slow paced arty electronic track that features a strange tuned guitar."
+    }
+  ],
+  "cache_key": "1d9de1e4f3d95f1c2a7e6fde4dd993843b5c15d87cc7d69f4c9f27dfc6dfeeb9",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e140bfb36dc98c01db0968d3018689497cb97d0c3958a0748d0660d3b4bdeed3",
+    "captions": [
+      {
+        "caption_id": "540",
+        "caption": "A slow paced arty electronic track that features a strange tuned guitar."
+      }
+    ]
+  },
+  "npz_sha256": "97c88e4a695636220664eef98374cf84346897c6cb2ea2db1c1077fb2b450d6a",
+  "decoded_pcm_sha256": "4fd7453d5f969b00d357aa9a8d53f2839081b6465acf03ba0767b08ea85f1971",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4505564998835325
+}

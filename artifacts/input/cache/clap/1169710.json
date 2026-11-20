@@ -1,0 +1,32 @@
+{
+  "track_id": "1169710",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "196",
+      "caption": "This instrumental song is so calm that makes me feel sleepy"
+    }
+  ],
+  "cache_key": "67d20264caa279d42547a22e7b1d198142c147939eb59a654a1656347eaf656c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8f1e8f28fd930c59361d1c2e47f0d8b1d950a22fc4710943879bd9ce2ba7a5d9",
+    "captions": [
+      {
+        "caption_id": "196",
+        "caption": "This instrumental song is so calm that makes me feel sleepy"
+      }
+    ]
+  },
+  "npz_sha256": "3f92145fa8b9e85f03c5823b085405a59039c9c0934f8692cd0668982c0590a9",
+  "decoded_pcm_sha256": "1f020c13ed3cce7a1a4f7fa3199568b5c6ca95eb8656c5033d07a437a961c48a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.5494416002184153
+}

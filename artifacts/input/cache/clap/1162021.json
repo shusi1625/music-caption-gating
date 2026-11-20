@@ -1,0 +1,32 @@
+{
+  "track_id": "1162021",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "675",
+      "caption": "Progressive rock song with a driving synth base and slurred high pitched male voice."
+    }
+  ],
+  "cache_key": "d027cfec944480c7e6d3f734a72220d02b740ffe89924ed00e494b6358b8fcb0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "327802ad2beb76becd650aae6c62f0f71d34c45234ae6cfbe67e8fa05ec63897",
+    "captions": [
+      {
+        "caption_id": "675",
+        "caption": "Progressive rock song with a driving synth base and slurred high pitched male voice."
+      }
+    ]
+  },
+  "npz_sha256": "ff11a715bc2edb1950d456adae76a71c1c74ccd32b667f5ec5a176718c7e7c40",
+  "decoded_pcm_sha256": "4472b9bec843ead502ac5ea807a33b42e658756c59278bd0e60b12d1419fc0cd",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4327324996702373
+}

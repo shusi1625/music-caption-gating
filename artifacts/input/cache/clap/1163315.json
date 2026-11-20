@@ -1,0 +1,32 @@
+{
+  "track_id": "1163315",
+  "split": "development",
+  "artist_id": "422656",
+  "captions": [
+    {
+      "caption_id": "767",
+      "caption": "A relaxing jazz song, for focusing, that evokes sentimental feeling."
+    }
+  ],
+  "cache_key": "a8125aa809eb0e49bcba49b0bdc6a570b12206757e4507f4474146c5b41bf4e7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "128c9ba7050771b729018d6996fc3cbd0e8c3636f7257c974f703bf8187700d7",
+    "captions": [
+      {
+        "caption_id": "767",
+        "caption": "A relaxing jazz song, for focusing, that evokes sentimental feeling."
+      }
+    ]
+  },
+  "npz_sha256": "e81b96f5e848e6b7421f6f0e51a3f04c0f63f9b6bade19a9e9e940723acc5f18",
+  "decoded_pcm_sha256": "912c38b121e4c56f961c86408b1d2b6ac91a9adc76e4f04142ba4e09b5a64a42",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4306530999019742
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "206609",
+  "split": "evaluation",
+  "artist_id": "341332",
+  "captions": [
+    {
+      "caption_id": "1067",
+      "caption": "Indie rock song that starts off on a harmonica which has an upbeat feel but also a sad tone to it that can be listened in a personal setting"
+    }
+  ],
+  "cache_key": "2c90663131693fc45a28904d60f71e310fac732072258081f3c2fc6efafa8f67",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7479ba0cb2dbac5827387e520bea202ea5ce25f281bc35ca43c5bc138efb0147",
+    "captions": [
+      {
+        "caption_id": "1067",
+        "caption": "Indie rock song that starts off on a harmonica which has an upbeat feel but also a sad tone to it that can be listened in a personal setting"
+      }
+    ]
+  },
+  "npz_sha256": "51b171b57e192238e5e9c7bee2684ee7283c1c85653930a6f2ccd8fdad68e78c",
+  "decoded_pcm_sha256": "44b7f2603e1414ae900473929553f78e402e529ff5eeb38c66c162754583bd50",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.42846510000526905
+}

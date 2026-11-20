@@ -1,0 +1,32 @@
+{
+  "track_id": "510853",
+  "split": "development",
+  "artist_id": "337259",
+  "captions": [
+    {
+      "caption_id": "351",
+      "caption": "Modern experimental low-fi music track with an exotic vibe, featuring a repeted female voice sample."
+    }
+  ],
+  "cache_key": "aa660faf432e76c9c46403db2dea4256a0a86c54fa73d019928f7b24071d3b6b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9bdccd295dcaaab5073f914882f6e08734cd375e6e415282a9441b66d8abce2e",
+    "captions": [
+      {
+        "caption_id": "351",
+        "caption": "Modern experimental low-fi music track with an exotic vibe, featuring a repeted female voice sample."
+      }
+    ]
+  },
+  "npz_sha256": "305333238b9e35585edcd2fecb33b5939d3d200bf551e92e00d59e88021c6dbb",
+  "decoded_pcm_sha256": "a8970bf2fe37cfca80a917c9efc9c0625cd267f30ed05a24426291ba940f6cf9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.43403639970347285
+}

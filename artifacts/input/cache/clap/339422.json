@@ -1,0 +1,41 @@
+{
+  "track_id": "339422",
+  "split": "evaluation",
+  "artist_id": "340868",
+  "captions": [
+    {
+      "caption_id": "627",
+      "caption": "Aggressive metal song with very distorted guitars, male vocals with guttural screams."
+    },
+    {
+      "caption_id": "1010",
+      "caption": "A heavy metal song with a distorted guitar playing power chords, death growls and a high-pitched rock male voice in the background."
+    }
+  ],
+  "cache_key": "6f7ffff0de5d4b9fc15d8ab3de9c4016e082f6c97c9bb46a7109b5089adf4ecd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "99afec485e8aa8f3e58e88258b937fc015a95a2de4339081a93dc2559120c211",
+    "captions": [
+      {
+        "caption_id": "627",
+        "caption": "Aggressive metal song with very distorted guitars, male vocals with guttural screams."
+      },
+      {
+        "caption_id": "1010",
+        "caption": "A heavy metal song with a distorted guitar playing power chords, death growls and a high-pitched rock male voice in the background."
+      }
+    ]
+  },
+  "npz_sha256": "a66176d7d18c4133a220d08b8a9afed0d99d2f5c61deab0f41cda6549a8e64d3",
+  "decoded_pcm_sha256": "0739fd3ff4eb26fc74b64f42480ca07b7a48d7a9d30c3f59c496505e45b2de18",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19,
+    30
+  ],
+  "audio_forward_seconds": 0.6367465001530945
+}

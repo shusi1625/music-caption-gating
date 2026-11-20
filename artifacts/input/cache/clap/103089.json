@@ -1,0 +1,32 @@
+{
+  "track_id": "103089",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "486",
+      "caption": "Heavy metal song with folk influences, drum and distorted guitars are sustained by a French speaking male voice and a synth lead, in some point the music stops and there is a rain sample."
+    }
+  ],
+  "cache_key": "8164e1b923c3eaa2a4d920bab558ac9384d7635e55a02db0620a0a7110b2bdeb",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "48c28750e94f2970ff75d15655265d5903e2eb9f66f8a189b12b727145b17fd2",
+    "captions": [
+      {
+        "caption_id": "486",
+        "caption": "Heavy metal song with folk influences, drum and distorted guitars are sustained by a French speaking male voice and a synth lead, in some point the music stops and there is a rain sample."
+      }
+    ]
+  },
+  "npz_sha256": "4c87398605f4bf125986a55a453e7f09f540868afcb964dae3f2bef95eb7c756",
+  "decoded_pcm_sha256": "8de27a3756063768501a51d543981850c8036efb270dfa07d03679af4ca4b6ed",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    39
+  ],
+  "audio_forward_seconds": 0.4505539000965655
+}

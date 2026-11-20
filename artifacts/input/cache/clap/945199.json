@@ -1,0 +1,32 @@
+{
+  "track_id": "945199",
+  "split": "evaluation",
+  "artist_id": "421686",
+  "captions": [
+    {
+      "caption_id": "916",
+      "caption": "Lively, upbeat pop song that gives you energy."
+    }
+  ],
+  "cache_key": "eff825f8b4a77de74977931aa3f336dcf151c1cf2b86eb3e1d56f274e118a330",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "fac2fc8f3636614424800f6da4ab2928c9404587722c47e3bf667093f95ef7a5",
+    "captions": [
+      {
+        "caption_id": "916",
+        "caption": "Lively, upbeat pop song that gives you energy."
+      }
+    ]
+  },
+  "npz_sha256": "d4f86bc42fe64072d6a17b58a3bbc390e9351decb052074ca67d5b5212f3977f",
+  "decoded_pcm_sha256": "69fd717639b0a00d3a40f302204ffca06b3751c6c818d259552ba2fa33b2ae7f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.438918000087142
+}

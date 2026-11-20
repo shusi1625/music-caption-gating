@@ -1,0 +1,32 @@
+{
+  "track_id": "212013",
+  "split": "evaluation",
+  "artist_id": "337328",
+  "captions": [
+    {
+      "caption_id": "786",
+      "caption": "Electronic music with a political message in the beginning evoking a confused emotion"
+    }
+  ],
+  "cache_key": "4f8acfe3cf1bc427517245be172e7d002adc59f288d31be35dc9b4b7e2095426",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1dbaba6d8e6d6edb531410d4502afc5feecf27c7dfbdc1ed41ca9dbcd95c12cd",
+    "captions": [
+      {
+        "caption_id": "786",
+        "caption": "Electronic music with a political message in the beginning evoking a confused emotion"
+      }
+    ]
+  },
+  "npz_sha256": "0f759371f126322497c853bfe740b83d1676ed547967e007ce4284c1c1da41c8",
+  "decoded_pcm_sha256": "66c7fcfb6fbc7091643f96c1eb212364c45c9fdc56dd6fe499731e1261f2f0e4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.6093705999664962
+}

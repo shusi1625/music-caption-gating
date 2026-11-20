@@ -1,0 +1,32 @@
+{
+  "track_id": "907121",
+  "split": "evaluation",
+  "artist_id": "371323",
+  "captions": [
+    {
+      "caption_id": "440",
+      "caption": "A despair piece of music featuring a piano and a female speaking voice that builds into an empowering and hopeful track."
+    }
+  ],
+  "cache_key": "515d1184a005b86e85b0a3823d4184786873f03b6121247535329f85d1ee37e7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4cfb0cca052f3e247e631bd065d35fd6ce7184eebe2f2dd964d122f5536e1253",
+    "captions": [
+      {
+        "caption_id": "440",
+        "caption": "A despair piece of music featuring a piano and a female speaking voice that builds into an empowering and hopeful track."
+      }
+    ]
+  },
+  "npz_sha256": "0f1df5e4aeb869f91f294b0cb52df50ab42201c50ae94dd0f151fc601633293e",
+  "decoded_pcm_sha256": "5897f6e22fd5dccf892896679ab212e380cc52321b246349dc05663b7d9377f8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.4244984001852572
+}

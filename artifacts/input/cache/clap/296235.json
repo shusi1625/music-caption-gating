@@ -1,0 +1,32 @@
+{
+  "track_id": "296235",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "999",
+      "caption": "Electronic music that feels like its in a futuristic world with a melancholy element from the violin until the drums kick in at the very end"
+    }
+  ],
+  "cache_key": "577b77935e64616a10e24fc2e71759f987698790552e8402356e203698aacbc1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2a86eaa01f5625a3d1f01ee555490c9b499e5c212ca360c29b36f9338171bb36",
+    "captions": [
+      {
+        "caption_id": "999",
+        "caption": "Electronic music that feels like its in a futuristic world with a melancholy element from the violin until the drums kick in at the very end"
+      }
+    ]
+  },
+  "npz_sha256": "6885d706e0568dfd78654a7475642c315bd47c68140060490c33150cc339565f",
+  "decoded_pcm_sha256": "7b3b525ce0a09ab295a7c464408cc841eec977ddc7f7a9a017cdbdb7c5f1cce2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.4913927000015974
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1357005",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "668",
+      "caption": "Bittersweet pop song with a 60s doo wop vibe featuring male vocals."
+    }
+  ],
+  "cache_key": "5c473968347a18c978b7feebbba046d9566d6e487218625265f39eb8904c4c65",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a20d6d01932cd8316c9387979a86737c478712f893e02a3c9095615c05c20378",
+    "captions": [
+      {
+        "caption_id": "668",
+        "caption": "Bittersweet pop song with a 60s doo wop vibe featuring male vocals."
+      }
+    ]
+  },
+  "npz_sha256": "036a7f38227d9228a1a61f6b2c71b6f5b851eb285655f2575528cfa454b7aacf",
+  "decoded_pcm_sha256": "f36fd5f1ca8c93e1d845b0a193ff9f9e9cbfc8d4091b9ad86e740a66361e1cd1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.6439710999839008
+}

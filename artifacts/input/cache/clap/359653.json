@@ -1,0 +1,41 @@
+{
+  "track_id": "359653",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "426",
+      "caption": "Classical solo piano music, romantic period. Complex harmonic textures, the pièce reminds of a joyful but melancholic moment, with cold weather outside and the bite of winter at the door, sitting around a fireplace in the living room."
+    },
+    {
+      "caption_id": "876",
+      "caption": "Classical instrumental piano that gives a range of emotions from soothing to tension"
+    }
+  ],
+  "cache_key": "ba8bf4d76cd73bcbe42369d37d0e1bafaff6d60a9b092ef695f17fc69191b476",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "12cd19fd4c614e4570ae2d90f8564037a2e669e6d398f88ea6123b78ecefcc27",
+    "captions": [
+      {
+        "caption_id": "426",
+        "caption": "Classical solo piano music, romantic period. Complex harmonic textures, the pièce reminds of a joyful but melancholic moment, with cold weather outside and the bite of winter at the door, sitting around a fireplace in the living room."
+      },
+      {
+        "caption_id": "876",
+        "caption": "Classical instrumental piano that gives a range of emotions from soothing to tension"
+      }
+    ]
+  },
+  "npz_sha256": "2a3debdd14ff6817ca7557fcebdbed836cec1040f6c738f3348873a84dcca5b7",
+  "decoded_pcm_sha256": "a0155ec946951317af50bc5a504625d8fc79a0cb430c58a9f6e10f458d86522b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    50,
+    16
+  ],
+  "audio_forward_seconds": 0.4506797003559768
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "190869",
+  "split": "evaluation",
+  "artist_id": "7349",
+  "captions": [
+    {
+      "caption_id": "1055",
+      "caption": "A rap song with two male voices and sounds in the background that loosely resemble a siren."
+    }
+  ],
+  "cache_key": "f1062e6ed88f97960ad0b5d03eab47502e8f053fddd68cfbed6bd054c7f6f241",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "076c572c643c093089fde21c487895b214e8293bd8a224be33b9de76aa7ca6d8",
+    "captions": [
+      {
+        "caption_id": "1055",
+        "caption": "A rap song with two male voices and sounds in the background that loosely resemble a siren."
+      }
+    ]
+  },
+  "npz_sha256": "efcb3f88250f7b4c59e2670ed773f9e517628cbfeba9c123a0d5159baf189efc",
+  "decoded_pcm_sha256": "8c0e9ff6d255843ed6b51cbd86ba15736ba63af42c210173f1f39372d0cf52b6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4291427000425756
+}

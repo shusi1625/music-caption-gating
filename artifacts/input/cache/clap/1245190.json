@@ -1,0 +1,32 @@
+{
+  "track_id": "1245190",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "965",
+      "caption": "This song starts with an ambient pad intro with a hip-hop influenced beat dropping halfway through."
+    }
+  ],
+  "cache_key": "d112aa83b16046c5db56132fc5aa85a9ad27e4d92fd626a95100c6310455cec0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "38e545e69ea31944ce37d531a3fc7ac125a23a0a32096c8553991411032e29db",
+    "captions": [
+      {
+        "caption_id": "965",
+        "caption": "This song starts with an ambient pad intro with a hip-hop influenced beat dropping halfway through."
+      }
+    ]
+  },
+  "npz_sha256": "0aa92865763048ca14b7a9cb85fe6d8e68182fd605841a108e198dc6d25a4b93",
+  "decoded_pcm_sha256": "76a61abaee90313ad531fc293735090b91aab9946aa80e27ad5f2cc3b9a0abe5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4647538997232914
+}

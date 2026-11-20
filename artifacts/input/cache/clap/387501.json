@@ -1,0 +1,32 @@
+{
+  "track_id": "387501",
+  "split": "development",
+  "artist_id": "352042",
+  "captions": [
+    {
+      "caption_id": "244",
+      "caption": "The song starts with an acoustic guitar and then a electric guitar is added. It is an ambient rock song."
+    }
+  ],
+  "cache_key": "0b9153c450ab4a3d583e593783fb4dde0670b98e041a41a18d571a00ca6b8890",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9884f35f78296df07b2214772f38b171c6abad7a8bcb0d3a7dc1defc76bbfc81",
+    "captions": [
+      {
+        "caption_id": "244",
+        "caption": "The song starts with an acoustic guitar and then a electric guitar is added. It is an ambient rock song."
+      }
+    ]
+  },
+  "npz_sha256": "9bc15b10469aabdd77fb0862b3d9e3c67538b3e0f8a3d7fabaa4b60d894b7a55",
+  "decoded_pcm_sha256": "08c9998af3a14989940ffac7e59fc7409546b15893b83f1cfd6ad438ba8a6922",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.6095095998607576
+}

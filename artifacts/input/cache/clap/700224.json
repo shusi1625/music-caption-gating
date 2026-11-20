@@ -1,0 +1,32 @@
+{
+  "track_id": "700224",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "457",
+      "caption": "Gothic song with a mysterious atmosphere featuring a mournful female voice"
+    }
+  ],
+  "cache_key": "a911944a24ba2435ef5409cbeaae4e6cc4a1680221e7df7ed48783aec71c18a5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5eaba5c9efeea63876ee89970b9d35e534a486366750aa747ccc26444b2634d9",
+    "captions": [
+      {
+        "caption_id": "457",
+        "caption": "Gothic song with a mysterious atmosphere featuring a mournful female voice"
+      }
+    ]
+  },
+  "npz_sha256": "752dd2d2493a8b759c5715c4a3c07823fe1fde876fdfc5c951143fe0655c1fe3",
+  "decoded_pcm_sha256": "54ab6b58d6fea6fb0590e901aa5cccca18223199f6b761764263d6e4fc225c7f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4929459001868963
+}

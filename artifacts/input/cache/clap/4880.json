@@ -1,0 +1,32 @@
+{
+  "track_id": "4880",
+  "split": "development",
+  "artist_id": "696",
+  "captions": [
+    {
+      "caption_id": "693",
+      "caption": "This is a fast-paced jazzy track featuring piano and a shuffling snare drum beat."
+    }
+  ],
+  "cache_key": "1cba69f219c0c1a79ecdb289a653dc2769aa83f7acb96283fc258ad1eb9a4806",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d7306085eb41670e4d9d42fff1e1cd5ed0e077455b1beb8959830ef00fc97faa",
+    "captions": [
+      {
+        "caption_id": "693",
+        "caption": "This is a fast-paced jazzy track featuring piano and a shuffling snare drum beat."
+      }
+    ]
+  },
+  "npz_sha256": "4dc85ae013d9da481b1950f4b43c8af10e4769a57482721d61192eae7e3cfdc8",
+  "decoded_pcm_sha256": "8cbeef69b231005ff50f4786766f8869f7c9fdabb0894427c6542e0a7d51f383",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.7221400002017617
+}

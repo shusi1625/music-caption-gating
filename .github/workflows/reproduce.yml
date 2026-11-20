@@ -1,0 +1,70 @@
+name: Reproduce from source
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'artifacts/input/**'
+      - 'requirements-*.txt'
+      - '.github/workflows/reproduce.yml'
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  source-to-results:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 120
+    env:
+      PYTHONUNBUFFERED: '1'
+      OMP_NUM_THREADS: '4'
+      OPENBLAS_NUM_THREADS: '1'
+      TOKENIZERS_PARALLELISM: 'false'
+      HF_HUB_DISABLE_TELEMETRY: '1'
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.10'
+      - name: Install isolated CPU dependencies
+        run: |
+          python -m pip install --no-cache-dir -r requirements-source.txt
+          python -m pip install --no-cache-dir --no-deps torch==2.0.1+cpu torchaudio==2.0.2+cpu --index-url https://download.pytorch.org/whl/cpu
+          python -m pip check
+          mkdir -p outputs/evidence
+          python -m pip freeze > outputs/evidence/requirements-resolved.txt
+          python --version > outputs/evidence/python-version.txt
+          git rev-parse HEAD > outputs/evidence/source-commit.txt
+          lscpu > outputs/evidence/cpu.txt
+      - name: Run implementation tests
+        run: python -m unittest discover -s tests -v 2>&1 | tee outputs/evidence/tests.log
+      - name: Download and verify official source audio
+        run: python scripts/download_audio.py --data-dir artifacts/input --audio-dir outputs/source/audio 2>&1 | tee outputs/evidence/download.log
+      - name: Regenerate CLAP features without original cache
+        run: python scripts/prepare_features.py --data-dir artifacts/input --audio-dir outputs/source/audio --feature-dir outputs/source/features --weights-dir outputs/source/weights --device cpu 2>&1 | tee outputs/evidence/features.log
+      - name: Reproduce development and evaluation
+        run: python scripts/reproduce.py --data-dir artifacts/input --output-dir outputs/reproduction --regenerated-features outputs/source/features 2>&1 | tee outputs/evidence/reproduce.log
+      - name: Export all five main tables
+        run: python scripts/export_paper_tables.py --data-dir artifacts/input --result-dir outputs/reproduction --output-dir outputs/reproduction/paper_tables 2>&1 | tee outputs/evidence/tables.log
+      - name: Upload numeric evidence only
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: reproduction-evidence-${{ github.run_id }}
+          retention-days: 30
+          if-no-files-found: warn
+          path: |
+            outputs/evidence/
+            outputs/reproduction/
+            outputs/source/audio/download_report.json
+            outputs/source/features/run_report.json
+            outputs/source/features/model_spec.json
+            outputs/source/features/exclusions.json
+            outputs/source/features/manifest.json
+            outputs/source/features/provenance.json

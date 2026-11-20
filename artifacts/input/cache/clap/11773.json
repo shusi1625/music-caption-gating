@@ -1,0 +1,32 @@
+{
+  "track_id": "11773",
+  "split": "development",
+  "artist_id": "696",
+  "captions": [
+    {
+      "caption_id": "86",
+      "caption": "A smooth jazz rendition of a Christmas song that makes me feel calm and happy."
+    }
+  ],
+  "cache_key": "67cc4f93e5ddcf542c821d7b4196e7bee2ea76e493738a863978c141852eb4f2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "fe472c977528ba7403f176d309651b8e8e98773307f7599bb4a69e02ade80bc4",
+    "captions": [
+      {
+        "caption_id": "86",
+        "caption": "A smooth jazz rendition of a Christmas song that makes me feel calm and happy."
+      }
+    ]
+  },
+  "npz_sha256": "cee2fa982e59f92abecfe3d0c5acdfb2616f2afa38c233dddec62b8f93f6a8c5",
+  "decoded_pcm_sha256": "5bb80a0d714d963037c27e618d2419a44f1bd35e645513f482eb058d2df63ea4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.41833260003477335
+}

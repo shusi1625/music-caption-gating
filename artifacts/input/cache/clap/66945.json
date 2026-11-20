@@ -1,0 +1,41 @@
+{
+  "track_id": "66945",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "780",
+      "caption": "Acoustic guitar and vocal only song using open chords with a sad feeling"
+    },
+    {
+      "caption_id": "989",
+      "caption": "Relaxing country song with male voice, consistent rhythm and chord progressions"
+    }
+  ],
+  "cache_key": "887aa7a151bde38dbac1febd22dc15003b52e44b69220527e6252882c179c055",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9e210195f71ab3b845e575560f371b8235f04cbde04a0bf0a575d967d06469fe",
+    "captions": [
+      {
+        "caption_id": "780",
+        "caption": "Acoustic guitar and vocal only song using open chords with a sad feeling"
+      },
+      {
+        "caption_id": "989",
+        "caption": "Relaxing country song with male voice, consistent rhythm and chord progressions"
+      }
+    ]
+  },
+  "npz_sha256": "7ffd7299f34c30d73451d1e875d62f5c2b04f1d990384e51f926eb57a98dbbc8",
+  "decoded_pcm_sha256": "47cbdfffa2b8bc4e5928954800fb682e8138b898a6bc904d32119ff597ab711d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16,
+    17
+  ],
+  "audio_forward_seconds": 0.5562563999556005
+}

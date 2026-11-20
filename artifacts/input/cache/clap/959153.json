@@ -1,0 +1,32 @@
+{
+  "track_id": "959153",
+  "split": "evaluation",
+  "artist_id": "366613",
+  "captions": [
+    {
+      "caption_id": "937",
+      "caption": "Sad instrumental piano song that feels like is telling a story and that one can be put on in the background to listen while alone"
+    }
+  ],
+  "cache_key": "6cf2bbe66fab587da1020f219f00a19e79ce3f3d21d8467711d983f5242163bf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "71bce4c5d58369875e4c3cfa356d81bc12b3248ac651f4148b670a432943096a",
+    "captions": [
+      {
+        "caption_id": "937",
+        "caption": "Sad instrumental piano song that feels like is telling a story and that one can be put on in the background to listen while alone"
+      }
+    ]
+  },
+  "npz_sha256": "860fc4fde577f30e3d045d00be61a7023c0a0b277d33923620daf2afd71359cb",
+  "decoded_pcm_sha256": "c973f7931c6874733f3399715ccc40e9f8bf45d4c2636f943cae03854c420064",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.4806928001344204
+}

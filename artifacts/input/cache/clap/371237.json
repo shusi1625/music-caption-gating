@@ -1,0 +1,32 @@
+{
+  "track_id": "371237",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "253",
+      "caption": "A french song that opens with an answering machine sample and then evolves into a alt rock track with frenetic guitar split by a accordion-like synth track"
+    }
+  ],
+  "cache_key": "ecd51545605a84cf360e0a0fd01d414b143ff7e0304981e7a47c21e4d8439134",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "40c5cdf1b94f100bb46a215a8d05c99d950a10bde15d10b70c4dfefce9bfc076",
+    "captions": [
+      {
+        "caption_id": "253",
+        "caption": "A french song that opens with an answering machine sample and then evolves into a alt rock track with frenetic guitar split by a accordion-like synth track"
+      }
+    ]
+  },
+  "npz_sha256": "b22e2b4241b0590204c2b7efa5f91c54523782b79490157214333641b3f1a7b7",
+  "decoded_pcm_sha256": "d2e9032feb33f6f02d9d3b8c9e13bc2326c5d0230e01200c04a40eff1daf1d53",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4402274996973574
+}

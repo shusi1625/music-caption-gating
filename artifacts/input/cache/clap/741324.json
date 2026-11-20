@@ -1,0 +1,32 @@
+{
+  "track_id": "741324",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "1062",
+      "caption": "Rock and pop song that is upbeat and hopeful after going through something negative that can be listened to individually in a drive"
+    }
+  ],
+  "cache_key": "ebeafa6e0654384c5c81ed16fa2f3c2a751bd62ac8d24b18782db55f60b98c2b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "158465fb3a2d93a246bf8bb64d30dabbb150271937d458efff1f812a8a3bf3a9",
+    "captions": [
+      {
+        "caption_id": "1062",
+        "caption": "Rock and pop song that is upbeat and hopeful after going through something negative that can be listened to individually in a drive"
+      }
+    ]
+  },
+  "npz_sha256": "9de9029865cac055debfef1d1c8b499c980d4d4775e7e79b31219d742b006800",
+  "decoded_pcm_sha256": "16670053a03ef0bc1c1dd063cbde0dd665208127ccee059c10b5a717f28f8d7a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.44131379993632436
+}

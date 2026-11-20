@@ -1,0 +1,41 @@
+{
+  "track_id": "83867",
+  "split": "evaluation",
+  "artist_id": "336397",
+  "captions": [
+    {
+      "caption_id": "124",
+      "caption": "Energetic guitar and cajon duo accompanied by a portuguese singing woman."
+    },
+    {
+      "caption_id": "607",
+      "caption": "Joyful Brazilian samba with a flamenco guitar and a soft female voice."
+    }
+  ],
+  "cache_key": "18c211122407956e5f1f792de922bd6ad4b12ee3fcaf57cacee8451e72f26e35",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a9b0e9620cc1200bbc508938dfc67f54062b67dec0fbf0d9ea50c8993b363d9b",
+    "captions": [
+      {
+        "caption_id": "124",
+        "caption": "Energetic guitar and cajon duo accompanied by a portuguese singing woman."
+      },
+      {
+        "caption_id": "607",
+        "caption": "Joyful Brazilian samba with a flamenco guitar and a soft female voice."
+      }
+    ]
+  },
+  "npz_sha256": "2e8a02318b2354dd4c79ee8196db797095d5c67c910a4e55da544b15512af98e",
+  "decoded_pcm_sha256": "55caa4b7a5c5388f30b5de4a36775b1a8afa609886873516fb43340f87cab627",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20,
+    19
+  ],
+  "audio_forward_seconds": 0.5373964002355933
+}

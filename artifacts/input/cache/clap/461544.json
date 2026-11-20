@@ -1,0 +1,32 @@
+{
+  "track_id": "461544",
+  "split": "evaluation",
+  "artist_id": "341332",
+  "captions": [
+    {
+      "caption_id": "659",
+      "caption": "An energetic rock and roll song, accompanied by a nervous electric guitar."
+    }
+  ],
+  "cache_key": "9b4af53ec0f7317a559117803a9e94411a1b36c51c959eedd8b029e4bbb9b706",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b1771dfd3ddf0c9c8ca99d9669060fc434e9a586434b402c3df1248e4e22b7ab",
+    "captions": [
+      {
+        "caption_id": "659",
+        "caption": "An energetic rock and roll song, accompanied by a nervous electric guitar."
+      }
+    ]
+  },
+  "npz_sha256": "fbdc5466211d823c52e66a365ecc300e216c0c173d9d55d094219c18f49ba350",
+  "decoded_pcm_sha256": "eb2879a23bf87bf4440be591d5f85ffd4e9e3b45282add9c361a739804d3f194",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4984494000673294
+}

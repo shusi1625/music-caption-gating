@@ -1,0 +1,32 @@
+{
+  "track_id": "14046",
+  "split": "evaluation",
+  "artist_id": "1659",
+  "captions": [
+    {
+      "caption_id": "981",
+      "caption": "This track feels like OST of a musical movie which is based in London, full of fog and mystery."
+    }
+  ],
+  "cache_key": "c2ccb7a7c5ba5aa58adae0d6c211996425ad1aafde64c1c17c6000aa0c6a5af7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "822846297b84c07285c09aec2469063f507c6aaa934f74df1106452896ff0c68",
+    "captions": [
+      {
+        "caption_id": "981",
+        "caption": "This track feels like OST of a musical movie which is based in London, full of fog and mystery."
+      }
+    ]
+  },
+  "npz_sha256": "dd70f294bf4ff1f8f08f72012bd781927077c4c732acb04b23d83bf030a7fd74",
+  "decoded_pcm_sha256": "ee5c81952903bc1b9bf0f4ba4860c5d58d2437cba2defb77a53378d20256e92c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.5001225001178682
+}

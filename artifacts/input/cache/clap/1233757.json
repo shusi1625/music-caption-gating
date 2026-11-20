@@ -1,0 +1,32 @@
+{
+  "track_id": "1233757",
+  "split": "development",
+  "artist_id": "4729",
+  "captions": [
+    {
+      "caption_id": "160",
+      "caption": "An ambient mix of reverberant sparkling clean and flamenco style electric guitars, ethereal other worldly vocals, and light conga percussion."
+    }
+  ],
+  "cache_key": "c4f1b195aef4ce1b484922c1f7acb766bd3a9527fbd169c7f117e2cfa9a5356c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c2e3945d115e29d10f90a88f06332a768d99f342553c3e0bf32453051011713e",
+    "captions": [
+      {
+        "caption_id": "160",
+        "caption": "An ambient mix of reverberant sparkling clean and flamenco style electric guitars, ethereal other worldly vocals, and light conga percussion."
+      }
+    ]
+  },
+  "npz_sha256": "47c5ba22f09c832b6032c2d554ab61a97d3587a0f83ab5968ff4f24414d21170",
+  "decoded_pcm_sha256": "23cb5f8d1a4650762c6c1aff528962c09d179063962b96747bb599a2e189e20c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    30
+  ],
+  "audio_forward_seconds": 0.534672699868679
+}

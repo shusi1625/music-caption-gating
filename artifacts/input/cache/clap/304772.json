@@ -1,0 +1,32 @@
+{
+  "track_id": "304772",
+  "split": "evaluation",
+  "artist_id": "348448",
+  "captions": [
+    {
+      "caption_id": "827",
+      "caption": "Mix of latin, rock and reggae sung in spanish with an energetic feel leading to an electric guitar solo"
+    }
+  ],
+  "cache_key": "5e5d976f7ec212b300821aa5e445d71fb574ed23e00d8d6c078bbcdf97c7ea78",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d9a7201a1a3dff7c01170f2bb4a5138ddaaca89e249966664b679af698881bf8",
+    "captions": [
+      {
+        "caption_id": "827",
+        "caption": "Mix of latin, rock and reggae sung in spanish with an energetic feel leading to an electric guitar solo"
+      }
+    ]
+  },
+  "npz_sha256": "1b88f6c09f9951fcd7e959ab067876ca177e0a44f9fe47ef8a08f4ac2257ea98",
+  "decoded_pcm_sha256": "810382a3531fe645ffc2e53028a9848043cb634052156414a1280af21dc6f375",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.5986068998463452
+}

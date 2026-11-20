@@ -1,0 +1,32 @@
+{
+  "track_id": "276988",
+  "split": "evaluation",
+  "artist_id": "347328",
+  "captions": [
+    {
+      "caption_id": "954",
+      "caption": "A track with brit rock essence accompanied with pan flute melody."
+    }
+  ],
+  "cache_key": "5c7bdd45e36d75d2a68f3fd2d27cc43feff54279cb745233b87decf242b72a15",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f465cc64ce1416acf161f2f2ede138b4131aeb05a3a70135e05379241e8f2359",
+    "captions": [
+      {
+        "caption_id": "954",
+        "caption": "A track with brit rock essence accompanied with pan flute melody."
+      }
+    ]
+  },
+  "npz_sha256": "57b20cfc79d2563043cb785f4fc76fede69846af22dbeb50fd6485502b11a1ae",
+  "decoded_pcm_sha256": "ec55cea7eb83597f319ffc479374342a6cc2e2298f6b7efc4ba448931ea7b103",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.5181788001209497
+}

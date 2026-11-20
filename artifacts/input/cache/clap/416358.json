@@ -1,0 +1,32 @@
+{
+  "track_id": "416358",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "544",
+      "caption": "EDM fast-paced non-vocal track with light four-on-the-floor beat predominantly based around wobble saw bass line and synth melody"
+    }
+  ],
+  "cache_key": "c3297342038abc8c1a9c638be51909a48a99ab4694ae30cde99691b0dc8334a6",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bbe71fce85a36fb540558f1b703f3bd98ebd7dd1956a6196b5bac6459ad23d81",
+    "captions": [
+      {
+        "caption_id": "544",
+        "caption": "EDM fast-paced non-vocal track with light four-on-the-floor beat predominantly based around wobble saw bass line and synth melody"
+      }
+    ]
+  },
+  "npz_sha256": "5c5ba9fe411432b253b91572e6d3942ba3168fa5426f3737935e648123ee421e",
+  "decoded_pcm_sha256": "19aa043dc7cf9b0f2e0a13ec8de5ca13dd0d906e4fb7c091c0800e4623dd4c78",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4474452002905309
+}

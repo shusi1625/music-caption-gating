@@ -1,0 +1,41 @@
+{
+  "track_id": "1053845",
+  "split": "evaluation",
+  "artist_id": "340225",
+  "captions": [
+    {
+      "caption_id": "742",
+      "caption": "Inspiring Synth Arpeggio with Soft Percussion, Technological Background Music"
+    },
+    {
+      "caption_id": "1011",
+      "caption": "a soothing electronic piece with shimmering sounds, tribal percussion and, repetitive synth motif and several layers of pads"
+    }
+  ],
+  "cache_key": "796562da98f726010e51f364c696bfa9321ce516d77b6a7bc899d9ae38749acb",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9d5976951485c519928d10418a77374626cb73f6e69777cc2f9e49e8e69ecfdb",
+    "captions": [
+      {
+        "caption_id": "742",
+        "caption": "Inspiring Synth Arpeggio with Soft Percussion, Technological Background Music"
+      },
+      {
+        "caption_id": "1011",
+        "caption": "a soothing electronic piece with shimmering sounds, tribal percussion and, repetitive synth motif and several layers of pads"
+      }
+    ]
+  },
+  "npz_sha256": "686f64a1f6c0a802d991982ab0a80830161ec42a19efc7997793346d813b1c99",
+  "decoded_pcm_sha256": "3c7666176d64efd4dd39068a92500acefaeb4b9fa74901f54b566a8043fcfd30",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    19,
+    23
+  ],
+  "audio_forward_seconds": 0.44060490000993013
+}

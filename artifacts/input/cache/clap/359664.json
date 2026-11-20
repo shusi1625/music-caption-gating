@@ -1,0 +1,32 @@
+{
+  "track_id": "359664",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "249",
+      "caption": "This is a slow piano progression that evokes themes of americana, hope, and builds to a climax without vocals"
+    }
+  ],
+  "cache_key": "e8b68e8a7360b29deebf4ef3f47900dcce4acdcb977d6701f210da9eea1e5712",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f9ac09fc08085802e7d9cb43b409199ed59afb2b176a46fb2892d7c1f217d379",
+    "captions": [
+      {
+        "caption_id": "249",
+        "caption": "This is a slow piano progression that evokes themes of americana, hope, and builds to a climax without vocals"
+      }
+    ]
+  },
+  "npz_sha256": "16740df1e62be597aae69e69fa61c6b4729cc550f333d295867bd211706c7f3d",
+  "decoded_pcm_sha256": "3109aed6a79abda2902602cc7f95a39ca87a073113f15873ae90a0b352e9a8bb",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.454405200202018
+}

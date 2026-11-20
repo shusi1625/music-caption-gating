@@ -1,0 +1,32 @@
+{
+  "track_id": "73153",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "421",
+      "caption": "This song has a murky, underwater sound with panicked vocals"
+    }
+  ],
+  "cache_key": "7e5f64378d70e23626c4b7966c387cb52ef420f6e8b8a603a52e692dc5874dda",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f842a0021269923723445af9bf0a0ffe55a88759c038fd576d73b78f51d29bc2",
+    "captions": [
+      {
+        "caption_id": "421",
+        "caption": "This song has a murky, underwater sound with panicked vocals"
+      }
+    ]
+  },
+  "npz_sha256": "1b18ff8a3be2db7476653f5da0b2a9722bde953cd58f60366ad323e546b4673f",
+  "decoded_pcm_sha256": "bd629e1bf86c7a49637eac7bc66a2e0a5f499ef1786fa31e3134dafe6c0c9247",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4377234000712633
+}

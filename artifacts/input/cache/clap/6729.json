@@ -1,0 +1,32 @@
+{
+  "track_id": "6729",
+  "split": "evaluation",
+  "artist_id": "937",
+  "captions": [
+    {
+      "caption_id": "877",
+      "caption": "Sad song on piano and vocals only that can be heard in a blues bar"
+    }
+  ],
+  "cache_key": "42c5a33986f1f900dc1a6c51dd475e18f7a896ffc8b459ccaea6a3d570708361",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "00686ab0a3c6b13a1d4b3731ad1629aedd42a8c41091bc367c3220b02b8e46a3",
+    "captions": [
+      {
+        "caption_id": "877",
+        "caption": "Sad song on piano and vocals only that can be heard in a blues bar"
+      }
+    ]
+  },
+  "npz_sha256": "f309229894147707739a314803e34261914988972eec8a0b109ec289a254eb79",
+  "decoded_pcm_sha256": "528c3e1ec95aff3981b2746ee41c1aa99cced12acd40f71b9dc0f93893aaf542",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.4401525999419391
+}

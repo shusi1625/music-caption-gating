@@ -1,0 +1,32 @@
+{
+  "track_id": "1051203",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "609",
+      "caption": "Mid-tempo pop ballad for piano and female voice in ternary beat."
+    }
+  ],
+  "cache_key": "748db64a892a241b9a629301f2898895620b5f0123c075663e52bae2a6505e94",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "46762024dccfaff1794b67666e2857c5f789ae07d1b3400600854835ff6c0e05",
+    "captions": [
+      {
+        "caption_id": "609",
+        "caption": "Mid-tempo pop ballad for piano and female voice in ternary beat."
+      }
+    ]
+  },
+  "npz_sha256": "84d3b55b22a93b59d71a0779a6eea49a890656e5c5a361b2694bab9a67a47110",
+  "decoded_pcm_sha256": "f251e27ea56951db1f628d6fcd2851c3e86b4672917eddae01b909469c71a03e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.447059900034219
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1051198",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "1030",
+      "caption": "Country-tinged, piano driven pop with a female lead singer"
+    }
+  ],
+  "cache_key": "abf295d5a8c1d247f7d9e3959017a2da61f0b0f7afd3d4b16f537249da2f576e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d30671da61f9dea2dfdb7a9244d99d21b97d2f4a421ff29e584d2412d9748909",
+    "captions": [
+      {
+        "caption_id": "1030",
+        "caption": "Country-tinged, piano driven pop with a female lead singer"
+      }
+    ]
+  },
+  "npz_sha256": "665163cf0fbd1ea6b59bd11beeffe3262707e39414b6809df6f801f172510467",
+  "decoded_pcm_sha256": "11873f1f11888defb61d9110a50b4439857d3709f97b04460d50718874de5976",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.45840750029310584
+}

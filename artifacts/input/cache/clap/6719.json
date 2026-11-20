@@ -1,0 +1,32 @@
+{
+  "track_id": "6719",
+  "split": "evaluation",
+  "artist_id": "937",
+  "captions": [
+    {
+      "caption_id": "647",
+      "caption": "This moody track features a very soothing male vocal and piano gives a sensation of peace within."
+    }
+  ],
+  "cache_key": "ce1dba2b281aa0f7a2e519da73764d5c982c8bbb301dc3d5df05c1ebb1db5911",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "03e354a9ccd21a0dfe4cd94f9029e27bf3ec05296cf3ba063b2207d40e92dd0b",
+    "captions": [
+      {
+        "caption_id": "647",
+        "caption": "This moody track features a very soothing male vocal and piano gives a sensation of peace within."
+      }
+    ]
+  },
+  "npz_sha256": "72925b0e75c517598de226f1580853b665c359fb664435d0582f5538c6b8d528",
+  "decoded_pcm_sha256": "a4ec7e6edc7d7c1bf2f5a91a515d4fe254137aae0b43b6bc2195c921a8bbac6b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4589953003451228
+}

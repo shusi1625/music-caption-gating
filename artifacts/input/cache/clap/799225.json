@@ -1,0 +1,32 @@
+{
+  "track_id": "799225",
+  "split": "development",
+  "artist_id": "370191",
+  "captions": [
+    {
+      "caption_id": "339",
+      "caption": "An epic soundtrack with drums and choirs that conveys a sense of tension, defiance and danger."
+    }
+  ],
+  "cache_key": "ef996ff44d4a706f270bdc55e1528b5dc2d84bb53673542d977d05fd95b8f764",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "911948f084394b807651ddaec6f04f3841ee860d54caad6918c83528d5108ffc",
+    "captions": [
+      {
+        "caption_id": "339",
+        "caption": "An epic soundtrack with drums and choirs that conveys a sense of tension, defiance and danger."
+      }
+    ]
+  },
+  "npz_sha256": "f5d0abdc8da22e77e05e5295de40e8e8b3ef30e028d2421f665ec0c239c54dfb",
+  "decoded_pcm_sha256": "8e32a83fb2f577e1cb67a8372d0f1100726e3e58cd09e3012f53883be659c6ac",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.5256600002758205
+}

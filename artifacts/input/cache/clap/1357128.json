@@ -1,0 +1,32 @@
+{
+  "track_id": "1357128",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "858",
+      "caption": "Upbeat, encouraging pop song with male voice, with an electric guitar accompaniment."
+    }
+  ],
+  "cache_key": "64f18a7eb640e9a5b3b2affd799e02b465fadd145adbd90ab6bc1296a62c8fb2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1193cc54a1c3edb73ba5cc1d6902f8cc2607fe433ecc0832957956cdfcaf98a5",
+    "captions": [
+      {
+        "caption_id": "858",
+        "caption": "Upbeat, encouraging pop song with male voice, with an electric guitar accompaniment."
+      }
+    ]
+  },
+  "npz_sha256": "3cc68a424a4e2c72b0efef8fd01a808f1356978bc24723e5ddae8b59a84d2da2",
+  "decoded_pcm_sha256": "05e7773e033bbd1db3a3d342736106625b52bcb2d2b16dc6deebb1d3039b84e0",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.5210862001404166
+}

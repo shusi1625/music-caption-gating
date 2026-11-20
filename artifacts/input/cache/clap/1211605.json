@@ -1,0 +1,32 @@
+{
+  "track_id": "1211605",
+  "split": "development",
+  "artist_id": "465566",
+  "captions": [
+    {
+      "caption_id": "1103",
+      "caption": "Slow pop song played only on piano and vocals that may remind you of a sad memory or a hurt that you have felt in your lifetime"
+    }
+  ],
+  "cache_key": "3477837d2454645fb9af612d74d61428167b43844e918cd0bf327e25dc01ff1e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ebcc65747e0899cf543363741e0b7d172152a23bf0cf442b80ffd7545940fe62",
+    "captions": [
+      {
+        "caption_id": "1103",
+        "caption": "Slow pop song played only on piano and vocals that may remind you of a sad memory or a hurt that you have felt in your lifetime"
+      }
+    ]
+  },
+  "npz_sha256": "2f0f03bbad6adbe0a2fe6f4380fa529588e23aa65807e8d2b26b825ac3a485ac",
+  "decoded_pcm_sha256": "bb759f3c6487ba570410e87870c70057fa72c13ebff83611e345823d227315ce",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.45598640013486147
+}

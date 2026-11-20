@@ -1,0 +1,32 @@
+{
+  "track_id": "202741",
+  "split": "development",
+  "artist_id": "6615",
+  "captions": [
+    {
+      "caption_id": "762",
+      "caption": "An alternative rock song with a male lead singer,  drums and an electric guitar with a little distorsion."
+    }
+  ],
+  "cache_key": "2bea594f48f078e0a12131fde02966736e315783986955342f9bbde971ff4302",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7ab53bc867d905cf5592a63d7c3cddcb3b65c5ad40e32d936cd6971e7e475f51",
+    "captions": [
+      {
+        "caption_id": "762",
+        "caption": "An alternative rock song with a male lead singer,  drums and an electric guitar with a little distorsion."
+      }
+    ]
+  },
+  "npz_sha256": "fd2535dac639dd010b40f23e1b11545c0692550b8e261fca370a4315b60ae150",
+  "decoded_pcm_sha256": "87769a289021fbf5dbc2c82f77066d5ab30906162a6a5164dd52962d3c5792c4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.5424389997497201
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "599226",
+  "split": "development",
+  "artist_id": "348998",
+  "captions": [
+    {
+      "caption_id": "680",
+      "caption": "A pleasant instrumental folk song with acoustic guitars and violins that conveys a sense of peace and happiness."
+    }
+  ],
+  "cache_key": "c1a36342f5e5f702a37a55efeacb69001353cb59e0886864131c61c0f4b06a28",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9e60b9b7e1d2294a538487b6ac0eb36140e1066c7cfc4248f2029ce8eb7f1ef5",
+    "captions": [
+      {
+        "caption_id": "680",
+        "caption": "A pleasant instrumental folk song with acoustic guitars and violins that conveys a sense of peace and happiness."
+      }
+    ]
+  },
+  "npz_sha256": "195abf2a22d2a0ccddba0297bd21b89291ded35c3ef80885838b8de0ca760bfe",
+  "decoded_pcm_sha256": "e5915fb03233023900290162cf6eab9ffc50f9af22373b54557711dbbe71cd39",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.4473447999916971
+}

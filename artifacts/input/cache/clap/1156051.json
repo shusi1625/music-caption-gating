@@ -1,0 +1,32 @@
+{
+  "track_id": "1156051",
+  "split": "evaluation",
+  "artist_id": "434614",
+  "captions": [
+    {
+      "caption_id": "63",
+      "caption": "A folk song with a bitter-sweet acoustic guitar and a pleasant sounding male vocalist, that turns into a melancholic duet with a female voice."
+    }
+  ],
+  "cache_key": "493827831e18f939f157be8c74a418f13b3c01e89d05350933b5a5ab27734c2b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "86d1c667de896b23e21dc8643fb31f36556b8d03a4b70abe11532482661f6400",
+    "captions": [
+      {
+        "caption_id": "63",
+        "caption": "A folk song with a bitter-sweet acoustic guitar and a pleasant sounding male vocalist, that turns into a melancholic duet with a female voice."
+      }
+    ]
+  },
+  "npz_sha256": "f420def1f8e2fce6a06a6f5c7118bbdf8f03b84a3da83846a6921d8db9ffa80f",
+  "decoded_pcm_sha256": "2411db98c54b2c6c35da7b8b245d39e15a444434ae282ec542e307cec68b01b3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.574665299616754
+}

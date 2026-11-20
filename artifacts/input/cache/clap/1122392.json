@@ -1,0 +1,41 @@
+{
+  "track_id": "1122392",
+  "split": "evaluation",
+  "artist_id": "442559",
+  "captions": [
+    {
+      "caption_id": "376",
+      "caption": "Drum’n bass song that makes it hard not to shake your head or feet while listening."
+    },
+    {
+      "caption_id": "864",
+      "caption": "Electronic music with a high energy vibe that can possibly be used for a spin class or dance floor"
+    }
+  ],
+  "cache_key": "8fdbb0efa36e785dfa790bfeb3411d72952cbb3117ab2ac646762dde79a9d5f3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "71eb5558b3eb3fea137369734090d445b43e2a209f1ae597b7036cbd58bf2cb1",
+    "captions": [
+      {
+        "caption_id": "376",
+        "caption": "Drum’n bass song that makes it hard not to shake your head or feet while listening."
+      },
+      {
+        "caption_id": "864",
+        "caption": "Electronic music with a high energy vibe that can possibly be used for a spin class or dance floor"
+      }
+    ]
+  },
+  "npz_sha256": "e2c074386baabd44042c7e96aae1f94a5fbfd408f097958d2edb2b932371af76",
+  "decoded_pcm_sha256": "fce8e55e202fa5730396f005e5b22259905b5888f6e7f67ac244fd4d18e92cbf",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    22
+  ],
+  "audio_forward_seconds": 0.438096399884671
+}

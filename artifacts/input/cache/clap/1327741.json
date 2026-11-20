@@ -1,0 +1,32 @@
+{
+  "track_id": "1327741",
+  "split": "evaluation",
+  "artist_id": "488254",
+  "captions": [
+    {
+      "caption_id": "958",
+      "caption": "Portuguese-spoken ska track with usual melody and instruments."
+    }
+  ],
+  "cache_key": "32088a23b161ec66a3944a332400a4b4cb427fcef6918f91cc4f2ca647e5af66",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a1a0737e38981c81a96965605e657e70d9e74328d3b2d7d71f963d28a9bcd1d0",
+    "captions": [
+      {
+        "caption_id": "958",
+        "caption": "Portuguese-spoken ska track with usual melody and instruments."
+      }
+    ]
+  },
+  "npz_sha256": "8ea3257ac317311bec45ebca0dbb99c217cc5d1936732fb5b49f6271ff28bb4f",
+  "decoded_pcm_sha256": "533a6b8fdeac694c55ec7fa0b3b64237fe337b008d3a2bfe7e72230530422d3e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.5292107001878321
+}

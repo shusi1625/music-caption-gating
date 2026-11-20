@@ -1,0 +1,32 @@
+{
+  "track_id": "492277",
+  "split": "development",
+  "artist_id": "336764",
+  "captions": [
+    {
+      "caption_id": "42",
+      "caption": "A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."
+    }
+  ],
+  "cache_key": "ddcebb88e01b57ec13700ae38b0a2b2599b699c66a91bc3ff393d8560b22775d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "071cfa04d19a99d909268415c65f426ef00a92777a8a5018e9a9e838d48715ec",
+    "captions": [
+      {
+        "caption_id": "42",
+        "caption": "A retro-futurist drum machine groove drenched in bubbly synthetic sound effects and a hint of an acid bassline."
+      }
+    ]
+  },
+  "npz_sha256": "e7e8914c95bc1afec3fa372ccbd246f516b1c9c5b2621ad4942730f68586b7e1",
+  "decoded_pcm_sha256": "542775e7390263db006ca3f67ec334fbfa1117eabf4fa73c6eac682fbc1d412d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.59575380012393
+}

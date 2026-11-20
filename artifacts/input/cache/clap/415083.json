@@ -1,0 +1,32 @@
+{
+  "track_id": "415083",
+  "split": "development",
+  "artist_id": "353090",
+  "captions": [
+    {
+      "caption_id": "671",
+      "caption": "A lively and fun ska song in Spanish with energetic brass sections."
+    }
+  ],
+  "cache_key": "0c771c66b2c31adb2897cc96381625bae21ed3e0ecdbb956eca9c9784b91742c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "62d3e5e55e1e02a4d23b49b1d2066bd3e7bbfd23df9656d3a8c6aa8cb55a4661",
+    "captions": [
+      {
+        "caption_id": "671",
+        "caption": "A lively and fun ska song in Spanish with energetic brass sections."
+      }
+    ]
+  },
+  "npz_sha256": "7d131691c80f619d68807f8461ba472260a9b4f9a977d9065c609d1bb4656972",
+  "decoded_pcm_sha256": "590f226bab4fc3441a51481fbe68ca3ef53d6334f9472757e8ff0420a8a62edf",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.5802913000807166
+}

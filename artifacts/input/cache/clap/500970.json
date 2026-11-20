@@ -1,0 +1,41 @@
+{
+  "track_id": "500970",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "293",
+      "caption": "An upbeat, dancing electro track perfect for an epic commercial"
+    },
+    {
+      "caption_id": "460",
+      "caption": "Uplifting house beat with bright synths and a rubbery bass line."
+    }
+  ],
+  "cache_key": "661406bda3009d38dfcdb8cb67f18c7d4ef4a853222479906cb6d6a963f380f6",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a179401d390129c444bed286d06e0eb356bc28db426655721c881cf406f7af83",
+    "captions": [
+      {
+        "caption_id": "293",
+        "caption": "An upbeat, dancing electro track perfect for an epic commercial"
+      },
+      {
+        "caption_id": "460",
+        "caption": "Uplifting house beat with bright synths and a rubbery bass line."
+      }
+    ]
+  },
+  "npz_sha256": "19478962c27de9c76a2b686104aeacdcaab5ac0e1d299b4dc8cc94520af4466b",
+  "decoded_pcm_sha256": "c58540111d5152aef874b0c7c1d83ef527f652d7f92113607c685b4aa681cd6a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13,
+    18
+  ],
+  "audio_forward_seconds": 0.5384810999967158
+}

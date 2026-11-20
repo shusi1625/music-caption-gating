@@ -1,0 +1,41 @@
+{
+  "track_id": "1157362",
+  "split": "evaluation",
+  "artist_id": "440692",
+  "captions": [
+    {
+      "caption_id": "122",
+      "caption": "Chill house music with a rising energy level and a soothing beat drop."
+    },
+    {
+      "caption_id": "177",
+      "caption": "Synthpop song featuring arpeggiated synths and a reverberant male vocal and stuttering vocal effects."
+    }
+  ],
+  "cache_key": "29b417b26429aa0c0275c9a8d6530d2ebbadf7a92248660645e5d10b48bffc93",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d44e9ca0334b2415103150023d4ee6d958006615f590775f4271d2119430653b",
+    "captions": [
+      {
+        "caption_id": "122",
+        "caption": "Chill house music with a rising energy level and a soothing beat drop."
+      },
+      {
+        "caption_id": "177",
+        "caption": "Synthpop song featuring arpeggiated synths and a reverberant male vocal and stuttering vocal effects."
+      }
+    ]
+  },
+  "npz_sha256": "4f6c887fb8f06e8abec0051793f4d4033756550369a05a7cf8d8facbac8eacdd",
+  "decoded_pcm_sha256": "5714407f62476ee29b3e0c48bba6a23e893e005e8550606fb8d147f8e48e17a9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17,
+    25
+  ],
+  "audio_forward_seconds": 0.4309752001427114
+}

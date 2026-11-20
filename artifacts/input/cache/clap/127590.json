@@ -1,0 +1,32 @@
+{
+  "track_id": "127590",
+  "split": "evaluation",
+  "artist_id": "1493",
+  "captions": [
+    {
+      "caption_id": "926",
+      "caption": "A traditional heavy metal riff intro with a transition to grunge-like verse."
+    }
+  ],
+  "cache_key": "7d8d1385677e0eba25e80528b12c2215c86f63fbe8e92ba09be8a35781e2e03f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "aa7ab96255f5e5cf8a3b8bd4cd3b46fbc72e9c8f7ae11f5dccee478e0ab38baa",
+    "captions": [
+      {
+        "caption_id": "926",
+        "caption": "A traditional heavy metal riff intro with a transition to grunge-like verse."
+      }
+    ]
+  },
+  "npz_sha256": "11f16233092377c4243ccea86c77747b74093a215c9197a56a42ba006f5216a3",
+  "decoded_pcm_sha256": "9139728509c3940f579053cdb6dd5549a3b67d7512a6b75a3320af31bcb531e4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.5038231001235545
+}

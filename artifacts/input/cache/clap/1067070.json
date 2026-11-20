@@ -1,0 +1,32 @@
+{
+  "track_id": "1067070",
+  "split": "development",
+  "artist_id": "358348",
+  "captions": [
+    {
+      "caption_id": "257",
+      "caption": "This is an experimental electronic songs, with noisy synths and a male voice speaking a slavic language."
+    }
+  ],
+  "cache_key": "e268d2f8ecb66281f41e0c1a3ef6ee8275a6cfe21c9f522850198646d21f4f7a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6fbddc86cfb34ae00dc5e9308d96f875625d840de90e3be54297577fbf208967",
+    "captions": [
+      {
+        "caption_id": "257",
+        "caption": "This is an experimental electronic songs, with noisy synths and a male voice speaking a slavic language."
+      }
+    ]
+  },
+  "npz_sha256": "1d131876b9f7c95b6b02bbd7f7c483eeb86c9771454f864c14c0cf1ba97e3800",
+  "decoded_pcm_sha256": "8b0505ce5028f88956e21bdf969d69807a817b58c640a8a5ff812e28d45c969d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.43163059977814555
+}

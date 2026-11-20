@@ -1,0 +1,32 @@
+{
+  "track_id": "344328",
+  "split": "development",
+  "artist_id": "350222",
+  "captions": [
+    {
+      "caption_id": "462",
+      "caption": "A serene track that utilises a soft piano melody and invokes romantic or nature imagery as if it were used in a film soundtrack for background music."
+    }
+  ],
+  "cache_key": "d46ccc3017533b6ce91ec3d2149cd051f9580a871808f254ab1ea222e29ed083",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "da703f7f55d7c618bbab1f90b4a44dd79e0227f351b2f68de69a137396cbd602",
+    "captions": [
+      {
+        "caption_id": "462",
+        "caption": "A serene track that utilises a soft piano melody and invokes romantic or nature imagery as if it were used in a film soundtrack for background music."
+      }
+    ]
+  },
+  "npz_sha256": "69e8200f1a1670d99a7972e22782a366a76de3e2f9398097eb21546bb76db53f",
+  "decoded_pcm_sha256": "f315989b21b74e313a0fbed99bd426ff863aa933b05c0c2554ae129f4c0644b1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4454510002397001
+}

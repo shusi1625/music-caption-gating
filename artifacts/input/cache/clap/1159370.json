@@ -1,0 +1,32 @@
+{
+  "track_id": "1159370",
+  "split": "evaluation",
+  "artist_id": "369180",
+  "captions": [
+    {
+      "caption_id": "538",
+      "caption": "An electronic chill out track featuring some instrument similar to santur."
+    }
+  ],
+  "cache_key": "212b4522c6e11f6b39c2a70a1db44e602c12405bfe9557e1d0e384fd03e4476b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "99a97cefb4291da17c1b47507e1d0da41e88b6f0c2c76c95dd48ad4238dcaaef",
+    "captions": [
+      {
+        "caption_id": "538",
+        "caption": "An electronic chill out track featuring some instrument similar to santur."
+      }
+    ]
+  },
+  "npz_sha256": "d551c796a9a097749c60f76d1859c363078a0c9329370e6d80624952724ea9a2",
+  "decoded_pcm_sha256": "c4bf7bc95c12a1d16c9c827e1a2d0529ab07077bdb63a2ac7f49a09adb2b92a9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4365098997950554
+}

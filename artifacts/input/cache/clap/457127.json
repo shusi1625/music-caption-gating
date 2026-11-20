@@ -1,0 +1,32 @@
+{
+  "track_id": "457127",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "854",
+      "caption": "Mid tempo blues swing song that one might find in a casual bar setting for people to dance to"
+    }
+  ],
+  "cache_key": "b809430bac5160337d530f00cf80da6cf40d2fce85c0022945d3882fa54af073",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "91bd200b37d01184c63aa65319001bc87f5001c30833ea9b139be3e4371a8c2c",
+    "captions": [
+      {
+        "caption_id": "854",
+        "caption": "Mid tempo blues swing song that one might find in a casual bar setting for people to dance to"
+      }
+    ]
+  },
+  "npz_sha256": "c331ed31945f6714e8d4c33ff5cf1577ae1633da91f2447e7014df9f4dd3695b",
+  "decoded_pcm_sha256": "fe3c0f09b359c11cf5b48460e6770eae01054d9bbf52c9bb911d07110b60d5f1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.5471235001459718
+}

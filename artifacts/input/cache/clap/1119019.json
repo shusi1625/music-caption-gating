@@ -1,0 +1,41 @@
+{
+  "track_id": "1119019",
+  "split": "development",
+  "artist_id": "6615",
+  "captions": [
+    {
+      "caption_id": "857",
+      "caption": "A rock song that transitions between calming humming melody and regular rock singing giving a change of feel throughout the song"
+    },
+    {
+      "caption_id": "1021",
+      "caption": "A slow-paced rock song with ominous synth sounds, some chromatism, a male vocalist and choir echoing in the background."
+    }
+  ],
+  "cache_key": "08a6ee97318f4b8c4d604aeab55ec2ec1580edc1f5a2083025182d913ec2ac32",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1cbb54079e8c89e2dc2b4ad9edd1406f3b6e9621407c01088b8bb0b707c39468",
+    "captions": [
+      {
+        "caption_id": "857",
+        "caption": "A rock song that transitions between calming humming melody and regular rock singing giving a change of feel throughout the song"
+      },
+      {
+        "caption_id": "1021",
+        "caption": "A slow-paced rock song with ominous synth sounds, some chromatism, a male vocalist and choir echoing in the background."
+      }
+    ]
+  },
+  "npz_sha256": "a98008b0df32663a1d6880eef60f4def56869974b6e5b5938c3da965f333ef11",
+  "decoded_pcm_sha256": "1e5c9ad8371bf66559299061b3807e7452709a9724570fc84c6a3ccaa06969a9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    28
+  ],
+  "audio_forward_seconds": 0.48095789970830083
+}

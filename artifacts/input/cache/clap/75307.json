@@ -1,0 +1,32 @@
+{
+  "track_id": "75307",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "400",
+      "caption": "Melodramatic French soft metal song, with distorted guitar, harmonized vocals and glockenspiel introduction"
+    }
+  ],
+  "cache_key": "8b03f531649eda58e1ed668f190a5d494b89a1e8875081e2cf857d58e53fb5ee",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "0c2802d37b1b7ec055ba4b7ace8510b9c37d216b2523dcd7c132d2b19515f7fc",
+    "captions": [
+      {
+        "caption_id": "400",
+        "caption": "Melodramatic French soft metal song, with distorted guitar, harmonized vocals and glockenspiel introduction"
+      }
+    ]
+  },
+  "npz_sha256": "c04dd1639bf2a2ca404be28032c770c7bde7f64033a3b6597b73d8c9b2124442",
+  "decoded_pcm_sha256": "996b1f0d119a6c4bb8acf96f262057396069c101bb15ce90c926ccf92b7d2d84",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.5624376996420324
+}

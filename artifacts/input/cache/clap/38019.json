@@ -1,0 +1,32 @@
+{
+  "track_id": "38019",
+  "split": "development",
+  "artist_id": "3901",
+  "captions": [
+    {
+      "caption_id": "31",
+      "caption": "electronic music with glassy synthesizer and stereo effects, and various textured synth leads"
+    }
+  ],
+  "cache_key": "f6e8e89cfc70a8078e81c293fd8665b4f4874fb07f2a0908105201b864a2b230",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2b1653e2a73ab4dfab7d8f1795c3c995168ae64c238fbaf8ca2cacd0a4069adc",
+    "captions": [
+      {
+        "caption_id": "31",
+        "caption": "electronic music with glassy synthesizer and stereo effects, and various textured synth leads"
+      }
+    ]
+  },
+  "npz_sha256": "7a97ed25af40b6de4e17e77108f6bda5c26eed89f6b447e4f1b92538594d3b2a",
+  "decoded_pcm_sha256": "56df3ec4d105fd181bac0c88f98d3aa3dc5657a260e9b70e7d1680a923163a7e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.4124452001415193
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1169701",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "26",
+      "caption": "A pop song with a lazily sang male vocal and catchy guitar strumming"
+    }
+  ],
+  "cache_key": "cc7e20cf701c9edf6c2cac88cffaac8ada89053083ad671565f810fb5fe8b22f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9ef9d07781c6589052e94622a64b2c3ba40d6627e56884cd9f74cfd7d2c960d4",
+    "captions": [
+      {
+        "caption_id": "26",
+        "caption": "A pop song with a lazily sang male vocal and catchy guitar strumming"
+      }
+    ]
+  },
+  "npz_sha256": "fb5a1bc2fab77c98bfc92d7e8365309dc50fcd271cfca0d3218e2a27562976ef",
+  "decoded_pcm_sha256": "f77b2eeb31b27351215cf02888cace6f4bdd1ddee1441cc74dbc956caa35d523",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.5492159998975694
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1397143",
+  "split": "evaluation",
+  "artist_id": "439371",
+  "captions": [
+    {
+      "caption_id": "606",
+      "caption": "Genre seems like a band music and reminds me of fun happy party"
+    }
+  ],
+  "cache_key": "7f6c527929435d8679a65631bac5db15e183a4c11b10afac41f32852e76b185b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4398d814109f928033999cf6ab10f3e876763e9dfa29a7696900ed99029ca536",
+    "captions": [
+      {
+        "caption_id": "606",
+        "caption": "Genre seems like a band music and reminds me of fun happy party"
+      }
+    ]
+  },
+  "npz_sha256": "a61b56d11703ede78a1d799e3ba0c640bc94ed4cf9e08a7196b33366cda99680",
+  "decoded_pcm_sha256": "04384c845f89298211d5775f5d0d036e6e8168f3f92e98933a428d5edcda4534",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4469955996610224
+}

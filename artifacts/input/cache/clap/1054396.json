@@ -1,0 +1,32 @@
+{
+  "track_id": "1054396",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "712",
+      "caption": "fast and fun beat-based indie pop to set a protagonist-gets-good-at-x movie montage to."
+    }
+  ],
+  "cache_key": "512d2d4cba98ac89efca7bb61c31bf143bdf3c6981a73138453bc64ff7cbc2eb",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6c56343174be43ee81cc888b44fab06661775dc1c7139f07d362e225b2cbc184",
+    "captions": [
+      {
+        "caption_id": "712",
+        "caption": "fast and fun beat-based indie pop to set a protagonist-gets-good-at-x movie montage to."
+      }
+    ]
+  },
+  "npz_sha256": "a8c6460dad36da0d4b7f483b87cf62147146148cf74ca6db23a9efdf8c3d325a",
+  "decoded_pcm_sha256": "ae1fa7a77337bc4c2d3382514348b876488269c2530bdf96c00270985bcb87c1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.4470806000754237
+}

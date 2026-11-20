@@ -1,0 +1,32 @@
+{
+  "track_id": "786935",
+  "split": "evaluation",
+  "artist_id": "369146",
+  "captions": [
+    {
+      "caption_id": "1051",
+      "caption": "A country tune with a male lead voice and some backing vocals, played with several guitars, some of them using slide."
+    }
+  ],
+  "cache_key": "c6d5dacf242b45f1674f320b7e1db57f94673cad80d21b6020b48d7cd4a1bf44",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "cfe5e46607bae5f4c9c6ce885b9a6ffa6d777bbc5f30f2ec97d46a187d3727d0",
+    "captions": [
+      {
+        "caption_id": "1051",
+        "caption": "A country tune with a male lead voice and some backing vocals, played with several guitars, some of them using slide."
+      }
+    ]
+  },
+  "npz_sha256": "9102b9f853b6087fd7118c0aedf372c9807c650830dd8a7ef075717d15bc8a46",
+  "decoded_pcm_sha256": "6c6a2f5350317027d58535f9a4d1267b64d6cfd9cab2d9cb1927fd079b64418b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.4453141996636987
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1115108",
+  "split": "evaluation",
+  "artist_id": "348835",
+  "captions": [
+    {
+      "caption_id": "16",
+      "caption": "An upbeat catchy indie hip hop song with an upheat jazzy/R&B chorus and energetic rap verses."
+    }
+  ],
+  "cache_key": "6acd83c75991df92e5c62cc5c9d5bd6a42d583e02596706fa106f3e443d2a572",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b0ee50390440e3285f055944fff205029add95182e9deba4f9434f392654d572",
+    "captions": [
+      {
+        "caption_id": "16",
+        "caption": "An upbeat catchy indie hip hop song with an upheat jazzy/R&B chorus and energetic rap verses."
+      }
+    ]
+  },
+  "npz_sha256": "0fcade5d4d58455f2d0c08d8714f37c45cba653adf8492370390ba7ec9c6849b",
+  "decoded_pcm_sha256": "62c4fdee3849043e870ad92dc52a0c776ed8007f504c71211d861f427b01aa2f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.4348637000657618
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "1051197",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "32",
+      "caption": "Happy piano ballad with a female singer, building up into a full band singer-songwriter pop song."
+    },
+    {
+      "caption_id": "156",
+      "caption": "A female led slow piano ballad detailing a trip to Yosemite and the metaphorical feelings of isolation and a break up."
+    }
+  ],
+  "cache_key": "d30aa5434530dfd04a5ffacc9a399d59a46dadfc310e6fa85deb277623149147",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1c466cb906c4088ebc0550061feb0dc7e617e44f9c8df0b4a30fc760d3f91e81",
+    "captions": [
+      {
+        "caption_id": "32",
+        "caption": "Happy piano ballad with a female singer, building up into a full band singer-songwriter pop song."
+      },
+      {
+        "caption_id": "156",
+        "caption": "A female led slow piano ballad detailing a trip to Yosemite and the metaphorical feelings of isolation and a break up."
+      }
+    ]
+  },
+  "npz_sha256": "95bde47b1badc7946828e393fcc103fd36f34ddabbde6c70c2d1cba9b31a2e6d",
+  "decoded_pcm_sha256": "1d53ab5ba6265ae9f1c9f7e99c0ee182e802e015db0e01a6c45213102b33a55f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24,
+    26
+  ],
+  "audio_forward_seconds": 0.5004209000617266
+}

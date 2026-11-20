@@ -1,0 +1,32 @@
+{
+  "track_id": "208937",
+  "split": "development",
+  "artist_id": "341459",
+  "captions": [
+    {
+      "caption_id": "503",
+      "caption": "Soothing ambient soundscape with characteristic piano flourishes and a soft drum backdrop"
+    }
+  ],
+  "cache_key": "187fe2555a81037fc20e87099e934d0a15525c4697fbb6d17aeb3bd78f6543d2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1ab993a1df6f53f83741528b46688d040eae4a996eee916699cc9c3c11065db7",
+    "captions": [
+      {
+        "caption_id": "503",
+        "caption": "Soothing ambient soundscape with characteristic piano flourishes and a soft drum backdrop"
+      }
+    ]
+  },
+  "npz_sha256": "1ea409237c81d148e1144e9bcf19caa402c6143acb6bcaa4ea22ff8460c705e5",
+  "decoded_pcm_sha256": "7f6f515fff602844622ad8171037644a682a47220467838a265d59f0e2424662",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.6633120002225041
+}

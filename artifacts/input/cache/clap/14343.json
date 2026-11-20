@@ -1,0 +1,32 @@
+{
+  "track_id": "14343",
+  "split": "evaluation",
+  "artist_id": "1377",
+  "captions": [
+    {
+      "caption_id": "449",
+      "caption": "excessive cymbal sounds in rock song sung in Spanish with less singing and more instrumentals"
+    }
+  ],
+  "cache_key": "49cea33dbafd0b7fff9b9595a4ede7f65be027a8d9a96f9744817200104dc4a1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "77e65b1e806ceec1ae6e83188a950b860a91b549a1f14307a4b64b1d4871375a",
+    "captions": [
+      {
+        "caption_id": "449",
+        "caption": "excessive cymbal sounds in rock song sung in Spanish with less singing and more instrumentals"
+      }
+    ]
+  },
+  "npz_sha256": "69b792e6a4abf86f50ec84321e7d3da73108dbeeb80a0789eaeca6bcb1a511c4",
+  "decoded_pcm_sha256": "6b8d724b55f85dceeaca7125c3edb260a94c2bd8a70ef2dd333affc162c3764a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.41856520017609
+}

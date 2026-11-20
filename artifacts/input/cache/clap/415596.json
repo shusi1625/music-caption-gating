@@ -1,0 +1,32 @@
+{
+  "track_id": "415596",
+  "split": "evaluation",
+  "artist_id": "353120",
+  "captions": [
+    {
+      "caption_id": "749",
+      "caption": "Psychedelic rock with raggae rhythm featuring electric guitar with phaser effects, bass and drums but no vocals"
+    }
+  ],
+  "cache_key": "ca59358a6ede830b4c3492854b3af680841433b3e1d836fbfc2e0212223b75b6",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "dd02ab77587bf8ab66ca2ecea124a1cd7c83704e8c838162d98ef303e21e9af9",
+    "captions": [
+      {
+        "caption_id": "749",
+        "caption": "Psychedelic rock with raggae rhythm featuring electric guitar with phaser effects, bass and drums but no vocals"
+      }
+    ]
+  },
+  "npz_sha256": "a86941c7f557703efacb9e6c9d38b716f332278d71bce56fac2d1ca34d9ee8d4",
+  "decoded_pcm_sha256": "0af48392a034a6efb31cca906fff91abe71c6e4198330f9e8450d25f70234574",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.46212949976325035
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "752758",
+  "split": "evaluation",
+  "artist_id": "343843",
+  "captions": [
+    {
+      "caption_id": "747",
+      "caption": "Rising sweling violin instrumental that elicites calm floating ephemeral emotion."
+    }
+  ],
+  "cache_key": "1fdf2ca9c10aa3ce8a783c7eccf076c9d52d9cb647a011efdb8662afa436bab8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "cef9e78b53d6a8986429a39cd31741fd78b792f626dbb95197ae39bc392bd43f",
+    "captions": [
+      {
+        "caption_id": "747",
+        "caption": "Rising sweling violin instrumental that elicites calm floating ephemeral emotion."
+      }
+    ]
+  },
+  "npz_sha256": "9af031008a41b9cd5d740cf7d4dcb17e4c4cddbe42a2d06b21877e9f51d9b815",
+  "decoded_pcm_sha256": "44f70889b371c5b496ce52a6412405bc35ac5bb7ccf312afe3fa53b0c8d445df",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.4316416000947356
+}

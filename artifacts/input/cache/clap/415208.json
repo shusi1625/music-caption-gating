@@ -1,0 +1,32 @@
+{
+  "track_id": "415208",
+  "split": "development",
+  "artist_id": "353090",
+  "captions": [
+    {
+      "caption_id": "498",
+      "caption": "A lively and happy ska song featuring energetic brass and children vocals."
+    }
+  ],
+  "cache_key": "5461c4c922ae2ac79797d5507ebde9d691e25f0952efe8ec0b9baaa66ce83584",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ed7ea4e0be02381799ef3ac02449c1d94c0fb46c551d96a0f8e2b7e7eb2c6c43",
+    "captions": [
+      {
+        "caption_id": "498",
+        "caption": "A lively and happy ska song featuring energetic brass and children vocals."
+      }
+    ]
+  },
+  "npz_sha256": "15d8a98d7322715ca10e18cc05e4b697fec4de091c4930548f46ffca6c2cdd6e",
+  "decoded_pcm_sha256": "738e4bd111cf859f55ac6ddc31b9ec66ee21e7ecbeb3d725c73a190f70636f75",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4409170001745224
+}

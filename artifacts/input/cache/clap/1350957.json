@@ -1,0 +1,32 @@
+{
+  "track_id": "1350957",
+  "split": "evaluation",
+  "artist_id": "490314",
+  "captions": [
+    {
+      "caption_id": "521",
+      "caption": "A positive instrumental tune to get you up in the morning with a big smile on your face."
+    }
+  ],
+  "cache_key": "c5beef23768f4661dc04e6fc00d6b835f9f80deb948551f3fe9d56d3e025b9d4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "262ef07e9f540cd26ef3d2ce4b1024af911b4d5b109825465c47240cbe901e25",
+    "captions": [
+      {
+        "caption_id": "521",
+        "caption": "A positive instrumental tune to get you up in the morning with a big smile on your face."
+      }
+    ]
+  },
+  "npz_sha256": "08c2c449327c3d57f52c810c43144a4fa13f2f0e71e54e50420455512df1dd8d",
+  "decoded_pcm_sha256": "4b8e9f4ccab2f871144797c1111cbd38e860de8d6566e6cb72a4eb643f8b32f8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.47216949984431267
+}

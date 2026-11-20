@@ -1,0 +1,41 @@
+{
+  "track_id": "261271",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "19",
+      "caption": "Romantic acoustic song with female voice, with some French vibes in the chords."
+    },
+    {
+      "caption_id": "186",
+      "caption": "The track is a mid-tempo song in the genre of soft modern rock and consists of electric guitar, bass, drums, and female vocals."
+    }
+  ],
+  "cache_key": "850c7a308ac461b5294c8e8b37054a7ee4c087cf2c75f0b5b341d88702070383",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6761a5b0b1b6106c3b8937c3089ae5182c248168e6fb02730ebb2a03dc3824e8",
+    "captions": [
+      {
+        "caption_id": "19",
+        "caption": "Romantic acoustic song with female voice, with some French vibes in the chords."
+      },
+      {
+        "caption_id": "186",
+        "caption": "The track is a mid-tempo song in the genre of soft modern rock and consists of electric guitar, bass, drums, and female vocals."
+      }
+    ]
+  },
+  "npz_sha256": "77651af6b286608e79303cb3e964f2f58e0e00f793114613d2a6362f8a2bcbfc",
+  "decoded_pcm_sha256": "3b0e962b39d72caeaa1edbef178b3452938a59d8d8f0d02950b782c267200bc4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19,
+    32
+  ],
+  "audio_forward_seconds": 0.42645870009437203
+}

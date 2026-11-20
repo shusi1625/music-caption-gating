@@ -1,0 +1,41 @@
+{
+  "track_id": "206596",
+  "split": "evaluation",
+  "artist_id": "341332",
+  "captions": [
+    {
+      "caption_id": "51",
+      "caption": "This track starts with a man signing with a robotic register, before a rubbery, slightly sinister synth counters"
+    },
+    {
+      "caption_id": "611",
+      "caption": "Exciting and enthusiastic French love song sung by a male voice featuring a tambourine or a shaker during the refrain."
+    }
+  ],
+  "cache_key": "d60e41808427c820f02726e250ed44a201d5d2924489c72eada2480b7554bba5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "cf3ea5b54c86d850ef7e979d646d5b1124c312766f1f3a5b98b94a4b37709b4b",
+    "captions": [
+      {
+        "caption_id": "51",
+        "caption": "This track starts with a man signing with a robotic register, before a rubbery, slightly sinister synth counters"
+      },
+      {
+        "caption_id": "611",
+        "caption": "Exciting and enthusiastic French love song sung by a male voice featuring a tambourine or a shaker during the refrain."
+      }
+    ]
+  },
+  "npz_sha256": "60c1678e89630cac89320aba031939c9034c8205fc7176f444fe9347b163388c",
+  "decoded_pcm_sha256": "a2a764504538690b180dcf2df440c2328a9820b56802d821f5e790bc124334b4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    28
+  ],
+  "audio_forward_seconds": 0.5342609998770058
+}

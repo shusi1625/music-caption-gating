@@ -1,0 +1,32 @@
+{
+  "track_id": "1180633",
+  "split": "evaluation",
+  "artist_id": "7349",
+  "captions": [
+    {
+      "caption_id": "423",
+      "caption": "Repetitive dancefloor track with loud synths and a simple beat"
+    }
+  ],
+  "cache_key": "90b7c5faa5a6693937cdcfda7a7b2e5acb6a95afe52c546e9f9fc2a832e4e928",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "231487dc1e9e0d7dd40cbc6f3314c56442487bcdf292a0e5a0e2a8623dfb86a2",
+    "captions": [
+      {
+        "caption_id": "423",
+        "caption": "Repetitive dancefloor track with loud synths and a simple beat"
+      }
+    ]
+  },
+  "npz_sha256": "b82f1125d354edf0e78d3c0545ba08d7a1ea4e7e556456671ad21bae9acda2dc",
+  "decoded_pcm_sha256": "48fe40e5ccbf0d200b17fb59967b454e96d2c775cc87d278dd06f730a7c94592",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.6275245998986065
+}

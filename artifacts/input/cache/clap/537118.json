@@ -1,0 +1,32 @@
+{
+  "track_id": "537118",
+  "split": "development",
+  "artist_id": "358187",
+  "captions": [
+    {
+      "caption_id": "1038",
+      "caption": "The song does not have one specific genre as it jumps between rock, reggae and a bit of rap using instruments across various spectrum as well but mainly constituting of the guitar, drums and saxophone"
+    }
+  ],
+  "cache_key": "28ef8527b2d47aaff01a3734b363422c783c98ca643a66ca076a78dbd88f0b8b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f549b2eafbf7c7dbac21d40533bd3534fadac77feccf1ed78ea7675175eef0b1",
+    "captions": [
+      {
+        "caption_id": "1038",
+        "caption": "The song does not have one specific genre as it jumps between rock, reggae and a bit of rap using instruments across various spectrum as well but mainly constituting of the guitar, drums and saxophone"
+      }
+    ]
+  },
+  "npz_sha256": "ab1c66554ff5bb1a2d393b440f5147c67d0915b6fd7cf575b4b858655915b324",
+  "decoded_pcm_sha256": "5109972fb482985ac97268fb4034501a19e85cb58413e7aea1f6403c02317a46",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    42
+  ],
+  "audio_forward_seconds": 0.423014999832958
+}

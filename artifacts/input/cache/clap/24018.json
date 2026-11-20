@@ -1,0 +1,41 @@
+{
+  "track_id": "24018",
+  "split": "development",
+  "artist_id": "3581",
+  "captions": [
+    {
+      "caption_id": "771",
+      "caption": "90's dance pop song for a club night back then"
+    },
+    {
+      "caption_id": "1043",
+      "caption": "Electronic instrumental music with a base melody that stays the same throughout the song and other melodies are layered on top that can be used in a club or casual listening"
+    }
+  ],
+  "cache_key": "7b5e7ace25f6e970e62bd0c6ba3e15b21a5ef05012d06a82536d649e8feddf6e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "917b848268eadb5f2055a8707a3b8e0929f449bd28552b17d2549bf767b6cde1",
+    "captions": [
+      {
+        "caption_id": "771",
+        "caption": "90's dance pop song for a club night back then"
+      },
+      {
+        "caption_id": "1043",
+        "caption": "Electronic instrumental music with a base melody that stays the same throughout the song and other melodies are layered on top that can be used in a club or casual listening"
+      }
+    ]
+  },
+  "npz_sha256": "85ac56052ef9b5dd2bd5ecce3a2bba16a969fce235cbc762061427a8c6046fd9",
+  "decoded_pcm_sha256": "8f82c855557e98f97245122e2ca533758a01ce0dc9e98c26130fd7891830f3a2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13,
+    34
+  ],
+  "audio_forward_seconds": 0.42760050017386675
+}

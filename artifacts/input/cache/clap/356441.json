@@ -1,0 +1,41 @@
+{
+  "track_id": "356441",
+  "split": "evaluation",
+  "artist_id": "340710",
+  "captions": [
+    {
+      "caption_id": "378",
+      "caption": "A dull rock song with a male vocal, out-of-sync drums and reggae rhythm guitar."
+    },
+    {
+      "caption_id": "943",
+      "caption": "Reggae beat but with a blues rock element that can be used for various environments such as relaxing, background music in a bar, driving etc."
+    }
+  ],
+  "cache_key": "8ffbde6d2ba8dcca0fc24b570fb89d3c13caeb2e6e5917e0764b8677fffa6cd5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "071bbe827dad64353642e057f48e58518928f0b681c343b08d37dd811c271330",
+    "captions": [
+      {
+        "caption_id": "378",
+        "caption": "A dull rock song with a male vocal, out-of-sync drums and reggae rhythm guitar."
+      },
+      {
+        "caption_id": "943",
+        "caption": "Reggae beat but with a blues rock element that can be used for various environments such as relaxing, background music in a bar, driving etc."
+      }
+    ]
+  },
+  "npz_sha256": "06ad316988a00fbb0ad3cd1f9e9e31c5facf8f7138e8ec362323e3572b09df2f",
+  "decoded_pcm_sha256": "6e3be250eca857b75c3a69455c3866de60ae07e46780f59c49273c8189cb535e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    32
+  ],
+  "audio_forward_seconds": 0.4215601999312639
+}

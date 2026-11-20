@@ -1,0 +1,32 @@
+{
+  "track_id": "727905",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "209",
+      "caption": "Its an ambient song, with electronic elements like a synth, delayed piano, sine wave oscillators, no vocal, can come under the background, mysterious vibe, relaxing as well"
+    }
+  ],
+  "cache_key": "c51bdaf69dd3d9e8f4b831c6ba3ba7e017160693a67575db07cbcbfe182328b2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "27e3f56acef1f629464a7a7bc434d6cbde4ca4602c4738f1241728a0c9ac212c",
+    "captions": [
+      {
+        "caption_id": "209",
+        "caption": "Its an ambient song, with electronic elements like a synth, delayed piano, sine wave oscillators, no vocal, can come under the background, mysterious vibe, relaxing as well"
+      }
+    ]
+  },
+  "npz_sha256": "8904b675855e1b3dee1a9798a01109e862e7abc44bcc2055fa8802eb4e570e3e",
+  "decoded_pcm_sha256": "2868438a094d4dbde5d69e7b423d83319f5b83035c400c69b423301d0983138b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    38
+  ],
+  "audio_forward_seconds": 0.43421229999512434
+}

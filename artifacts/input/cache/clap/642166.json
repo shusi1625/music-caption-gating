@@ -1,0 +1,32 @@
+{
+  "track_id": "642166",
+  "split": "evaluation",
+  "artist_id": "362723",
+  "captions": [
+    {
+      "caption_id": "756",
+      "caption": "this indie rock song is happy and energetic, it has distorted and phasy guitars, bright drums and features asian lyrics singed by a male."
+    }
+  ],
+  "cache_key": "201fcde065270260d3c650c5632276e5d026fee15b3e9f473a59745b875b914a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "85924de1cc6172d3e47422292dabf1401b65ad38b80dfd5a3e53e62e4c89251d",
+    "captions": [
+      {
+        "caption_id": "756",
+        "caption": "this indie rock song is happy and energetic, it has distorted and phasy guitars, bright drums and features asian lyrics singed by a male."
+      }
+    ]
+  },
+  "npz_sha256": "72efbdf00cd80ed9326575cdca487c5640a7af51902bcbee4504d38d3474e27f",
+  "decoded_pcm_sha256": "4d595716e53ac04b7b5816cd8b1fbf110551e33bd2b6776aa74b3568787ecd80",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32
+  ],
+  "audio_forward_seconds": 0.4393760999664664
+}

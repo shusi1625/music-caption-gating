@@ -1,0 +1,41 @@
+{
+  "track_id": "1162014",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "273",
+      "caption": "A modern garage rock track, with strong drums, male vocals, a distorted guitar riff in the verse, strummed chords in the chorus that has also backing vocals, and an upbeat bridge at the end."
+    },
+    {
+      "caption_id": "532",
+      "caption": "An energetic an fun alternative rock song that features a catchy riff and a bouncy male vocal with some back vocals shouting \"it could be you\"."
+    }
+  ],
+  "cache_key": "bc42caf0e9a9b2c973f823142ed6a458d6635b1986820bd992562d0221c76226",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8ffb01dfff7c44a8d85d8d7f0a0e62a9eb47e16c48609ad431bd5047fcd40293",
+    "captions": [
+      {
+        "caption_id": "273",
+        "caption": "A modern garage rock track, with strong drums, male vocals, a distorted guitar riff in the verse, strummed chords in the chorus that has also backing vocals, and an upbeat bridge at the end."
+      },
+      {
+        "caption_id": "532",
+        "caption": "An energetic an fun alternative rock song that features a catchy riff and a bouncy male vocal with some back vocals shouting \"it could be you\"."
+      }
+    ]
+  },
+  "npz_sha256": "b59730ec41bac6fedc5d47bff7610dab283a9f18054ece0b434eca133c7d3632",
+  "decoded_pcm_sha256": "272603e673e57002182b6e8cfe3100fe7bcf9549d27d026b2aa7827c915d5ef5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    44,
+    31
+  ],
+  "audio_forward_seconds": 0.43438339978456497
+}

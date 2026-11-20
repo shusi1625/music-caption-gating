@@ -1,0 +1,32 @@
+{
+  "track_id": "43986",
+  "split": "development",
+  "artist_id": "6079",
+  "captions": [
+    {
+      "caption_id": "383",
+      "caption": "Indie folk-rock song sung by a young male vocal with things to say."
+    }
+  ],
+  "cache_key": "ed69d78c19ea3e26eea9444b9cea931cda7f3785c21730e4f914c78cbe92a5e7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b00d0fa6165e0bc5794d59a785d81c467dc7f83e53f654f6dfbba7895acd566c",
+    "captions": [
+      {
+        "caption_id": "383",
+        "caption": "Indie folk-rock song sung by a young male vocal with things to say."
+      }
+    ]
+  },
+  "npz_sha256": "f2a3c426a7b20ab70f1b93a716ee1ecb0c39659a73153ab17b9d44ce96e3a2b1",
+  "decoded_pcm_sha256": "a5a5bc339c9cd2f595e10ddaee07e9cc781f1c6b5f89c975e78f536c6dc3c942",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.48608520021662116
+}

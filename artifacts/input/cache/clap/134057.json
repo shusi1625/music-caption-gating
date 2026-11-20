@@ -1,0 +1,32 @@
+{
+  "track_id": "134057",
+  "split": "evaluation",
+  "artist_id": "337328",
+  "captions": [
+    {
+      "caption_id": "471",
+      "caption": "Futuristic jazz track with a saxophone as the main melody."
+    }
+  ],
+  "cache_key": "d7fbdf5393366e1b00e57a93fca2b3690846098e2ef5e527c067e52863f1a38d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9fe3e63bcdf6f3d971d8e4fa8a7891bed30573bedb42d1ee70c7feadf2523ce1",
+    "captions": [
+      {
+        "caption_id": "471",
+        "caption": "Futuristic jazz track with a saxophone as the main melody."
+      }
+    ]
+  },
+  "npz_sha256": "b3e5effec857fc3b173e09816e5df103fb78f9552ea0198c855d739c0c9d0380",
+  "decoded_pcm_sha256": "172dd516418e013349aa3902e4fb164acae997af5aa1d3da720c6255d6d5c67c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.42633610032498837
+}

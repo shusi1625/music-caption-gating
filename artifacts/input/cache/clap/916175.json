@@ -1,0 +1,32 @@
+{
+  "track_id": "916175",
+  "split": "evaluation",
+  "artist_id": "2208",
+  "captions": [
+    {
+      "caption_id": "175",
+      "caption": "A simple reverberant piano track with background discordant ambience."
+    }
+  ],
+  "cache_key": "abf624e7c2d9147d363ca5e528bae213fcf542ebecb5bf5d073b7cf36f589b8d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f800405b39984280e390222eafce9b8e27bf8ee5f1e1e0c617a8a45b41ce809e",
+    "captions": [
+      {
+        "caption_id": "175",
+        "caption": "A simple reverberant piano track with background discordant ambience."
+      }
+    ]
+  },
+  "npz_sha256": "f1f19d9a8b1a65342113460f739aa67a672c937cc6a6ec60d253ebcd30d7d264",
+  "decoded_pcm_sha256": "7f50bb354cfd67451a67922e43b2eb1d28cbcb55cedcb479ff764645f5308748",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.44454910000786185
+}

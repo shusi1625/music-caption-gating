@@ -1,0 +1,32 @@
+{
+  "track_id": "1245182",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "773",
+      "caption": "Lounge music for a summer evening on the beach."
+    }
+  ],
+  "cache_key": "be821d592d8e4b3f876594b7f7078ee242e9e53654cabfc10431999fde9da145",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e89c03aeb281777eccfca1a5caac635161e5b0496a1c5dddecf999d5d5bd3439",
+    "captions": [
+      {
+        "caption_id": "773",
+        "caption": "Lounge music for a summer evening on the beach."
+      }
+    ]
+  },
+  "npz_sha256": "be9a6fa66daa688a2a44fe874e47d46de0eec739e70f840da405589a48e8652e",
+  "decoded_pcm_sha256": "c9606460d764cb971582a2361d2bd8e37e021b3e93239e9a6e7881010706fbcb",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.42707600025460124
+}

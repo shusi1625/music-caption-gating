@@ -1,0 +1,32 @@
+{
+  "track_id": "579644",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "912",
+      "caption": "A guitar folk song with husky male voice"
+    }
+  ],
+  "cache_key": "dc29e42e88d051301ec53e05f6db6c890b4c907feb41d79e128722e55239747b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8ab89073d2ca792b92393af992d87e24d91f4f8ff7a888d74697b29101557dbc",
+    "captions": [
+      {
+        "caption_id": "912",
+        "caption": "A guitar folk song with husky male voice"
+      }
+    ]
+  },
+  "npz_sha256": "73149c7df08f7f5c9601e2ebc4f5786dca37aa77e0afbcdfe18f1664edfb7bb7",
+  "decoded_pcm_sha256": "47968438e333b0b2b2ab18cfeaf438dca53017e4c22d3bd23c1cf6046693e1f8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    11
+  ],
+  "audio_forward_seconds": 0.4917445001192391
+}

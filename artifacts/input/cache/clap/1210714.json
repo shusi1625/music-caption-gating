@@ -1,0 +1,32 @@
+{
+  "track_id": "1210714",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "405",
+      "caption": "A fun upbeat drums section playing with a keyboard and some electronic horn type noises, feels like the automatic song on a keyboard that you'd play in music lessons"
+    }
+  ],
+  "cache_key": "29be00cd7df43509a84f9fc437afff943633f8e912617c6b8cde2db7c42747a1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a331bf537d154f61ae05ebe2099469af06380fbbd1401b70eba6d3058ef9c6af",
+    "captions": [
+      {
+        "caption_id": "405",
+        "caption": "A fun upbeat drums section playing with a keyboard and some electronic horn type noises, feels like the automatic song on a keyboard that you'd play in music lessons"
+      }
+    ]
+  },
+  "npz_sha256": "fbbb6f1887bf5bc5fa70dcb1ba2d374294ed43647d7bbae04abd3cccfdb0264c",
+  "decoded_pcm_sha256": "4585181076bdde9901a03904983453f5aac508d6419def289d5f49fced71144b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.48422700027003884
+}

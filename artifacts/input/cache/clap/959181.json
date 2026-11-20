@@ -1,0 +1,32 @@
+{
+  "track_id": "959181",
+  "split": "evaluation",
+  "artist_id": "366613",
+  "captions": [
+    {
+      "caption_id": "137",
+      "caption": "A rather slow piano track creating a quiet and relaxed ambiance"
+    }
+  ],
+  "cache_key": "26d774f0bddc6177c3e5a16dc003236111b19e55f2b24a028baaacb94f586e24",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bcd0076b4f8075f1995104e2c4915e46e9036b2d8188734fa27c567bfd42ae10",
+    "captions": [
+      {
+        "caption_id": "137",
+        "caption": "A rather slow piano track creating a quiet and relaxed ambiance"
+      }
+    ]
+  },
+  "npz_sha256": "38e27ef0bd4082634f0c32cd4d7d617a5c8c7a7c95d463d96742329b68271982",
+  "decoded_pcm_sha256": "4f1c8f24fe8926e5152fba7ab1ebd42d5c00d980d43ae8fa87a56d63747f3669",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.4314798000268638
+}

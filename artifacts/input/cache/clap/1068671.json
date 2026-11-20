@@ -1,0 +1,32 @@
+{
+  "track_id": "1068671",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "861",
+      "caption": "Sad and dreamy feel sung with a haunting voice and mellow violin that leads into fast beats electronic synths"
+    }
+  ],
+  "cache_key": "e1c49f3e148c4329b36320c47b09f5f262a54884d5b5b82353c5d15240afc6a8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "aa642dad682f61d9c8709f38877f0fc6b9cdedd293cecfb80211991a02e7cc20",
+    "captions": [
+      {
+        "caption_id": "861",
+        "caption": "Sad and dreamy feel sung with a haunting voice and mellow violin that leads into fast beats electronic synths"
+      }
+    ]
+  },
+  "npz_sha256": "22f87e5e062d87fb3869f403197089b47f6c7af52a325d7ace69197ff1ea6dde",
+  "decoded_pcm_sha256": "06e557fdf34a25d494f27741acbcbf75ce687df0700e4186f54549dfd232b7a7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.4339183997362852
+}

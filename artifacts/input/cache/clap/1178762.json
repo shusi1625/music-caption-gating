@@ -1,0 +1,32 @@
+{
+  "track_id": "1178762",
+  "split": "evaluation",
+  "artist_id": "356076",
+  "captions": [
+    {
+      "caption_id": "806",
+      "caption": "Rap song with a slow tempo and explicit lyrics"
+    }
+  ],
+  "cache_key": "d8f217e1bd106f8c5988d15db9a7cf48285e9afdbcaaaafd70e7fa99d31ce49b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "43485d0b189fd7f4ae3edba019d7c24c00d5261cf2aa6112d2bc8f3c98538f31",
+    "captions": [
+      {
+        "caption_id": "806",
+        "caption": "Rap song with a slow tempo and explicit lyrics"
+      }
+    ]
+  },
+  "npz_sha256": "a12e9b283eb6e50972d5ca2c422be38e909696f14d2ae21c460b638842df3729",
+  "decoded_pcm_sha256": "cc4ef21520dadeb4cdc8e5a1d993f18b7bd9136d0c60f9fff85b5b8f63e061dd",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    11
+  ],
+  "audio_forward_seconds": 0.43199399998411536
+}

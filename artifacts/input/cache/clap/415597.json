@@ -1,0 +1,41 @@
+{
+  "track_id": "415597",
+  "split": "evaluation",
+  "artist_id": "353120",
+  "captions": [
+    {
+      "caption_id": "152",
+      "caption": "90s hip hop with a moody synth which gives a very ominous but danceable vibe to it."
+    },
+    {
+      "caption_id": "898",
+      "caption": "This is a very dreamy and meditative track with an intro composed of long synth notes, later joined by a soft and repetitive drums beat."
+    }
+  ],
+  "cache_key": "9ca1266d0500cbd558679a95eda26983e7e5a5f21b27a1a08ef99155e76dc713",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "07525e2f3437b5635d2a5729b106677874179af3de3ffdde398d1f88bb5128f9",
+    "captions": [
+      {
+        "caption_id": "152",
+        "caption": "90s hip hop with a moody synth which gives a very ominous but danceable vibe to it."
+      },
+      {
+        "caption_id": "898",
+        "caption": "This is a very dreamy and meditative track with an intro composed of long synth notes, later joined by a soft and repetitive drums beat."
+      }
+    ]
+  },
+  "npz_sha256": "e281fb7a85738d98c2e1f1ff425fb0309b7fe95ca6b30c8e28ec2fdfdb6d08f6",
+  "decoded_pcm_sha256": "2559bac77e0667a2bf7a83307b07e5d26e2b66b7e4a7c55a02ae5c66f17cb55a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    31
+  ],
+  "audio_forward_seconds": 0.4406568999402225
+}

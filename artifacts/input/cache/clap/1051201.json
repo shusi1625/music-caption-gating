@@ -1,0 +1,41 @@
+{
+  "track_id": "1051201",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "206",
+      "caption": "Vocal pop song with piano accompaniment that is sad with rock-style instrumentation in a professional recording session."
+    },
+    {
+      "caption_id": "425",
+      "caption": "Piano ballad with looping arpeggios and sad emo pop vocals"
+    }
+  ],
+  "cache_key": "07eff779a23a7b3135c6f4d234880a44c6dd0a6cd8aef31e795a6b237a818ddf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "202fd9a1834a68b8092f19eaa00784c05a7eae6048a0093a1d69836ff3b7bb3e",
+    "captions": [
+      {
+        "caption_id": "206",
+        "caption": "Vocal pop song with piano accompaniment that is sad with rock-style instrumentation in a professional recording session."
+      },
+      {
+        "caption_id": "425",
+        "caption": "Piano ballad with looping arpeggios and sad emo pop vocals"
+      }
+    ]
+  },
+  "npz_sha256": "eaa9da5b3b3f801e2e7d7280e8befc4c54213632dd2812bcddf3d65d34516815",
+  "decoded_pcm_sha256": "41867b974bc635d5bb5dc218a7b132b9f78ea5a3d10ffda7d898cb63e62db010",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25,
+    19
+  ],
+  "audio_forward_seconds": 0.5372295002453029
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1115100",
+  "split": "evaluation",
+  "artist_id": "348835",
+  "captions": [
+    {
+      "caption_id": "909",
+      "caption": "Rap song full of pop elements and sound effects, quite classical and simple dispite off the complex post production"
+    }
+  ],
+  "cache_key": "b34124371eacf099e9f6730c8c6e3984494a1686e729b8a7876b11772adf627f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ace457de085d2addd253699122eed9241e0d5cdccb832c8f8bbca20bf216db5a",
+    "captions": [
+      {
+        "caption_id": "909",
+        "caption": "Rap song full of pop elements and sound effects, quite classical and simple dispite off the complex post production"
+      }
+    ]
+  },
+  "npz_sha256": "5312b4eaf900f140c33ee1555b4ab60e4fc99e4e7d6079be573d3ab63f191973",
+  "decoded_pcm_sha256": "2f5594109521a92b2f0bc67a8d7b9e70e58e06a915a648f9f50f2cfa2ca814e6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.55680220015347
+}

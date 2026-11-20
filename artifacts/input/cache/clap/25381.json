@@ -1,0 +1,32 @@
+{
+  "track_id": "25381",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "167",
+      "caption": "Orchestral music with a slow and steady pace that sounds like a soundtrack to a nature movie or documentary."
+    }
+  ],
+  "cache_key": "e6686027e9f376618dbdadb26a3d86554592b7b2e572e190858c3aab585c8397",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "32201a45211fac260e7104082faf043337c368689fb394f881cb32a8c86e66fe",
+    "captions": [
+      {
+        "caption_id": "167",
+        "caption": "Orchestral music with a slow and steady pace that sounds like a soundtrack to a nature movie or documentary."
+      }
+    ]
+  },
+  "npz_sha256": "46f4c76b35ec234711fedb58b82f619d0f6534f529e85b1a18c006804865672c",
+  "decoded_pcm_sha256": "0d16e846507b0e86814cc990bdf1e9a46b97abecb1a3a0d512dc8e517d7c7d20",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.5111043001525104
+}

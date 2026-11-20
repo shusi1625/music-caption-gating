@@ -1,0 +1,41 @@
+{
+  "track_id": "305160",
+  "split": "evaluation",
+  "artist_id": "348448",
+  "captions": [
+    {
+      "caption_id": "483",
+      "caption": "A latin american song with brass and classical guitars, with a male voice and a happy but a bit melancholic feeling despite its catchy rhythm."
+    },
+    {
+      "caption_id": "791",
+      "caption": "An upbeat song with a latin or salsa feel"
+    }
+  ],
+  "cache_key": "a1faf0bfc2a4529d666735231566169035e094699fe3c6daf2ab2c491a3e7a48",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "75cce900b4334bbf283855b571c94620debecd7107693f8a033cc4232e946518",
+    "captions": [
+      {
+        "caption_id": "483",
+        "caption": "A latin american song with brass and classical guitars, with a male voice and a happy but a bit melancholic feeling despite its catchy rhythm."
+      },
+      {
+        "caption_id": "791",
+        "caption": "An upbeat song with a latin or salsa feel"
+      }
+    ]
+  },
+  "npz_sha256": "e6a9d1178057b0ecc933d25801209925161e3e5ea780694b213dbb072a2819eb",
+  "decoded_pcm_sha256": "40b67435cad839cd09612f1b1d304f49895cda842d0b9eea16153c0d52c16802",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32,
+    12
+  ],
+  "audio_forward_seconds": 0.4453854002058506
+}

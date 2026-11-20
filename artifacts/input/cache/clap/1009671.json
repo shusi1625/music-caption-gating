@@ -1,0 +1,41 @@
+{
+  "track_id": "1009671",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "159",
+      "caption": "Uplifting English rock and roll song with a positive feeling."
+    },
+    {
+      "caption_id": "622",
+      "caption": "A classic chord progression used in a playful way to give sound for sunny day."
+    }
+  ],
+  "cache_key": "111b3c7c5776b880560604c25ef97fa2a2e2a5a480cb3e191aa5d89c6456ae70",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7cb0949e9103a84e6afffee7b1318ee7e950ba8701d199f21ce8d39ba31cd4ac",
+    "captions": [
+      {
+        "caption_id": "159",
+        "caption": "Uplifting English rock and roll song with a positive feeling."
+      },
+      {
+        "caption_id": "622",
+        "caption": "A classic chord progression used in a playful way to give sound for sunny day."
+      }
+    ]
+  },
+  "npz_sha256": "1e611e1d5d5310636a0713732da762ae66bea9d95d9f4bc2bde8e985f23c8b9d",
+  "decoded_pcm_sha256": "33279c30a01ef30dc554dbe23db3705306f909dec62ea072cc77393e62b4f6f2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15,
+    18
+  ],
+  "audio_forward_seconds": 0.5281965001486242
+}

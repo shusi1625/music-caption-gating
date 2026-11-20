@@ -1,0 +1,32 @@
+{
+  "track_id": "347858",
+  "split": "evaluation",
+  "artist_id": "340710",
+  "captions": [
+    {
+      "caption_id": "754",
+      "caption": "energetic ska track with driving guitars and drums and brass featuring raw and scratchy vocals"
+    }
+  ],
+  "cache_key": "921a12a0180918d64645548c2fe2a2f340b37cd1c0ea93cfc10aa830f3849ad3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "da05a9e5d0dd28a3f83ffd93edbe19c6404900d29e0e29e20843d9b3bb49cde2",
+    "captions": [
+      {
+        "caption_id": "754",
+        "caption": "energetic ska track with driving guitars and drums and brass featuring raw and scratchy vocals"
+      }
+    ]
+  },
+  "npz_sha256": "5459b0506f62566dec62beea738e86f38c64ffa6faee311af5a99d90d0e1e7e0",
+  "decoded_pcm_sha256": "6731d38d7d36dbb36a18aac7a81d90dfdc34bacfb805bb118a4c3dc9102d88de",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.44379289960488677
+}

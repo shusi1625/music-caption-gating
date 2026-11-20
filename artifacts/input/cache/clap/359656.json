@@ -1,0 +1,41 @@
+{
+  "track_id": "359656",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "73",
+      "caption": "Classical piano piece in major key with a slow start, played beautifully without other instruments, making you close your eyes and find inner peace."
+    },
+    {
+      "caption_id": "986",
+      "caption": "Romantic piano solo piece with a lot of rubato, in the style of Chopin"
+    }
+  ],
+  "cache_key": "b8f106a2894ad1461e84e1f6334e8d3c8bba8a09732b6b8dda49afa26eae9713",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "10fecf068040b824f04970390e3af241faa72d1578392d202fa8330d3d79c07a",
+    "captions": [
+      {
+        "caption_id": "73",
+        "caption": "Classical piano piece in major key with a slow start, played beautifully without other instruments, making you close your eyes and find inner peace."
+      },
+      {
+        "caption_id": "986",
+        "caption": "Romantic piano solo piece with a lot of rubato, in the style of Chopin"
+      }
+    ]
+  },
+  "npz_sha256": "21240c3703d165b6997cdb188c3187ac2177dde5520686eca079d5891e310daa",
+  "decoded_pcm_sha256": "5e878365198335273bf3c5bbcce11a5c4e812622e066d45d26909be43de2c838",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    30,
+    20
+  ],
+  "audio_forward_seconds": 0.4242016999050975
+}

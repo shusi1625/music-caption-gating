@@ -1,0 +1,32 @@
+{
+  "track_id": "1051207",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "8",
+      "caption": "This song is an acoustic singer-songwriter track with female vocals, bluesy harmonies, and trite lyrics; it sounds like something you’d hear at a coffee shop open mic."
+    }
+  ],
+  "cache_key": "79ff710de4bb0a11ee63b0c78eb7b2bb5e5ad0f9e23a03ec4f60c211f543c8da",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a8fb75112351ff822363fa51417fe10e49e5fdec1811ff215fb9ee03bf2fccb6",
+    "captions": [
+      {
+        "caption_id": "8",
+        "caption": "This song is an acoustic singer-songwriter track with female vocals, bluesy harmonies, and trite lyrics; it sounds like something you’d hear at a coffee shop open mic."
+      }
+    ]
+  },
+  "npz_sha256": "c16d06bc44441fe232191476b78092c5bd5fa25a239625e80804ea3366a70611",
+  "decoded_pcm_sha256": "2ab605ca673f88002a742c267e04449840ee211caf9265f3ee6a126827ada60f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    42
+  ],
+  "audio_forward_seconds": 0.42860889993608
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "1356312",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "372",
+      "caption": "A pop-rock love song from the 80's that conveys a quiet sense of positivity."
+    },
+    {
+      "caption_id": "618",
+      "caption": "Pop rock track that makes one sing while driving."
+    }
+  ],
+  "cache_key": "c488ba4e66a77df0dddff5d035ff27c8e05e563d3139c37e4b0dea8e92717732",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a8d843b891f787e4a210a65cd90921261686cc2edcc81f4e5b6dba0702011b27",
+    "captions": [
+      {
+        "caption_id": "372",
+        "caption": "A pop-rock love song from the 80's that conveys a quiet sense of positivity."
+      },
+      {
+        "caption_id": "618",
+        "caption": "Pop rock track that makes one sing while driving."
+      }
+    ]
+  },
+  "npz_sha256": "2fb953e9161fbc46872ed8196cb0db5beb921c37ff56d0be693c2eaee9692706",
+  "decoded_pcm_sha256": "5442d3413d825e7f0853065270917d3d00c42ea5753efd6f1a1b79270ecc4294",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22,
+    12
+  ],
+  "audio_forward_seconds": 0.43037099996581674
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1397144",
+  "split": "evaluation",
+  "artist_id": "439371",
+  "captions": [
+    {
+      "caption_id": "889",
+      "caption": "A high-BPM metal song with a melodic intro riff and solo by an electric guitar."
+    }
+  ],
+  "cache_key": "358df2d6d16844199c782224264f362d8bdc873c539baa25979133af0e27d814",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4388aaf5e05fc662819fceef61370aceb0634e6e2023bbf56d9aa9f1181fca5c",
+    "captions": [
+      {
+        "caption_id": "889",
+        "caption": "A high-BPM metal song with a melodic intro riff and solo by an electric guitar."
+      }
+    ]
+  },
+  "npz_sha256": "12b3ae3a07705a32501d6c351bc58c1ed6cf543312e2715ffe68894af6be4cff",
+  "decoded_pcm_sha256": "30c62b34279549acb7e853f57d6aaef0d7aaa65dc2fd86e81a41b39d894aa46c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.42535259993746877
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1169728",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "819",
+      "caption": "Classical music piano instrumental with a calming dreamy feel"
+    }
+  ],
+  "cache_key": "e5d1548258aca83dc1662bbc48843543bd740042e4a3b9ba52f9ab71d7094988",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a4dd430147e264228d0d8fbb55e94fc67bf7f405ed62ac644ef6204ebb14f227",
+    "captions": [
+      {
+        "caption_id": "819",
+        "caption": "Classical music piano instrumental with a calming dreamy feel"
+      }
+    ]
+  },
+  "npz_sha256": "603be6dfb1e4ef6bcc4e4cc4748ac8dd28b7aa38619f4d87666df931bf665ccc",
+  "decoded_pcm_sha256": "229355be0bdf743fcb95ea7fd9e92bd20dcac1832bb2533d9e79909a65baa7e5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4661781000904739
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "24017",
+  "split": "development",
+  "artist_id": "3581",
+  "captions": [
+    {
+      "caption_id": "189",
+      "caption": "This is quite a basic trance-pop piece, with a buzzy-sounding synth and low-key, amateurish vocals."
+    }
+  ],
+  "cache_key": "363c908053f2d62718c5e32793568f0bf0c909b4c8e465685140bc06bbee0970",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "0ff47b853867c3d878dcfecc6666f06cb6e26dd1678be21a1f484982bedcbd3c",
+    "captions": [
+      {
+        "caption_id": "189",
+        "caption": "This is quite a basic trance-pop piece, with a buzzy-sounding synth and low-key, amateurish vocals."
+      }
+    ]
+  },
+  "npz_sha256": "f2cf4cb9e5f08fa62353b217fb7e39f6c5d2bd8a35bca610d0a77c43280d05ca",
+  "decoded_pcm_sha256": "5a0d1e2d07e672a3e8c380e49412c86fcfa634afed73e735236c1a4424595eac",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.4374461998231709
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1011643",
+  "split": "evaluation",
+  "artist_id": "421874",
+  "captions": [
+    {
+      "caption_id": "633",
+      "caption": "A funky track featuring a clean wobbly guitar, crisp male vocal with some female backing vocals."
+    }
+  ],
+  "cache_key": "cfdf090bc4388f2d4642e8df59257c0fadb2e1086deb3f9bd69c207c4bbf5965",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5c68c52846dd4d1bac9fa26972ca3a5ae91acbe4ae0667502f0208a44eba3f6b",
+    "captions": [
+      {
+        "caption_id": "633",
+        "caption": "A funky track featuring a clean wobbly guitar, crisp male vocal with some female backing vocals."
+      }
+    ]
+  },
+  "npz_sha256": "57417502fcf5b43a30a377442adf392ba8485f918836537fdb1bd2d8319a9edf",
+  "decoded_pcm_sha256": "f4280f289d07e20bf8b182f5f7a633e60f5f413f558e03aecf8959f3c8435ed2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.42918819980695844
+}

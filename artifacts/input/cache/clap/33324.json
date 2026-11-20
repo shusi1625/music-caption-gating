@@ -1,0 +1,32 @@
+{
+  "track_id": "33324",
+  "split": "evaluation",
+  "artist_id": "4658",
+  "captions": [
+    {
+      "caption_id": "1048",
+      "caption": "This midi electronic instrumental has a hopeful and optimistic vibe with melodies that mostly repeat for 4 bars"
+    }
+  ],
+  "cache_key": "e99d222701da2ec7874d415a1618541e8ca0b2295986a8da6346a32fc56fa7cd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "50d500273f24eef26ae68a76acb77f9fbc8d95e2d65c57249d93a82997effeff",
+    "captions": [
+      {
+        "caption_id": "1048",
+        "caption": "This midi electronic instrumental has a hopeful and optimistic vibe with melodies that mostly repeat for 4 bars"
+      }
+    ]
+  },
+  "npz_sha256": "311b4540f5d8e7e836c655e92a708d03a12bcb59f3869419ceadb29324788f4f",
+  "decoded_pcm_sha256": "75a309114325ae080c3c48348c9554f5f2ca3e30ea3f2f10842e7095b441f26e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4248454999178648
+}

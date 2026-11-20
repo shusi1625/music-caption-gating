@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "planned_tracks": 439,
+  "checked_tracks": 439,
+  "retained_tracks": 408,
+  "excluded_tracks": 31,
+  "reused_tracks": 0,
+  "errors": [],
+  "device": "cpu",
+  "elapsed_seconds": 857.7408890998922,
+  "frozen_settings_updated": false,
+  "caption_and_audio_features_regenerated": true,
+  "model_spec_sha256": "4dee66b0e5ab652dbf307525fb12746e66527ebd2ad88fa67e158d7cdc5558c6"
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "5341",
+  "split": "evaluation",
+  "artist_id": "245",
+  "captions": [
+    {
+      "caption_id": "147",
+      "caption": "An instrumental song that uses a lot of human sounds like coughing, screaming."
+    },
+    {
+      "caption_id": "560",
+      "caption": "An anguished instrumental track that builds tension as more instruments join in, while the voice of a person being beaten can be heard."
+    }
+  ],
+  "cache_key": "0ae8f0785e62db540087dbf7d048f07b17f12e7ab14ec106fbf79c8752153412",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9f897ffd173bf6ecf58e9301910ea66e77fe3570fe8b689e523b1c29cb4f1a42",
+    "captions": [
+      {
+        "caption_id": "147",
+        "caption": "An instrumental song that uses a lot of human sounds like coughing, screaming."
+      },
+      {
+        "caption_id": "560",
+        "caption": "An anguished instrumental track that builds tension as more instruments join in, while the voice of a person being beaten can be heard."
+      }
+    ]
+  },
+  "npz_sha256": "3cc719124e26723e78a73827450d78c4c697046364d59ac870b831b699bc4d5d",
+  "decoded_pcm_sha256": "d5fee0e27b94727deaecee911d2f7d34a1ec2877f28dc4f8231602669695ce0c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17,
+    29
+  ],
+  "audio_forward_seconds": 0.5099621000699699
+}

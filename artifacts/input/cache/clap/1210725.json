@@ -1,0 +1,32 @@
+{
+  "track_id": "1210725",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "343",
+      "caption": "Positive instrumental pop song with a strong rhythm and brass section."
+    }
+  ],
+  "cache_key": "13af540f658a5ca00bc326fb782e2f6b2164dfbcd07c195b24739071b7763fda",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6fc79a0f3282d746804f9499d539b890b28b35e54cd6357492e3ce31d1c5eb8d",
+    "captions": [
+      {
+        "caption_id": "343",
+        "caption": "Positive instrumental pop song with a strong rhythm and brass section."
+      }
+    ]
+  },
+  "npz_sha256": "40f6cf1ab47372b76bab2c8f1c5fc3b102779d44b5ca0cf273ebd391b3f3e376",
+  "decoded_pcm_sha256": "82dc0737984958d9b0b89e16c97659cac8ec1b50cc9f333bf3da2260b46fac2c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.4310944997705519
+}

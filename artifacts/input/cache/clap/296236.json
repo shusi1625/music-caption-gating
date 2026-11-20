@@ -1,0 +1,32 @@
+{
+  "track_id": "296236",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "469",
+      "caption": "Futuristic experimental song with piano over a drum and bass rhythm, with an accordion added towards the middle of the song."
+    }
+  ],
+  "cache_key": "33a10ac7e5fd3fdb99d7df1e904869e571f914d6fb5d538704fa9e3a33766019",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8dba90e6a4bb741b3933ec7e749420aad2a48d14676f205d8362319eaf61c248",
+    "captions": [
+      {
+        "caption_id": "469",
+        "caption": "Futuristic experimental song with piano over a drum and bass rhythm, with an accordion added towards the middle of the song."
+      }
+    ]
+  },
+  "npz_sha256": "3bbec47a9ebd1338e12c6622620aba34a8213db3b219cd1a17feb7c7692069d7",
+  "decoded_pcm_sha256": "9297afbe30dd6fd772fd2bfb25472dc552b6a51243cea5846b16ee08b5e7f01a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.46503950003534555
+}

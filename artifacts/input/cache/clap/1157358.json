@@ -1,0 +1,41 @@
+{
+  "track_id": "1157358",
+  "split": "evaluation",
+  "artist_id": "440692",
+  "captions": [
+    {
+      "caption_id": "685",
+      "caption": "This is a hopeful pop song consisting of synths and a male vocal well suited for a morning run."
+    },
+    {
+      "caption_id": "783",
+      "caption": "A common sad pop song about a relationship"
+    }
+  ],
+  "cache_key": "6e155e3583a6241ac428f63b151a93586223a497583621230004bf8d3ebabb10",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a9e31e824ca1c9507b9301eadc2e21fca2ef669c06ee7d80e5c48677dee10599",
+    "captions": [
+      {
+        "caption_id": "685",
+        "caption": "This is a hopeful pop song consisting of synths and a male vocal well suited for a morning run."
+      },
+      {
+        "caption_id": "783",
+        "caption": "A common sad pop song about a relationship"
+      }
+    ]
+  },
+  "npz_sha256": "f60cbefbe5af995dcc816738e0ae1e1f4a81bc02f3856772b58fd85835acf5f7",
+  "decoded_pcm_sha256": "f2228ecb4ccc1775c8193ca9f2c7a834248899a5a61152a2ad1f60d33a04ea7c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    10
+  ],
+  "audio_forward_seconds": 0.42489210003986955
+}

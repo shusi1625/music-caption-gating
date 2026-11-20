@@ -1,0 +1,32 @@
+{
+  "track_id": "1320571",
+  "split": "evaluation",
+  "artist_id": "432338",
+  "captions": [
+    {
+      "caption_id": "1083",
+      "caption": "Cosy folky song featuring male vocals and acoustic guitars"
+    }
+  ],
+  "cache_key": "b44df488b89a386827379f153f54b162b10811a474d6308b98ec2470afee51d9",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b9e4f55697a24815923794e49b7608a62ed9bd3094257cdf9ce2b443c9bd293b",
+    "captions": [
+      {
+        "caption_id": "1083",
+        "caption": "Cosy folky song featuring male vocals and acoustic guitars"
+      }
+    ]
+  },
+  "npz_sha256": "de685a050e5815a27b086e3a714bad2024b9300978295e11cc60d4d773476e18",
+  "decoded_pcm_sha256": "8f9d288af8ac0a23227f6bf23f9eabb34cf974cfe691b7a40bc4e939af3acec5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.49925060011446476
+}

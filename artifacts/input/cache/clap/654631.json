@@ -1,0 +1,32 @@
+{
+  "track_id": "654631",
+  "split": "evaluation",
+  "artist_id": "361694",
+  "captions": [
+    {
+      "caption_id": "467",
+      "caption": "Ambient instrumental piece with a sense of birth from nothing."
+    }
+  ],
+  "cache_key": "ced110ccc16438fd91e25afa1fedf1af600a3c5e35fd6720e92b5e44063063fe",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5e2aed569703786c5c47b34f63f3161f44ce14ec844df986ddffa70f744310be",
+    "captions": [
+      {
+        "caption_id": "467",
+        "caption": "Ambient instrumental piece with a sense of birth from nothing."
+      }
+    ]
+  },
+  "npz_sha256": "5475c7eea80a171978bc4dda0769fef422eade8b8cd1569c9a15cfcaecdf03f6",
+  "decoded_pcm_sha256": "e116bdc4fb27d6a54c73e5a3d0749989778fd99d02e534426bedb6bcdd66724a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.5129402000457048
+}

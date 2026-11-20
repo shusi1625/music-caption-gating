@@ -1,0 +1,41 @@
+{
+  "track_id": "686757",
+  "split": "evaluation",
+  "artist_id": "364767",
+  "captions": [
+    {
+      "caption_id": "397",
+      "caption": "fast-paced upbeat mediterranean style acoustic guitar track you could dance to."
+    },
+    {
+      "caption_id": "667",
+      "caption": "Nervous gypsy instrumental song with jazzy acoustic guitars."
+    }
+  ],
+  "cache_key": "7299f8bcb7bfe08b0a0423772b3db5e5f8cf687b792a719826ce02d022c84402",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "31adfa2c0efd2184c9b01d3a5bafa628108e45dda7ed359b871da3cf195e0355",
+    "captions": [
+      {
+        "caption_id": "397",
+        "caption": "fast-paced upbeat mediterranean style acoustic guitar track you could dance to."
+      },
+      {
+        "caption_id": "667",
+        "caption": "Nervous gypsy instrumental song with jazzy acoustic guitars."
+      }
+    ]
+  },
+  "npz_sha256": "f647cda4b9141c9dd2f6fa44b25f658bb34fec2d34aed97f634c21b9ac15f7a1",
+  "decoded_pcm_sha256": "805885ebf3db3c73e6df2e9a161325de5dd1f80cd83a6dd8fef21f420b82c792",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17,
+    16
+  ],
+  "audio_forward_seconds": 0.42867560032755136
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "48721",
+  "split": "development",
+  "artist_id": "696",
+  "captions": [
+    {
+      "caption_id": "492",
+      "caption": "Soft French jazz instrumental song in ternary rhythm with a lead electric guitar."
+    },
+    {
+      "caption_id": "733",
+      "caption": "It  is a mellow intrumental track with a lead guitar being very present."
+    }
+  ],
+  "cache_key": "81986f3507c98cc9dba4eeb5f6424d8e04ecbbbc31f79caed07aeee2abf061ca",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2a6587b3446a053f74d6675ddc4936ea4da72e8ee4356a24a889b682032511b5",
+    "captions": [
+      {
+        "caption_id": "492",
+        "caption": "Soft French jazz instrumental song in ternary rhythm with a lead electric guitar."
+      },
+      {
+        "caption_id": "733",
+        "caption": "It  is a mellow intrumental track with a lead guitar being very present."
+      }
+    ]
+  },
+  "npz_sha256": "09406bb0607bb44ac62e7165a6627e2d2362bc62839860ee88239b7304c55246",
+  "decoded_pcm_sha256": "172e2c127dd02866dc83369a15ef4f99961cfff9b832087f65d5668281a95d0f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18,
+    20
+  ],
+  "audio_forward_seconds": 0.5785775003023446
+}

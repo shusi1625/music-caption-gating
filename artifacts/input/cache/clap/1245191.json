@@ -1,0 +1,41 @@
+{
+  "track_id": "1245191",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "688",
+      "caption": "This song features a heavy drum beat, synth bass and piano and has some synthesized back vocals through the end."
+    },
+    {
+      "caption_id": "1054",
+      "caption": "A catchy bassline with a drum rhythm sequence introduces the song, followed by a simple chord cadence played on a piano, with some vocals with no lyrics."
+    }
+  ],
+  "cache_key": "b6bfcebe376727eec2a05227b692e4cd4635a03ef88b6bfe0f201840636e50f1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b222d43ce75b54db226dce3be86a37a044ee16a69fb5c4419338cf506081707e",
+    "captions": [
+      {
+        "caption_id": "688",
+        "caption": "This song features a heavy drum beat, synth bass and piano and has some synthesized back vocals through the end."
+      },
+      {
+        "caption_id": "1054",
+        "caption": "A catchy bassline with a drum rhythm sequence introduces the song, followed by a simple chord cadence played on a piano, with some vocals with no lyrics."
+      }
+    ]
+  },
+  "npz_sha256": "0c9b90dd5c4523b45248d10e9e89bce092f6a7dc117ff7cf3337c4dfe4fe8bd7",
+  "decoded_pcm_sha256": "8f7e8169ccf65facb76f9cf515c670b3c1c3eb5fd858c34290078d20ae38dd53",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25,
+    34
+  ],
+  "audio_forward_seconds": 0.43776690028607845
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "686756",
+  "split": "evaluation",
+  "artist_id": "364767",
+  "captions": [
+    {
+      "caption_id": "363",
+      "caption": "A thrilling instrumental track featuring a series of stringed instruments being gradually built into the song, culminating in eastern european vibe section."
+    }
+  ],
+  "cache_key": "597bfb82371d6e184068761221e082196b6a42f78da82d1f13c59837bedfac70",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5e30996a297a029e563cbd866ab278b8718625eafff5c93dccb2a2c8ae452dcb",
+    "captions": [
+      {
+        "caption_id": "363",
+        "caption": "A thrilling instrumental track featuring a series of stringed instruments being gradually built into the song, culminating in eastern european vibe section."
+      }
+    ]
+  },
+  "npz_sha256": "6e6582b8b7bd4d490d31c2d5d6c01c2c1c44affbf8dd326c8a7031e333a40a98",
+  "decoded_pcm_sha256": "001873e97033619ce31e6990709042e107e8980010e40d6d36b152593faa8c9d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.5452070003375411
+}

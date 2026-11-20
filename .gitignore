@@ -1,0 +1,19 @@
+.venv*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+.cache/
+.env
+.env.*
+# Original and regenerated dense features are private runtime assets.
+*.npz
+!artifacts/input/expected/evaluation/raw_arrays.npz
+!artifacts/input/expected/evaluation/bootstrap_weights.npz
+*.mp3
+*.wav
+*.flac
+*.safetensors
+*.pth
+pytorch_model.bin
+

@@ -1,0 +1,13 @@
+-r requirements-eval.txt
+transformers==4.30.0
+huggingface-hub==0.17.2
+tokenizers==0.13.3
+soundfile==0.12.1
+safetensors==0.8.0
+filelock==4.1.0
+typing-extensions==4.16.0
+sympy==1.14.0
+networkx==3.4.2
+jinja2==3.1.6
+# Install CPU torch/torchaudio separately with --no-deps after this file.
+

@@ -1,0 +1,41 @@
+{
+  "track_id": "1163322",
+  "split": "development",
+  "artist_id": "422656",
+  "captions": [
+    {
+      "caption_id": "673",
+      "caption": "A happy and soft jazz song with two saxophones in musical conversation."
+    },
+    {
+      "caption_id": "901",
+      "caption": "This is a calm swing music with drums, synth and trumpet responding to each other and makes you want to bounce."
+    }
+  ],
+  "cache_key": "c302a20d1e355cb6d0a7213f99567f1949750f8f1804eba13017eab1aa8c34f4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1611aa969bd88231926e718d5ff9c53e1388a7e80384672203f0c00520a78cf4",
+    "captions": [
+      {
+        "caption_id": "673",
+        "caption": "A happy and soft jazz song with two saxophones in musical conversation."
+      },
+      {
+        "caption_id": "901",
+        "caption": "This is a calm swing music with drums, synth and trumpet responding to each other and makes you want to bounce."
+      }
+    ]
+  },
+  "npz_sha256": "994770bcb5fdecb5651fa792b618cef60015b3fe0d9b0d3006f09993f604365a",
+  "decoded_pcm_sha256": "1f5e86bef646e28d5eccdb872ed0d923253a8096dc2f748ea7ac224e9560644b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17,
+    25
+  ],
+  "audio_forward_seconds": 0.4272533003240824
+}

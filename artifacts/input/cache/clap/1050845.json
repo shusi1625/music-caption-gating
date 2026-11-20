@@ -1,0 +1,32 @@
+{
+  "track_id": "1050845",
+  "split": "development",
+  "artist_id": "432124",
+  "captions": [
+    {
+      "caption_id": "401",
+      "caption": "Synthetic orchestral piece in the style of a 90s war movie battle scene soundtrack, with prominent bass drums and dry brass section harmonies"
+    }
+  ],
+  "cache_key": "794ee08fc417c6dfb10cec7d23d0fd3480d43b2477655a4306ca3263e5234997",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "74252e9cea56d96fb37581cf70247869e4b2f442d803420280c851e6cf2ca3ba",
+    "captions": [
+      {
+        "caption_id": "401",
+        "caption": "Synthetic orchestral piece in the style of a 90s war movie battle scene soundtrack, with prominent bass drums and dry brass section harmonies"
+      }
+    ]
+  },
+  "npz_sha256": "6e9abbbbcb748603f664f036dcfeec518f57fcdfc64923df61399179d86313b7",
+  "decoded_pcm_sha256": "0046a353e91d92ca94148db8aaf3b4d6e33aae6feed410d9a3387951c3fb45f5",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    32
+  ],
+  "audio_forward_seconds": 0.5746809002012014
+}

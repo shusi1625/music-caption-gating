@@ -1,0 +1,32 @@
+{
+  "track_id": "1293996",
+  "split": "evaluation",
+  "artist_id": "434614",
+  "captions": [
+    {
+      "caption_id": "887",
+      "caption": "Upbeat acoustic guitar song with country style singing and vocals along with harmonica plus whistling at the end"
+    }
+  ],
+  "cache_key": "2339e989d4d5f243d5c65807b74b03c00b9cf3ddb8d5670cc278656f3188c48f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ed2fe869ed2cfa4d891589a63903a6c086a1483493fd0430f21e27f3da0f825e",
+    "captions": [
+      {
+        "caption_id": "887",
+        "caption": "Upbeat acoustic guitar song with country style singing and vocals along with harmonica plus whistling at the end"
+      }
+    ]
+  },
+  "npz_sha256": "7ce601e67e2a5e7a3ddfceb83119091d5bbed8a1b573d73594041ed785a276ee",
+  "decoded_pcm_sha256": "bc35717a74fc9a9e35f52ee59889acf7b303ce6ffeed552cd0ce05085791f252",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.4936273000203073
+}

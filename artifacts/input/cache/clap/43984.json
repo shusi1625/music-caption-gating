@@ -1,0 +1,41 @@
+{
+  "track_id": "43984",
+  "split": "development",
+  "artist_id": "6079",
+  "captions": [
+    {
+      "caption_id": "517",
+      "caption": "A folk-rock song sang by a young male vocal contains political lyrics and is very pleasant to listen to."
+    },
+    {
+      "caption_id": "1089",
+      "caption": "Acoustic guitar and a kind of storytelling male voice underpin this spirited folk song."
+    }
+  ],
+  "cache_key": "f3a0d23a0e0f19f0eebcd572a479b4532cf6c963907f909973108f25c4d783c9",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9f89b65b7f2f929ae3d9afeed3fb301fef6c4c6db986f21b062b57b12b8b0287",
+    "captions": [
+      {
+        "caption_id": "517",
+        "caption": "A folk-rock song sang by a young male vocal contains political lyrics and is very pleasant to listen to."
+      },
+      {
+        "caption_id": "1089",
+        "caption": "Acoustic guitar and a kind of storytelling male voice underpin this spirited folk song."
+      }
+    ]
+  },
+  "npz_sha256": "dfd7c58b773b6b49285d3581351b9d151f6a11af47bf8ffe63978aa2e6489c9f",
+  "decoded_pcm_sha256": "0ee9c251fd08b2c5955a31110edc982480ac73b79bf74ac9dea806c37b8020b9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24,
+    18
+  ],
+  "audio_forward_seconds": 0.41553450003266335
+}

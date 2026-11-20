@@ -1,0 +1,32 @@
+{
+  "track_id": "1033252",
+  "split": "evaluation",
+  "artist_id": "433896",
+  "captions": [
+    {
+      "caption_id": "1017",
+      "caption": "A 70s style british pop song with drums, guitars, a synth violin sounds and finally bright piano chords."
+    }
+  ],
+  "cache_key": "2e386056776a016f5aa21b6aadf9c6350eb0fbe42316e1c3ff9921f66fd489ef",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "028002610d02bda0c18b0374f22349d04602659c30ff9c582a3c9b2b8ea16fd3",
+    "captions": [
+      {
+        "caption_id": "1017",
+        "caption": "A 70s style british pop song with drums, guitars, a synth violin sounds and finally bright piano chords."
+      }
+    ]
+  },
+  "npz_sha256": "da36d9b2c23df997ab9fc0a4bb2df6091e129e16b64f954d3fefc9318a73cf65",
+  "decoded_pcm_sha256": "41e8c084dfa781f83824009e3a7403e9f5ddce40c9e94d81dca83c20e5c82c7c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.44756369991227984
+}

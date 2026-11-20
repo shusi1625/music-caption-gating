@@ -1,0 +1,41 @@
+{
+  "track_id": "43886",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "306",
+      "caption": "Classic indie rock song with a simple and easy guitar riff, uptempo distorted strummed guitar and male vocals, and a simple guitar solo in the bridge."
+    },
+    {
+      "caption_id": "415",
+      "caption": "Agitated West Coast rock with brief bass solo and British influence"
+    }
+  ],
+  "cache_key": "fd0a1aaf0cdf4c20cead04f9ab3201394bf9c6eb5a86bb629b91aac2f79d1fa0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "feccbfe94658971eac96a01f072181a5148b8b402d95f0bb43cd4c87b53a0d6b",
+    "captions": [
+      {
+        "caption_id": "306",
+        "caption": "Classic indie rock song with a simple and easy guitar riff, uptempo distorted strummed guitar and male vocals, and a simple guitar solo in the bridge."
+      },
+      {
+        "caption_id": "415",
+        "caption": "Agitated West Coast rock with brief bass solo and British influence"
+      }
+    ]
+  },
+  "npz_sha256": "3b1aef8ce1a1669a3f105b33aee949ab64d97ef6b3716e0e4c82055b7f82d1a0",
+  "decoded_pcm_sha256": "752cb85d520d5b1aed5b3fddb0cde540e4a266a9bed021beb9c97df0bafa9e08",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    35,
+    14
+  ],
+  "audio_forward_seconds": 0.49372270004823804
+}

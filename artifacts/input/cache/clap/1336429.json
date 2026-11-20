@@ -1,0 +1,32 @@
+{
+  "track_id": "1336429",
+  "split": "evaluation",
+  "artist_id": "424522",
+  "captions": [
+    {
+      "caption_id": "1041",
+      "caption": "This type of electronic music can be used in a dance club since it builds up fairly quickly and has a dance beat"
+    }
+  ],
+  "cache_key": "bffe18f6fea407658b99b367aed959e9fa00f6f6b923992b9083eb160e79b4a9",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bdf14fd4c5397f5bb5364c9c78ef758edd184cbafba39993b36ab51a29f54bb8",
+    "captions": [
+      {
+        "caption_id": "1041",
+        "caption": "This type of electronic music can be used in a dance club since it builds up fairly quickly and has a dance beat"
+      }
+    ]
+  },
+  "npz_sha256": "b84cf035a0b896e386e1a8da53ced495f0207d711bbd96297d46c47335a7bcf6",
+  "decoded_pcm_sha256": "9d470f029e9a3d2ea426bba6f6203c358482020da6ac97dc9160c6645abf0d6f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.44183359993621707
+}

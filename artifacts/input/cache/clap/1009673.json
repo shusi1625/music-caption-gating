@@ -1,0 +1,41 @@
+{
+  "track_id": "1009673",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "709",
+      "caption": "A choppy beat-heavy acoustic guitar song with soft vocals."
+    },
+    {
+      "caption_id": "855",
+      "caption": "Upbeat song that has a humming riff accompanied by guitar licks that can be used for a casual listening setting"
+    }
+  ],
+  "cache_key": "c16fa04999c39b9ee35a9cc78a68d0cff77757b01eaf2a0501034a7438000b49",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "eeca0b5f103ec9286463c37c251833a764d1b66529cff98115b8bdb9dc28985e",
+    "captions": [
+      {
+        "caption_id": "709",
+        "caption": "A choppy beat-heavy acoustic guitar song with soft vocals."
+      },
+      {
+        "caption_id": "855",
+        "caption": "Upbeat song that has a humming riff accompanied by guitar licks that can be used for a casual listening setting"
+      }
+    ]
+  },
+  "npz_sha256": "3353a87618cc12b837772001aa0d80b0eb5bdc0374f71534221334895edd7100",
+  "decoded_pcm_sha256": "2d332470fb43f7c9453371a11e93d0234f9966903a75e855d70c01400d352c34",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15,
+    24
+  ],
+  "audio_forward_seconds": 0.42862079991027713
+}

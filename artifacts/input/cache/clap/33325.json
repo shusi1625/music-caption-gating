@@ -1,0 +1,32 @@
+{
+  "track_id": "33325",
+  "split": "evaluation",
+  "artist_id": "4658",
+  "captions": [
+    {
+      "caption_id": "509",
+      "caption": "This song has a sweet melody made of electronic organs and is accompanied with a salient drumkit."
+    }
+  ],
+  "cache_key": "0d53429ce5fe8f26cb17a3e05cfc58aa468c2abe9b5e9adf8f86c3e681b4b274",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e417a7a05d95514af17cb53138060d08267298ec6d781d9c99d76500ebead36e",
+    "captions": [
+      {
+        "caption_id": "509",
+        "caption": "This song has a sweet melody made of electronic organs and is accompanied with a salient drumkit."
+      }
+    ]
+  },
+  "npz_sha256": "73b2d037e410589d0810dfdd39a64a97b66d272aff579f0beacc51beddf21bf5",
+  "decoded_pcm_sha256": "e0f1980656347e1063be957cac99099f541d7d8368cceef37114ef0c879f55e0",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.45221460005268455
+}

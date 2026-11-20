@@ -1,0 +1,41 @@
+{
+  "track_id": "7259",
+  "split": "evaluation",
+  "artist_id": "1058",
+  "captions": [
+    {
+      "caption_id": "46",
+      "caption": "A tribal droning hand drum beat with sweeping engine sound effects, a high-hat and shakers come in on top , and then a synth."
+    },
+    {
+      "caption_id": "128",
+      "caption": "Electronic-heavy tune based on hypnotic solo drum later accompanied with the essential indian singing."
+    }
+  ],
+  "cache_key": "0abdb3336d0a06832d56109b810ea65772e24d045b068198e4a91a0233477878",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "cc7df3237f71c46e6b0f80f07b9e78c2432c28a82cdde4b1925374f82bf21052",
+    "captions": [
+      {
+        "caption_id": "46",
+        "caption": "A tribal droning hand drum beat with sweeping engine sound effects, a high-hat and shakers come in on top , and then a synth."
+      },
+      {
+        "caption_id": "128",
+        "caption": "Electronic-heavy tune based on hypnotic solo drum later accompanied with the essential indian singing."
+      }
+    ]
+  },
+  "npz_sha256": "6d3e5cb8ee66a3987ce1b4e3cd84462b4c06a66bf5d28512b62b28b7be74ecb8",
+  "decoded_pcm_sha256": "91c2580d6f2b35598700850940369a77e0e13364a4b93ed21609c8071feaa559",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    33,
+    22
+  ],
+  "audio_forward_seconds": 0.431863899808377
+}

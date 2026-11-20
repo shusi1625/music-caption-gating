@@ -1,0 +1,32 @@
+{
+  "track_id": "1063331",
+  "split": "evaluation",
+  "artist_id": "437571",
+  "captions": [
+    {
+      "caption_id": "639",
+      "caption": "An instrumental hopefully positive track where the foreground melody features a classic guitar."
+    }
+  ],
+  "cache_key": "3fe7d7a064eb01a274af172685cdc5e64340b8dfab7422b6be7d85283de4c2a7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "392dd6563a959d47f68221bb1712c01f54f897e3f136c40998953d4711cb46ac",
+    "captions": [
+      {
+        "caption_id": "639",
+        "caption": "An instrumental hopefully positive track where the foreground melody features a classic guitar."
+      }
+    ]
+  },
+  "npz_sha256": "5debcd4ce3a1dcbe78d0d81ab8c67756f73d2e35488350c35f0da1fcee1d54e9",
+  "decoded_pcm_sha256": "69241ced123128c8b8e07186f420667c59a01c254ecea217c8d4aef2523cdb5a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4754125000908971
+}

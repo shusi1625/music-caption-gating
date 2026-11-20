@@ -1,0 +1,41 @@
+{
+  "track_id": "1036934",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "447",
+      "caption": "Upbeat song of male singing with an echo effect with clapping chorus in the background with ambient synthetic sounds and occasional guitar bass notes"
+    },
+    {
+      "caption_id": "741",
+      "caption": "Pop song with claps, piano chords and vocals"
+    }
+  ],
+  "cache_key": "2cfb6b249624a674b02367b33000af8926c1c254f14dc960bf1dac743308f9dd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d262dd75a86ddba95cf6e798a37ad431d9f93d93bfa2fffbe08dbb2a0790c6a0",
+    "captions": [
+      {
+        "caption_id": "447",
+        "caption": "Upbeat song of male singing with an echo effect with clapping chorus in the background with ambient synthetic sounds and occasional guitar bass notes"
+      },
+      {
+        "caption_id": "741",
+        "caption": "Pop song with claps, piano chords and vocals"
+      }
+    ]
+  },
+  "npz_sha256": "e3d8bf922d04f7c9efbeb8cf626bf10345cbd446b42164821791dac2328141dc",
+  "decoded_pcm_sha256": "9b67088ad37fe3883b99868d992c118c49bb4a0b382912672af9f8aaa6fcc6e1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28,
+    12
+  ],
+  "audio_forward_seconds": 0.4542789002880454
+}

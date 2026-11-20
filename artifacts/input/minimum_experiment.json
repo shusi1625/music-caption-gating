@@ -1,0 +1,103 @@
+{
+  "status": "locked design before main evaluation; not preregistered",
+  "date": "2026-11-20",
+  "model": "laion/clap-htsat-unfused",
+  "revision": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a",
+  "split_file": "../sources/planned_split.json",
+  "split_sha256": "bf0200d2195436089438279de2e93ab34d96dd70b5d73955014d18a2c97b6936",
+  "sample_rate": 48000,
+  "window_seconds": 10,
+  "windows_per_track": 12,
+  "batch_size": 1,
+  "retrieval_audio": "normalized_mean_of_normalized_12_windows",
+  "verifiers": [
+    "first_window",
+    "normalized_12_window_mean"
+  ],
+  "corruption_rates": [
+    0,
+    0.25
+  ],
+  "corruption_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "corruption_count_rule": "floor(p*N+0.5)",
+  "corruption_rule": "uniform selected subset; constrained cross-artist permutation; log retries and actual mappings; fail after 10000 attempts",
+  "index_caption": "lowest_numeric_valid_caption_id",
+  "query_caption": "second_lowest_numeric_valid_caption_id",
+  "threshold": "per_verifier_clean_dev_score_quantile_0.1_numpy_linear",
+  "lambda_grid": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "lambda_selection": "max clean dev ungated MRR, ties choose smaller; freeze",
+  "lambda_zero_policy": "H2 premise unsupported; primary gated scores reduce to audio-only; lambda0.5 stress test clearly separate",
+  "conditions": [
+    "audio_only",
+    "caption_only",
+    "ungated_fusion",
+    "gate_first",
+    "gate_mean12",
+    "random_gate_matched_first",
+    "random_gate_matched_mean12",
+    "tfidf"
+  ],
+  "tfidf_fit": "clean indexed captions in each catalog only; do not fit on queries",
+  "random_gate_seed_base": 10000,
+  "random_gate_matching": "same per-catalog rejection count as verifier; shared random ordering within seed",
+  "tie_break": "numeric ascending track_id",
+  "primary_effects": {
+    "H1": "clean_eval_reject_first_minus_mean12_all_catalog_tracks",
+    "H2": "MRR_mean12_minus_first_at_p0.25_query_tracks"
+  },
+  "bootstrap": {
+    "unit": "artist",
+    "paired": true,
+    "resamples": 2000,
+    "seed": 20261120,
+    "primary_ci_level": 0.975,
+    "catalog": "fixed",
+    "aggregation": "mean corruption seeds per query before resampling; original track-weighted mean"
+  },
+  "case_selection_seed": 20261120,
+  "case_track_ids": [
+    "1166070",
+    "1357117",
+    "1135703",
+    "1036934",
+    "592180",
+    "348881"
+  ],
+  "extensions_not_required": [
+    "LARP",
+    "middle_last_windows",
+    "mean3_max_pool",
+    "p0.5_p1.0",
+    "cross_model_gate",
+    "human_audio_annotation",
+    "rank_fusion"
+  ],
+  "main_experiment_executed": false
+}

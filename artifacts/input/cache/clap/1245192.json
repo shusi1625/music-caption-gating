@@ -1,0 +1,32 @@
+{
+  "track_id": "1245192",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "112",
+      "caption": "Repetitive, sad feeling pop song with a piano intro, finger snapping and female vocal samples."
+    }
+  ],
+  "cache_key": "634e5789c985d237d919447c10e4af17c800776e5db4b6eaa8ef9ce4c235a185",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "49dedf9b969d69d72b87142ec7dabc91af51cc3c8202ab2e759d68fb94663690",
+    "captions": [
+      {
+        "caption_id": "112",
+        "caption": "Repetitive, sad feeling pop song with a piano intro, finger snapping and female vocal samples."
+      }
+    ]
+  },
+  "npz_sha256": "163658a3a6473274bb627f9c57662d1402a4458baa61224b34f3d113bf0cc570",
+  "decoded_pcm_sha256": "552323089888d1e44f6c7b64279b2003c06462b0fb1c4f023181a53bfe1c950e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.44236289989203215
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "77737",
+  "split": "development",
+  "artist_id": "7891",
+  "captions": [
+    {
+      "caption_id": "41",
+      "caption": "Growling vocals sit amongst layers of electric guitar in this continually building rock ballad."
+    }
+  ],
+  "cache_key": "f05d722187186c45930d6ef9e0261c836b96a7942af3e68de6d9c488ebb9566c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c9a40fbd5aec151760573e3af9f9f6cb6485842f8bdcc68e68623103371f9156",
+    "captions": [
+      {
+        "caption_id": "41",
+        "caption": "Growling vocals sit amongst layers of electric guitar in this continually building rock ballad."
+      }
+    ]
+  },
+  "npz_sha256": "d142d01b4a8850fc5dd2841724b28ba1eb27e8d77ae079bfc447e7c16c8e43a1",
+  "decoded_pcm_sha256": "99fff904d691b4718dbfb19ad5b3dbc5ddac316c41efb36e337d4d099642454c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.5692525003105402
+}

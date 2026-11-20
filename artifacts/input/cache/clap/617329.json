@@ -1,0 +1,32 @@
+{
+  "track_id": "617329",
+  "split": "development",
+  "artist_id": "350774",
+  "captions": [
+    {
+      "caption_id": "608",
+      "caption": "Modern reggae song sung in French with syncopated piano accompaniment."
+    }
+  ],
+  "cache_key": "148f92a3b0902a28ed622b6a956822e2444608b9b274d26d2e0bc92dc7ef149b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "89ce707966e9f514e37be1aabf7b16c5a0b075b8076c56fc6df712a133bc7537",
+    "captions": [
+      {
+        "caption_id": "608",
+        "caption": "Modern reggae song sung in French with syncopated piano accompaniment."
+      }
+    ]
+  },
+  "npz_sha256": "5467080ee0205e727ab80ae8f67bd5d9e900e32ec3c88aeb383e4a5a0b3fc82b",
+  "decoded_pcm_sha256": "01a82e34b390443fc57178a329c4efc40bb62dafe3d5cd5aac61ce7ffc5274b3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.5333152003586292
+}

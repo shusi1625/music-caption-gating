@@ -1,0 +1,32 @@
+{
+  "track_id": "1219475",
+  "split": "evaluation",
+  "artist_id": "355675",
+  "captions": [
+    {
+      "caption_id": "942",
+      "caption": "Country song with acoustic guitar and singing along with slide guitar for embellishments that can be listened to while relaxing at home or just driving"
+    }
+  ],
+  "cache_key": "7eeebcf9b364fa24982a35ae312b08d49b117d49762d4959a4a9de70fb1e6819",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "165679006ae06b8b65641bd0b59e0afd59ad42ca902ae4b3a90e9b77fa473c37",
+    "captions": [
+      {
+        "caption_id": "942",
+        "caption": "Country song with acoustic guitar and singing along with slide guitar for embellishments that can be listened to while relaxing at home or just driving"
+      }
+    ]
+  },
+  "npz_sha256": "d5a0749f3dbf7f04e392d659cab46404c4a42446484fb189c4450b7f4364495c",
+  "decoded_pcm_sha256": "ae4cde25158dca57b0ed184b4cd3e0fe42b307b89bfb8b13e33179ec24360cd0",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.5010373997502029
+}

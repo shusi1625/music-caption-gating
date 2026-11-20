@@ -1,0 +1,32 @@
+{
+  "track_id": "667013",
+  "split": "evaluation",
+  "artist_id": "363811",
+  "captions": [
+    {
+      "caption_id": "554",
+      "caption": "Disco-funky song with a groovy bass line, some great bass arrangements and male falsetto vocals."
+    }
+  ],
+  "cache_key": "6f2b3335096442165e765ff25096cbe639d17567a628575dba6309d3596b5309",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "abd98e53998ce624ba3ffc6380f99fc34723ceb917fb54e326862214d04312a6",
+    "captions": [
+      {
+        "caption_id": "554",
+        "caption": "Disco-funky song with a groovy bass line, some great bass arrangements and male falsetto vocals."
+      }
+    ]
+  },
+  "npz_sha256": "c1c5afc0af52df7fefcb85579ac01b9a85096f4b8ed62fe0e2b0b12fd63bdce4",
+  "decoded_pcm_sha256": "8c557df4382409140a563cf059736ae7d6633e892920513c6fecbc411b9dd8ca",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.4383165999315679
+}

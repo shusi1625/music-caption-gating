@@ -1,0 +1,41 @@
+{
+  "track_id": "1176656",
+  "split": "evaluation",
+  "artist_id": "458008",
+  "captions": [
+    {
+      "caption_id": "660",
+      "caption": "Instrumental song that conveys a sense of beginning or start, with different instruments gradually added to the mix."
+    },
+    {
+      "caption_id": "992",
+      "caption": "Electronic music that builds up mostly using various drum and guitar samples that is relaxing to listen to"
+    }
+  ],
+  "cache_key": "1066dbc641ab540028200a11544bf75166a4d2c0d916f0cfa2f301de3e17f7d4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "073d7998d18b083a944250e1acba231923c2224dc7dce2740a76e2ea798b8fde",
+    "captions": [
+      {
+        "caption_id": "660",
+        "caption": "Instrumental song that conveys a sense of beginning or start, with different instruments gradually added to the mix."
+      },
+      {
+        "caption_id": "992",
+        "caption": "Electronic music that builds up mostly using various drum and guitar samples that is relaxing to listen to"
+      }
+    ]
+  },
+  "npz_sha256": "c10774aeecf8273a8fe6f0672969b5b2db24dcad941fef2172ea4f63833aba74",
+  "decoded_pcm_sha256": "044f765245134d571465cc837e8b55a1845e80f3cd2a1d56e6557aefe8d37e0a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25,
+    21
+  ],
+  "audio_forward_seconds": 0.44157700007781386
+}

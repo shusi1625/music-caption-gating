@@ -1,0 +1,41 @@
+{
+  "track_id": "11841",
+  "split": "development",
+  "artist_id": "1780",
+  "captions": [
+    {
+      "caption_id": "107",
+      "caption": "Slow-paced guitar ballad with clean guitar solos interspersed throughout the composition"
+    },
+    {
+      "caption_id": "116",
+      "caption": "A peaceful yet emotionally charged instrumental track featuring a blend of calm, acoustic and electric guitars that overlap and intertwine to create a soothing, introspective soundscape that is perfect for relaxing and unwinding, or for providing a poignant, mellow background ambiance during a reflective moment."
+    }
+  ],
+  "cache_key": "9e208c03ff3dae15f112400628d595466edfae0934d66b2f4bf257df3b639636",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "62690702508602ed69a28679a48ce21c247be887ba012284d5816639c52caf93",
+    "captions": [
+      {
+        "caption_id": "107",
+        "caption": "Slow-paced guitar ballad with clean guitar solos interspersed throughout the composition"
+      },
+      {
+        "caption_id": "116",
+        "caption": "A peaceful yet emotionally charged instrumental track featuring a blend of calm, acoustic and electric guitars that overlap and intertwine to create a soothing, introspective soundscape that is perfect for relaxing and unwinding, or for providing a poignant, mellow background ambiance during a reflective moment."
+      }
+    ]
+  },
+  "npz_sha256": "74af22f48082f117721d08ac030a76cf02242eafa42b1e74df89e60b2b2c5bb0",
+  "decoded_pcm_sha256": "f159d6f1ed2bd5d0bb55fa52a5874d611c598f99107c442d224dfb3557ea7372",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19,
+    58
+  ],
+  "audio_forward_seconds": 0.6250642999075353
+}

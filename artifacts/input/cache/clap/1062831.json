@@ -1,0 +1,32 @@
+{
+  "track_id": "1062831",
+  "split": "development",
+  "artist_id": "348998",
+  "captions": [
+    {
+      "caption_id": "1039",
+      "caption": "Only instrumental and based on electronic samples that picks up as the song progresses"
+    }
+  ],
+  "cache_key": "4ec945ae929727ebe5e3142b7242eb069d8482a65d3067c4477a3554199023ac",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "44241e10b6181acbe723ee6890e3ff399a7cbe99c456085cb5d4486838174300",
+    "captions": [
+      {
+        "caption_id": "1039",
+        "caption": "Only instrumental and based on electronic samples that picks up as the song progresses"
+      }
+    ]
+  },
+  "npz_sha256": "6ab3a795c0fa27348ffa3ce6ec473241acef3be07ecc1eca75692d3221f5596c",
+  "decoded_pcm_sha256": "9093093ca936e62c80bf81464367fffd8aa6e71dae178c9ea91b916c207f7b8e",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.5104247000999749
+}

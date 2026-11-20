@@ -1,0 +1,32 @@
+{
+  "track_id": "25379",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "9",
+      "caption": "At first, this track recalls a slow movement of a Mahler symphony - lush, enveloping orchestral strings slowly spinning a mournful dirge - but its lack of melodic direction, and its repetitiveness, suggest that it is movie music."
+    }
+  ],
+  "cache_key": "abd8ab32c7c4a41b2b7a64ed886903e38f6f71d7abbfc26394f17b6acaa8f5d5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "53b5673c6b19ff316d23c2df714fb33a226210e5195faf1a0d23b8782049ca3a",
+    "captions": [
+      {
+        "caption_id": "9",
+        "caption": "At first, this track recalls a slow movement of a Mahler symphony - lush, enveloping orchestral strings slowly spinning a mournful dirge - but its lack of melodic direction, and its repetitiveness, suggest that it is movie music."
+      }
+    ]
+  },
+  "npz_sha256": "d93e24a580d5fd95f89e4084023a9ce40e8028b90e25ad6c632af55d101a96e1",
+  "decoded_pcm_sha256": "166c48fe1e5272a747f683365025d882972b527a236d253e1fa1c30741fcad77",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    54
+  ],
+  "audio_forward_seconds": 0.44620219990611076
+}

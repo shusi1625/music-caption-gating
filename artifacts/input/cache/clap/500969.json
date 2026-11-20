@@ -1,0 +1,32 @@
+{
+  "track_id": "500969",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "183",
+      "caption": "This is an electronic track with classic snare-roll build up, four-on-the-floor drums and syncopated synth melodies"
+    }
+  ],
+  "cache_key": "316233be2feb287e70b37711bb32ed13c2691f77489d1cb61b5634f7c17bb398",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "59c30c1c3ad4c900e1daacf0789c11ddbf9ae49d7d64b70db8cd3de40389c4c0",
+    "captions": [
+      {
+        "caption_id": "183",
+        "caption": "This is an electronic track with classic snare-roll build up, four-on-the-floor drums and syncopated synth melodies"
+      }
+    ]
+  },
+  "npz_sha256": "a5d686464fa020223cf0d0ad6ba446f8f06aceb1108d8067941bb14a05949bbe",
+  "decoded_pcm_sha256": "432a9b5908b40bb52b11fdb0c580e9b6c112a2e018e32abc070cbc58ade1ee3d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    30
+  ],
+  "audio_forward_seconds": 0.44581300020217896
+}

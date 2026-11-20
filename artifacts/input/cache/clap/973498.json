@@ -1,0 +1,32 @@
+{
+  "track_id": "973498",
+  "split": "evaluation",
+  "artist_id": "369146",
+  "captions": [
+    {
+      "caption_id": "74",
+      "caption": "A blues song with crisp modern production, featuring punchy drums, lots of slide guitar and a passionate male singer."
+    }
+  ],
+  "cache_key": "93083382c3fd4fc7cbd75605c676f24d031b2e17e3d17679352f2851e4ca46f1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5259243a7e1d93a7736b422f20b1a18fb1e2a356fdaad7246dba9857991498a4",
+    "captions": [
+      {
+        "caption_id": "74",
+        "caption": "A blues song with crisp modern production, featuring punchy drums, lots of slide guitar and a passionate male singer."
+      }
+    ]
+  },
+  "npz_sha256": "3ca1d7f91be68f990d425c59d7c6858212c003578d54abbc8ab896b062f0cb3e",
+  "decoded_pcm_sha256": "c2aa2126f84b2e7e3651cc2e0f99814cb8a0d86f866b37fd0783ff446c548081",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.4937391998246312
+}

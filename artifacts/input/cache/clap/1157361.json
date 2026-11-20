@@ -1,0 +1,41 @@
+{
+  "track_id": "1157361",
+  "split": "evaluation",
+  "artist_id": "440692",
+  "captions": [
+    {
+      "caption_id": "142",
+      "caption": "A lively, uplifting pop track featuring a male vocalist who sings parts of the song in his head voice, accompanied by an intro of piano and occasional appearances by a female vocalist, all supported by a driving, energetic beat that makes it perfect for getting your energy up and lifting your mood, whether you're dancing along or just enjoying the catchy, upbeat vibe."
+    },
+    {
+      "caption_id": "445",
+      "caption": "An uplifting pop song, performed by a male and a female voice with EDM arrangements."
+    }
+  ],
+  "cache_key": "0912d0e7cc864881dbe2fe6e34e277add2ef77f7f48de3c2d752532115686f34",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f2b0cbf727a05e1b8254196a4fecbbe21747bcf3affafe0f257bc9844e6b3ac1",
+    "captions": [
+      {
+        "caption_id": "142",
+        "caption": "A lively, uplifting pop track featuring a male vocalist who sings parts of the song in his head voice, accompanied by an intro of piano and occasional appearances by a female vocalist, all supported by a driving, energetic beat that makes it perfect for getting your energy up and lifting your mood, whether you're dancing along or just enjoying the catchy, upbeat vibe."
+      },
+      {
+        "caption_id": "445",
+        "caption": "An uplifting pop song, performed by a male and a female voice with EDM arrangements."
+      }
+    ]
+  },
+  "npz_sha256": "a598ad490dfa100da1df04a15de8e66e765f8972f37444fffa495f5a81586631",
+  "decoded_pcm_sha256": "9ea9edd2e812c660ce72e89204a229a1b5f44cd0a5bd7e8f2f49e388644e58fc",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    76,
+    21
+  ],
+  "audio_forward_seconds": 0.4304825998842716
+}

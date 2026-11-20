@@ -1,0 +1,32 @@
+{
+  "track_id": "537123",
+  "split": "development",
+  "artist_id": "358187",
+  "captions": [
+    {
+      "caption_id": "996",
+      "caption": "Spanish-spoken song with a 90's vibe of latin pop."
+    }
+  ],
+  "cache_key": "d96cc456e51c490fdb8f634bd6b8c4e6da0f750c2c440271a54488518775f497",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bacd1ef1a2f9b4ff1c34a8034faad4f707a4a6d396fc1cb49a6a226ce7bfb051",
+    "captions": [
+      {
+        "caption_id": "996",
+        "caption": "Spanish-spoken song with a 90's vibe of latin pop."
+      }
+    ]
+  },
+  "npz_sha256": "37b7da10df30da72391b9e4a6accf4d36e03a8dbe3d7bf30f918de0d9f770c58",
+  "decoded_pcm_sha256": "e3156c06eb8ed5045578774fc10a2ea876044eb86f76da5806c2023fb9b57aa1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.5508293998427689
+}

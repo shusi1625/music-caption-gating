@@ -1,0 +1,32 @@
+{
+  "track_id": "376422",
+  "split": "development",
+  "artist_id": "341459",
+  "captions": [
+    {
+      "caption_id": "1024",
+      "caption": "Instrumental with mostly piano that has a melancholic feel which can be heard alone"
+    }
+  ],
+  "cache_key": "be215a3e70c6060174390e2e0a59684da76c07cd6f86a80e62fd2f7a57bbb5a5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8a343cc19de84973a854d9d372d94abc776cd12734542857ac93a99ddce052ba",
+    "captions": [
+      {
+        "caption_id": "1024",
+        "caption": "Instrumental with mostly piano that has a melancholic feel which can be heard alone"
+      }
+    ]
+  },
+  "npz_sha256": "6d66252f89e4672f60947c93d6a13dc3bb0af7efa7d414366afa83c949789192",
+  "decoded_pcm_sha256": "1511aa61204213ff2fd7e43496e02d17824da943c0ca49fd71365a84ccd5be6a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.5484871999360621
+}

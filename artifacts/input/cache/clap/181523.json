@@ -1,0 +1,32 @@
+{
+  "track_id": "181523",
+  "split": "evaluation",
+  "artist_id": "340225",
+  "captions": [
+    {
+      "caption_id": "1079",
+      "caption": "Electronic music with a sci fi feel to it like an event is about to start which is mostly based on various percussion as compared to a melody"
+    }
+  ],
+  "cache_key": "ff2a28f454efc1618200940f6cf8945ee36f66bc9e314e54fb786d78cd454146",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "71597e4e6f3ce276d1231490e0fa4f13f375cc81d2248a1f0fb7772a6bafe9ab",
+    "captions": [
+      {
+        "caption_id": "1079",
+        "caption": "Electronic music with a sci fi feel to it like an event is about to start which is mostly based on various percussion as compared to a melody"
+      }
+    ]
+  },
+  "npz_sha256": "cafd38af788193291fdab904f8c8d5dd0488e01d62e3d205db5987e58cc3896e",
+  "decoded_pcm_sha256": "3486fa9cf009fefb7e4b97bede35cee9fe09b9df397333520cccf68ee8b2fab6",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    31
+  ],
+  "audio_forward_seconds": 0.4228745996952057
+}

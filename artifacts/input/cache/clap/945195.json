@@ -1,0 +1,32 @@
+{
+  "track_id": "945195",
+  "split": "evaluation",
+  "artist_id": "421686",
+  "captions": [
+    {
+      "caption_id": "414",
+      "caption": "1990s techno with cliche minor key progression and tacky synthetic saxophone lead"
+    }
+  ],
+  "cache_key": "8eb1c6f608104e145bdcc8f2f5f45b4f87fb41813425199be9a48b5fe8048128",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7cc261e4a6199689d04aa31c2ff183a7896b227e882d75f7ac51d66f115ed4e4",
+    "captions": [
+      {
+        "caption_id": "414",
+        "caption": "1990s techno with cliche minor key progression and tacky synthetic saxophone lead"
+      }
+    ]
+  },
+  "npz_sha256": "c4f1d85f3c8605e6fb57043ec7b3ab628c17ab1ad78f353e3d73efd2c3264982",
+  "decoded_pcm_sha256": "2249ce6e0ac6f92e99b3c741aef9888461b82373552e530e4c35db00dd4b9d77",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.42670010030269623
+}

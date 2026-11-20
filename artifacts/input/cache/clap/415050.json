@@ -1,0 +1,32 @@
+{
+  "track_id": "415050",
+  "split": "development",
+  "artist_id": "353090",
+  "captions": [
+    {
+      "caption_id": "240",
+      "caption": "The song as a catchy brass riff and percussions and an upbeat guitar in the background, with a Spanish lyric sung by two singers, one male and one female singers."
+    }
+  ],
+  "cache_key": "e217edb65e6f3407ca01da89e00996a6dfabf5560bdb4339aaa5e0fd85eef4d3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "810c21dede5e7b454a2619d447ce3a6619232b74400c943cdb2a29eda5e16d34",
+    "captions": [
+      {
+        "caption_id": "240",
+        "caption": "The song as a catchy brass riff and percussions and an upbeat guitar in the background, with a Spanish lyric sung by two singers, one male and one female singers."
+      }
+    ]
+  },
+  "npz_sha256": "47046ab9c722e1edb134919c3f389cfa62c7e4eb94f8b1529f4909bf065ed7c0",
+  "decoded_pcm_sha256": "02f6d96051a7b0d9d3dc6e125e3d766883d63e2aa1976491c0c095ccd6f2a3c9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    37
+  ],
+  "audio_forward_seconds": 0.5280376998707652
+}

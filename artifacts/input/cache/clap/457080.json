@@ -1,0 +1,41 @@
+{
+  "track_id": "457080",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "971",
+      "caption": "A perky country song featuring female voices which could be featured in a musical show for kids."
+    },
+    {
+      "caption_id": "1066",
+      "caption": "A whimsy and unserious piano melody, underpinned by consistent snares with occasional off-beat hihats,  with a woman singing in a sometimes childish and sometimes sultry voice"
+    }
+  ],
+  "cache_key": "c0e377dfe7f39418d52c5ff36897af9c3145d63d08cc2b5b19473d8fc50e3656",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "287c34820defbc35b0f2b3a8f6a7c37350ed8874f407825a314b113effa9ea78",
+    "captions": [
+      {
+        "caption_id": "971",
+        "caption": "A perky country song featuring female voices which could be featured in a musical show for kids."
+      },
+      {
+        "caption_id": "1066",
+        "caption": "A whimsy and unserious piano melody, underpinned by consistent snares with occasional off-beat hihats,  with a woman singing in a sometimes childish and sometimes sultry voice"
+      }
+    ]
+  },
+  "npz_sha256": "142d2695c856ecff6727db509e32a57301fda54f41458aab87bdedab6f29c0a3",
+  "decoded_pcm_sha256": "ef94cfd2dc1233e9e5787ea2b7c36dbd7cdee47039ee4ebccde47408088c32d9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    42
+  ],
+  "audio_forward_seconds": 0.5414400999434292
+}

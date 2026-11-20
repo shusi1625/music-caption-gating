@@ -1,0 +1,32 @@
+{
+  "track_id": "363326",
+  "split": "development",
+  "artist_id": "348998",
+  "captions": [
+    {
+      "caption_id": "546",
+      "caption": "It's a folk song with country vibe, major chord, and rock drum kit."
+    }
+  ],
+  "cache_key": "db9f98716efc3c23e1c15690a7229618c775d84ff18a1a708bc3b61b0322979b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9d96694c0b656ef11f6043563b3fc4ca9a6a0e018e2f08f515065ebe9900b8d0",
+    "captions": [
+      {
+        "caption_id": "546",
+        "caption": "It's a folk song with country vibe, major chord, and rock drum kit."
+      }
+    ]
+  },
+  "npz_sha256": "0fdc88ca6dff125e528c8586a338ae3b1b33991f379d28d846f619de30f9f385",
+  "decoded_pcm_sha256": "9daa13af576fb0baa8d801b4eb58d8d436fde16fce011cd76cdd5a2699c1f417",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4930825000628829
+}

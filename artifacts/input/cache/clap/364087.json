@@ -1,0 +1,41 @@
+{
+  "track_id": "364087",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "334",
+      "caption": "Driving, energetic and positive rock song (male voice) perfect for sport or action."
+    },
+    {
+      "caption_id": "502",
+      "caption": "This punchy punk rock song has a distinctive synth tone and a classic vocal texture"
+    }
+  ],
+  "cache_key": "28d28c2f76e7c1e297f55cf0eedcfdfeba3bab100dc41507dc448e7f352b2580",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6bd7488184d36f79a4931579eeb75f4452b49a8102b8147af5ce5334a927d21a",
+    "captions": [
+      {
+        "caption_id": "334",
+        "caption": "Driving, energetic and positive rock song (male voice) perfect for sport or action."
+      },
+      {
+        "caption_id": "502",
+        "caption": "This punchy punk rock song has a distinctive synth tone and a classic vocal texture"
+      }
+    ]
+  },
+  "npz_sha256": "86bc67c7568f956877b8297d97d56a6b63aeda7068ede9dbe0cd585b64cab4cb",
+  "decoded_pcm_sha256": "51256d5616a1e84f616b319d54d8041777a1b3db4c0dfecedd1e86000f0f96a6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20,
+    18
+  ],
+  "audio_forward_seconds": 0.5043546003289521
+}

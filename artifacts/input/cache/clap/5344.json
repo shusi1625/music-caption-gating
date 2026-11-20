@@ -1,0 +1,32 @@
+{
+  "track_id": "5344",
+  "split": "evaluation",
+  "artist_id": "245",
+  "captions": [
+    {
+      "caption_id": "493",
+      "caption": "An instrumental music work of alternative rock with a suspenseful, detective and chill atmosphere."
+    }
+  ],
+  "cache_key": "e59d7f59a36f08795d083e65d6173fef927f37b4e2545edb3feb42017e288c0f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bd52bacc48fbfcf058d2f250cac2554e2dfdadc621623760a60fe400dfc6f991",
+    "captions": [
+      {
+        "caption_id": "493",
+        "caption": "An instrumental music work of alternative rock with a suspenseful, detective and chill atmosphere."
+      }
+    ]
+  },
+  "npz_sha256": "86b8697182039267176fe95749c35a78a02d57fee9409adeb1f30bf9ef404719",
+  "decoded_pcm_sha256": "2b1db4d5f45292d69a72300a580e8c52b019048e128f5c9df755542c212f24e2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.48170999996364117
+}

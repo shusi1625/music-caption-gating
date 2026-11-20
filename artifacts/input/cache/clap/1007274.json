@@ -1,0 +1,32 @@
+{
+  "track_id": "1007274",
+  "split": "evaluation",
+  "artist_id": "429137",
+  "captions": [
+    {
+      "caption_id": "990",
+      "caption": "acoustic guitar solo track with consistent rhythm and repeating progression, suitable for a relaxing afternoon tea"
+    }
+  ],
+  "cache_key": "461d2d2df9d2a3b64f1e5d917fa70b882291338f447d5c5a97596179647c3e21",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b38168d1d2590f1c94f608d58a8bd1ced355eda0d04469c2e82063bea752a511",
+    "captions": [
+      {
+        "caption_id": "990",
+        "caption": "acoustic guitar solo track with consistent rhythm and repeating progression, suitable for a relaxing afternoon tea"
+      }
+    ]
+  },
+  "npz_sha256": "106ce94615b558a233179f6a86144b477bfd6fb8a110fd545ac6ede820cc6ce2",
+  "decoded_pcm_sha256": "7b099e0a0e3b9635cb470b68706167703c1b9071053185ebb8480dbe760f62ea",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.43187669990584254
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "537126",
+  "split": "development",
+  "artist_id": "358187",
+  "captions": [
+    {
+      "caption_id": "714",
+      "caption": "A ska song with all the usual suspects except for a slow and kind of melancholic intro."
+    }
+  ],
+  "cache_key": "cefdb898f5f07e165691e082cb50851532428ee4687477b856e471e892bfef30",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3c9206936194f34f15f088a0b5ae8980d482b912e6d0e539014273e58f555076",
+    "captions": [
+      {
+        "caption_id": "714",
+        "caption": "A ska song with all the usual suspects except for a slow and kind of melancholic intro."
+      }
+    ]
+  },
+  "npz_sha256": "fb47c533ddf15c21c3318863cd8b5f03126479b620a5ba4b00c66f4800608257",
+  "decoded_pcm_sha256": "a55b28d91d082788fb84ed1e13d52ab9e9e04bbae56e5a2f28046081f6e85d0b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.42763679986819625
+}

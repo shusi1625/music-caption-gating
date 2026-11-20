@@ -1,0 +1,32 @@
+{
+  "track_id": "945193",
+  "split": "evaluation",
+  "artist_id": "421686",
+  "captions": [
+    {
+      "caption_id": "441",
+      "caption": "EDM pop song with an energetic an positve mood."
+    }
+  ],
+  "cache_key": "e9fadcd83155e45a2067363b7fed3d38ceb99c6f9f4d6588ee8f88509e689f0a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1240564ec164012b5c22d7bc650dc1bf07407013d878229d7b73789efbba7aeb",
+    "captions": [
+      {
+        "caption_id": "441",
+        "caption": "EDM pop song with an energetic an positve mood."
+      }
+    ]
+  },
+  "npz_sha256": "ebb25c540b8f2e1bb67bd31786c5113f01cf4dbf44195e0d61b1a68ec55cc324",
+  "decoded_pcm_sha256": "06b8ef75fc9f9e84050b78e3f5c73c4496933fa60213a7f3715c522371f7ab51",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.43135760026052594
+}

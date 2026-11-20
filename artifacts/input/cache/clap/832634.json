@@ -1,0 +1,32 @@
+{
+  "track_id": "832634",
+  "split": "evaluation",
+  "artist_id": "340710",
+  "captions": [
+    {
+      "caption_id": "663",
+      "caption": "A rock song with a slow base well marked by drums and distorted guitars."
+    }
+  ],
+  "cache_key": "8f688004590e5c761e9736656fe2296b9a61c3385c9724c767bddfd0c899a8ff",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a3174a1d1aaa804cb6d84a04ca0656f9405964e4bbf422caad89080a314df755",
+    "captions": [
+      {
+        "caption_id": "663",
+        "caption": "A rock song with a slow base well marked by drums and distorted guitars."
+      }
+    ]
+  },
+  "npz_sha256": "8f1573be3e0816ad98cc1a7634f6b95dda71644cf9046436b2116f35fc383578",
+  "decoded_pcm_sha256": "ea10213d921527c299b006538156d7280c8a6a0c7d79a16d34978ea8bdc69df6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.4925220003351569
+}

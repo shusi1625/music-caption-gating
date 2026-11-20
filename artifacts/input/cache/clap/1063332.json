@@ -1,0 +1,32 @@
+{
+  "track_id": "1063332",
+  "split": "evaluation",
+  "artist_id": "437571",
+  "captions": [
+    {
+      "caption_id": "5",
+      "caption": "Groovy instrumental funk rock track with occasional guitar solos that give you a feeling of longing."
+    }
+  ],
+  "cache_key": "fe1dcf195e736cbe9d236ee426e771f778d1a92c62db2667e6fb795dc1164220",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9f5e0c1b9e3ee17d253abe229a8be050d25a2d9a06f1bb00f3fa2bf3dd215413",
+    "captions": [
+      {
+        "caption_id": "5",
+        "caption": "Groovy instrumental funk rock track with occasional guitar solos that give you a feeling of longing."
+      }
+    ]
+  },
+  "npz_sha256": "4b8beec83660b33c40a1b256151bed817338974e9c8c5c2e451d8b99cb81f0dd",
+  "decoded_pcm_sha256": "782908355522cfc1f1a71383c0b95a54b6c41735c4658c600849abd0765383c2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.44417970022186637
+}

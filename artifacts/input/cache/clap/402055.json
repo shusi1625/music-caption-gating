@@ -1,0 +1,32 @@
+{
+  "track_id": "402055",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "368",
+      "caption": "Instrumental piece with some baroque-era musical arrangements that could well be used in the opening credits of a period film."
+    }
+  ],
+  "cache_key": "9b2c36a7107768a35a62e6bf4dd5c71ca96c69d6ddcb41cbfb60313f8009d6e0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a7edf70daa511bdf2cfea9a9dc63272d1ce56d23f59a60192fd97095b9584e5a",
+    "captions": [
+      {
+        "caption_id": "368",
+        "caption": "Instrumental piece with some baroque-era musical arrangements that could well be used in the opening credits of a period film."
+      }
+    ]
+  },
+  "npz_sha256": "e2bfd586ff21fe4f2887b96ca5416f7a04e464b229364fde9c7825983ed60601",
+  "decoded_pcm_sha256": "873b15f4027ab52c7769e18f13dc507b1b4621af0c8ceb014913cf078d727adc",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.4322657003067434
+}

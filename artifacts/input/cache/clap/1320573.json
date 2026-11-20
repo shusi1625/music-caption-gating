@@ -1,0 +1,41 @@
+{
+  "track_id": "1320573",
+  "split": "evaluation",
+  "artist_id": "432338",
+  "captions": [
+    {
+      "caption_id": "557",
+      "caption": "Emotional and intimate punk rock ballad with just an acoustic guitar and a male vocalist."
+    },
+    {
+      "caption_id": "803",
+      "caption": "Guitar heavy folk song with accompanying male vocalist talking with introspection, not a particular happy song"
+    }
+  ],
+  "cache_key": "becd355d3fab4ad2c0903ba36002cd2db627e271d4edab7d5dfe9d9c1449adc3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bf13f5077da18b8e9073ac58ee1a7924a0ee59b6f617f64aa4db8c2bedc4c706",
+    "captions": [
+      {
+        "caption_id": "557",
+        "caption": "Emotional and intimate punk rock ballad with just an acoustic guitar and a male vocalist."
+      },
+      {
+        "caption_id": "803",
+        "caption": "Guitar heavy folk song with accompanying male vocalist talking with introspection, not a particular happy song"
+      }
+    ]
+  },
+  "npz_sha256": "a74c39242e445eee3c77f05ae5886ee5aa70c66e0251053339e162292d551276",
+  "decoded_pcm_sha256": "3b2906e454421014bbde9e40b7f03fb428eab1782fb1907a2e9c5fb371ef382c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    23
+  ],
+  "audio_forward_seconds": 0.4246999998576939
+}

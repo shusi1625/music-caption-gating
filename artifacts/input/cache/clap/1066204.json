@@ -1,0 +1,41 @@
+{
+  "track_id": "1066204",
+  "split": "evaluation",
+  "artist_id": "437998",
+  "captions": [
+    {
+      "caption_id": "669",
+      "caption": "A sad and moving instrumental piece for piano accompanied by a string section."
+    },
+    {
+      "caption_id": "881",
+      "caption": "Melodic sad instrumental piano that gives an atmospheric vibe"
+    }
+  ],
+  "cache_key": "4ffad0e5abf98502e3a1ccd26ba99f2e8faaf1a5003e28411277686b5d1bc65e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f522477d5fe3744565779666a0ffd2aed7055b864a05c60e183c93d9fca13fbb",
+    "captions": [
+      {
+        "caption_id": "669",
+        "caption": "A sad and moving instrumental piece for piano accompanied by a string section."
+      },
+      {
+        "caption_id": "881",
+        "caption": "Melodic sad instrumental piano that gives an atmospheric vibe"
+      }
+    ]
+  },
+  "npz_sha256": "c736bbe34993ac4be63612b88542d421261d5d13036836c7598a7ff0d8ade676",
+  "decoded_pcm_sha256": "0d3ef4cc01b697d95b0c44155ebd3076499df659757691298636ade1b0c7832c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16,
+    12
+  ],
+  "audio_forward_seconds": 0.43661919981241226
+}

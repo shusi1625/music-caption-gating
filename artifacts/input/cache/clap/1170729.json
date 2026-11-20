@@ -1,0 +1,41 @@
+{
+  "track_id": "1170729",
+  "split": "development",
+  "artist_id": "339048",
+  "captions": [
+    {
+      "caption_id": "337",
+      "caption": "A Christmas and spiritual song sung by a beautiful female voice and accompanied by a stringed instruments."
+    },
+    {
+      "caption_id": "822",
+      "caption": "Soft piano and guitar ballad with simple arpeggios with a female tenor voice singing something religious"
+    }
+  ],
+  "cache_key": "6e7d86bdb3dfba7473ae2f571a106c5fb7bec7d143c2b6a9a0dac79f4e7d403e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bf11783bc4193c5989f12e20a93a3e170245adec89aa2cf6a88ce40ba7b6f0db",
+    "captions": [
+      {
+        "caption_id": "337",
+        "caption": "A Christmas and spiritual song sung by a beautiful female voice and accompanied by a stringed instruments."
+      },
+      {
+        "caption_id": "822",
+        "caption": "Soft piano and guitar ballad with simple arpeggios with a female tenor voice singing something religious"
+      }
+    ]
+  },
+  "npz_sha256": "2980e54dcfe67cb13c0f91eec90e60cc139634f447b7baedf690a7e9b4ed78fc",
+  "decoded_pcm_sha256": "9eaf90db799b0c9abe38a4c0ac4ebd7ebdf67da0f3038e45c2706c1added8efa",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    23
+  ],
+  "audio_forward_seconds": 0.428770300000906
+}

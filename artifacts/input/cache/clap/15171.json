@@ -1,0 +1,32 @@
+{
+  "track_id": "15171",
+  "split": "evaluation",
+  "artist_id": "2208",
+  "captions": [
+    {
+      "caption_id": "760",
+      "caption": "A soothing track with a mellow synth sound enriched progressively by an upbeat drum machine and robot-like vocalizations."
+    }
+  ],
+  "cache_key": "022bfb03278f85900031d5e8a0c2acf0079a228e1b34724bb3fcd8ea225d7b79",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "25ccc1495460566eab8046f2f519581afbf0ef26dafd4862013a431dc0921063",
+    "captions": [
+      {
+        "caption_id": "760",
+        "caption": "A soothing track with a mellow synth sound enriched progressively by an upbeat drum machine and robot-like vocalizations."
+      }
+    ]
+  },
+  "npz_sha256": "cb0940ce968413ac7520b14564904986675883e12225575f294892c312f71998",
+  "decoded_pcm_sha256": "0dbcfd72e700b8b26ef1b505c474e95d34ff6b20590966479f44b3a6359bb97b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25
+  ],
+  "audio_forward_seconds": 0.4495605998672545
+}

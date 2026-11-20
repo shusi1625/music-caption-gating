@@ -1,0 +1,32 @@
+{
+  "track_id": "3453",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "690",
+      "caption": "This song starts with a strange french conversation and chain sounds and then gives way to a very heavy and intense synth metal section."
+    }
+  ],
+  "cache_key": "d9e2a58942e82a4352f0214eeabac08d28dd08949521d1463ff915abff1bb016",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9786043cedd17e802280b0d1bd69a0d3bb347136266d392fa0985c96db67005b",
+    "captions": [
+      {
+        "caption_id": "690",
+        "caption": "This song starts with a strange french conversation and chain sounds and then gives way to a very heavy and intense synth metal section."
+      }
+    ]
+  },
+  "npz_sha256": "d5d843acad86807f80982e13a58976817749ea600a0f9e7570e3585581176777",
+  "decoded_pcm_sha256": "9f326c4f8d7c8d2fa29c83f63b3ff7c29a325cac284fc30bfec6a853d1a1c268",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.5405033999122679
+}

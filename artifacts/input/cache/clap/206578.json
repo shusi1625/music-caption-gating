@@ -1,0 +1,32 @@
+{
+  "track_id": "206578",
+  "split": "evaluation",
+  "artist_id": "341332",
+  "captions": [
+    {
+      "caption_id": "185",
+      "caption": "This track is of the soft modern rock genre and consists of guitar, bass, drums, keyboards, and male vocals."
+    }
+  ],
+  "cache_key": "72da16ca11b75ef8348ebb779557304d961d1848e25e7a64b176d528adefe457",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "000b98203c69b36c7c9f9c4966ef20cb81bd8171554225e2d0617cd37403fada",
+    "captions": [
+      {
+        "caption_id": "185",
+        "caption": "This track is of the soft modern rock genre and consists of guitar, bass, drums, keyboards, and male vocals."
+      }
+    ]
+  },
+  "npz_sha256": "460f9cc3bdf958bf0d622b8e9e7f78024d7fe4c3ad1c6ad16a643549c79b02ce",
+  "decoded_pcm_sha256": "d9bdeef72f6d87d29e043bcfc051b7561101c934789c3a8143d1543a8ca6134c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.43051209999248385
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "1009672",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "82",
+      "caption": "The song is closer to alternative rock / indie rock genres, with a happy and uplifting mood, danceable,  the main singer is male and there are brass instruments in the accompaniment"
+    },
+    {
+      "caption_id": "1060",
+      "caption": "This rock song has an indie rock genre but with a dancing  joyful vibe to it and licks / effects using synths along with whistle at the end"
+    }
+  ],
+  "cache_key": "2b0b1a349f1003d83e41c3393d1bf7df1ac5b8b3d4a12873f0b7964392bc2676",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "58fbef8c1704439a2ee8db54fb6b0831ba1c99714e044091448d6bee28e3f5e8",
+    "captions": [
+      {
+        "caption_id": "82",
+        "caption": "The song is closer to alternative rock / indie rock genres, with a happy and uplifting mood, danceable,  the main singer is male and there are brass instruments in the accompaniment"
+      },
+      {
+        "caption_id": "1060",
+        "caption": "This rock song has an indie rock genre but with a dancing  joyful vibe to it and licks / effects using synths along with whistle at the end"
+      }
+    ]
+  },
+  "npz_sha256": "de999dde00c7b7c1658e4d9e08e429316f3f77b4cb6227e9c77f66c3fbe065a3",
+  "decoded_pcm_sha256": "d64e2a7d44972b14fbeb857ea05229694948f4bde0ad77728cef9c7268375104",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    40,
+    33
+  ],
+  "audio_forward_seconds": 0.45207220036536455
+}

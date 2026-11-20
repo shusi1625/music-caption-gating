@@ -1,0 +1,32 @@
+{
+  "track_id": "376240",
+  "split": "evaluation",
+  "artist_id": "2320",
+  "captions": [
+    {
+      "caption_id": "1096",
+      "caption": "Metal song that could be played in a motorway bar full of rough-looking bikers."
+    }
+  ],
+  "cache_key": "12ba8355e8e83137f9d3217b18acc323082fae890210322cef15de6ce3a0b57f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "07fdc28bb660ceac2febfdc50bb92748d7ceeeb0014ed3ddebfc2f34de098996",
+    "captions": [
+      {
+        "caption_id": "1096",
+        "caption": "Metal song that could be played in a motorway bar full of rough-looking bikers."
+      }
+    ]
+  },
+  "npz_sha256": "892507c0bf7152ef6ae642159e03f39efa27e008cc651be067665e5941a825ba",
+  "decoded_pcm_sha256": "591dd95664c27a0019b428e6f64d23d7dfc668e820dcf17a9f72f52dbc2aa6c3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.41923379991203547
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1033253",
+  "split": "evaluation",
+  "artist_id": "433896",
+  "captions": [
+    {
+      "caption_id": "520",
+      "caption": "This indie rock song almost sounds like a children song if it wasn’t for the lyrics."
+    }
+  ],
+  "cache_key": "c15327496a06de2f71cb4d6d39cb1342bc174848bbcc8f823aba15f321e88775",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f60c4d23b7659985d2c4e3960b6028b55636e9e820c2b8911950146a49be974e",
+    "captions": [
+      {
+        "caption_id": "520",
+        "caption": "This indie rock song almost sounds like a children song if it wasn’t for the lyrics."
+      }
+    ]
+  },
+  "npz_sha256": "afb65791591c6135520881fcfc7ba5fd922dc1f6d568fcd2f41cb8380cefa895",
+  "decoded_pcm_sha256": "f346f7eb78eb1fd2f4f2c6972e5b0690b22dfd27c09f1de9ab880259d5be6787",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.4347639000043273
+}

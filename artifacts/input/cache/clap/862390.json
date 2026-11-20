@@ -1,0 +1,32 @@
+{
+  "track_id": "862390",
+  "split": "evaluation",
+  "artist_id": "6916",
+  "captions": [
+    {
+      "caption_id": "1061",
+      "caption": "Fast tempo instrumental song and beats that gives a sense of urgency made using midi electronic samples which can be used for a game soundtrack"
+    }
+  ],
+  "cache_key": "d73eff1c6614bdfc62231774220cb171f714f628ec973115e6b305dc34f5aec5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "946acbf9bcbff9f70ad8f6670d77fd66505e534874bec58bbfb31a63e48b060a",
+    "captions": [
+      {
+        "caption_id": "1061",
+        "caption": "Fast tempo instrumental song and beats that gives a sense of urgency made using midi electronic samples which can be used for a game soundtrack"
+      }
+    ]
+  },
+  "npz_sha256": "fcf074d62a777ff61a85b1e17769c9dc987fa1c1b90b6a780bef61191136152f",
+  "decoded_pcm_sha256": "b9cecfdc592239eb25f08d150ca968a049c1bb9bae3d02777fcf019be0f8f97e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.5156771996989846
+}

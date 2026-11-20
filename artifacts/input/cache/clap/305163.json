@@ -1,0 +1,32 @@
+{
+  "track_id": "305163",
+  "split": "evaluation",
+  "artist_id": "348448",
+  "captions": [
+    {
+      "caption_id": "439",
+      "caption": "Latin chill song with a bosa nova flavour, accompanied by a melodic trumpet and sung by a male voice."
+    }
+  ],
+  "cache_key": "7e874ca5ae7498163bc8dfd1aed6cae04da78bd54d6cb53efb21fb7d7b7c8a0c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ed80b4830ccabb57f589bf14fcc612dd5cb0c2fe1bc54a41dbec95c3601e0cf4",
+    "captions": [
+      {
+        "caption_id": "439",
+        "caption": "Latin chill song with a bosa nova flavour, accompanied by a melodic trumpet and sung by a male voice."
+      }
+    ]
+  },
+  "npz_sha256": "cbc91c42b396388220ffe7b4c7f6640b27810044f8a06f442370f5c94a75d787",
+  "decoded_pcm_sha256": "e6042099d19192c87f8cb5d64141a4d1a110673a8827838d8fa77aa4cef0e44e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.5577536001801491
+}

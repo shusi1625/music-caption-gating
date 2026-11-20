@@ -1,0 +1,41 @@
+{
+  "track_id": "108303",
+  "split": "development",
+  "artist_id": "337281",
+  "captions": [
+    {
+      "caption_id": "179",
+      "caption": "Delayed synth blips and electronic drums combine on an ambient electronica track."
+    },
+    {
+      "caption_id": "551",
+      "caption": "Ambient electronic track with a mysterious and ethereal mood and a spacey vibe."
+    }
+  ],
+  "cache_key": "e1342f7bc42b3b6c8cad6bcc4ab96468520f806af20a495bf13b14b4d0e50607",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "04acc4d0fdc96a72d0bfb7ce6161f50e0487d853be084ecfabcfe1ca6df7b72e",
+    "captions": [
+      {
+        "caption_id": "179",
+        "caption": "Delayed synth blips and electronic drums combine on an ambient electronica track."
+      },
+      {
+        "caption_id": "551",
+        "caption": "Ambient electronic track with a mysterious and ethereal mood and a spacey vibe."
+      }
+    ]
+  },
+  "npz_sha256": "81e10d057c86a25fe295159f88bf78c8322d61968a05df6091f97fe4ec453cf1",
+  "decoded_pcm_sha256": "df4d5aa391d84d2e3a64ad071831218cb8ad352a5119d57187ff9846558cafe9",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    18,
+    19
+  ],
+  "audio_forward_seconds": 0.41266810009256005
+}

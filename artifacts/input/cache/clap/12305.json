@@ -1,0 +1,32 @@
+{
+  "track_id": "12305",
+  "split": "development",
+  "artist_id": "1858",
+  "captions": [
+    {
+      "caption_id": "928",
+      "caption": "Live recording of a french blues music that starts with a male voice talking alone, and then is followed by a fast-paced blues music with drums, trumpets, harmonica and electric guitar"
+    }
+  ],
+  "cache_key": "db73adeb464b784847f2606f9a463b5cddb54255777ecab6335128fdc924b32d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b3e39755c1f366f3932980c13f478f4203febf7fb7f272fe5a0bdb891a5a45ba",
+    "captions": [
+      {
+        "caption_id": "928",
+        "caption": "Live recording of a french blues music that starts with a male voice talking alone, and then is followed by a fast-paced blues music with drums, trumpets, harmonica and electric guitar"
+      }
+    ]
+  },
+  "npz_sha256": "e4ec0f2eb1af3d360545f58ec4c14046eb11027fda2dac7027d045711ed85400",
+  "decoded_pcm_sha256": "374dc71792c624d0594ad5b52318672f8364900524367cc41acc09ea014aad26",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    40
+  ],
+  "audio_forward_seconds": 0.4124198001809418
+}

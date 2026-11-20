@@ -1,0 +1,32 @@
+{
+  "track_id": "103887",
+  "split": "development",
+  "artist_id": "3901",
+  "captions": [
+    {
+      "caption_id": "572",
+      "caption": "Two electric guitars in conversation with each other, one with a wua-wua effect and the other with a strong delay effect."
+    }
+  ],
+  "cache_key": "0aa37959f5af5f0ec9d51fd9c5cb9d7357069485b9de35719b23a5ddb5782b2d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a439d6d2bac72d02c6a55ff6ed843b8e177afc684823e792d474e37b779a4e11",
+    "captions": [
+      {
+        "caption_id": "572",
+        "caption": "Two electric guitars in conversation with each other, one with a wua-wua effect and the other with a strong delay effect."
+      }
+    ]
+  },
+  "npz_sha256": "1e4bd1a1d1e25aef538b1ba6b5042306698cc6db3925658e90b5e05257e88a3a",
+  "decoded_pcm_sha256": "5b09a084f5dbef878bb09f9a0cbdff1da4ae95b9e52ce8e256436a2fc48e4081",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.4434655001387
+}

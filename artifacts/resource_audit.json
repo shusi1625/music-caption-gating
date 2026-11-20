@@ -1,0 +1,110 @@
+{
+  "checked_date": "2026-11-20",
+  "scope": "public input metadata, source attribution, reference results and resource notices; excludes private dense features",
+  "public_files_checked": 432,
+  "public_bytes_checked": 2671893,
+  "private_dense_feature_count": 408,
+  "private_dense_feature_bytes": 11473452,
+  "private_exclusion_pattern": "artifacts/input/cache/clap/*.npz",
+  "privacy_pattern_matches": [],
+  "public_npz_arrays": {
+    "artifacts/input/expected/evaluation/bootstrap_weights.npz": {
+      "query": {
+        "shape": [
+          2000,
+          69
+        ],
+        "dtype": "float64"
+      },
+      "catalog": {
+        "shape": [
+          2000,
+          309
+        ],
+        "dtype": "float64"
+      }
+    },
+    "artifacts/input/expected/evaluation/raw_arrays.npz": {
+      "ranks": {
+        "shape": [
+          2,
+          20,
+          8,
+          69
+        ],
+        "dtype": "int32"
+      },
+      "donor_indices": {
+        "shape": [
+          2,
+          20,
+          309
+        ],
+        "dtype": "int32"
+      },
+      "selected_mask": {
+        "shape": [
+          2,
+          20,
+          309
+        ],
+        "dtype": "bool"
+      },
+      "verification_scores": {
+        "shape": [
+          2,
+          20,
+          2,
+          309
+        ],
+        "dtype": "float32"
+      },
+      "gates": {
+        "shape": [
+          2,
+          20,
+          4,
+          309
+        ],
+        "dtype": "bool"
+      },
+      "aurocs": {
+        "shape": [
+          2,
+          20,
+          2
+        ],
+        "dtype": "float64"
+      },
+      "catalog_ids": {
+        "shape": [
+          309
+        ],
+        "dtype": "<U7"
+      },
+      "query_source_ids": {
+        "shape": [
+          69
+        ],
+        "dtype": "<U7"
+      },
+      "catalog_artist_ids": {
+        "shape": [
+          309
+        ],
+        "dtype": "<U6"
+      },
+      "query_artist_ids": {
+        "shape": [
+          69
+        ],
+        "dtype": "<U6"
+      }
+    }
+  },
+  "original_audio_files_sha_crc_size_verified": 439,
+  "official_single_track_download_and_reuse": "passed",
+  "downloader_cpu_tests_passed": 5,
+  "audio_files_distributed": 0,
+  "model_weights_distributed": 0
+}

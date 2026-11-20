@@ -1,0 +1,41 @@
+{
+  "track_id": "236348",
+  "split": "evaluation",
+  "artist_id": "2208",
+  "captions": [
+    {
+      "caption_id": "298",
+      "caption": "The song start with a dark guitar riff but quickly turns into French EDM mixed with downtempo, with a strong beat and vocal samples and pads morphing through the song."
+    },
+    {
+      "caption_id": "619",
+      "caption": "Art rock song that features a woman repeating a phrase over and over again."
+    }
+  ],
+  "cache_key": "b5c5b6f3ecd2d88c4beecbff92399ab3f19b5a6399ebba61ebe5f6a483a57948",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3164a0aba4dead25c80b76938fd948a57594bfce6c1311f190a231911994a90f",
+    "captions": [
+      {
+        "caption_id": "298",
+        "caption": "The song start with a dark guitar riff but quickly turns into French EDM mixed with downtempo, with a strong beat and vocal samples and pads morphing through the song."
+      },
+      {
+        "caption_id": "619",
+        "caption": "Art rock song that features a woman repeating a phrase over and over again."
+      }
+    ]
+  },
+  "npz_sha256": "48f4f8a91dad8c503eb3d1586c2194fa8e6f6fa71bf0c6e1a19cbc0edecc9d4d",
+  "decoded_pcm_sha256": "02215cab583dc08253106974bca5272c1633c4802c450e81546c5f4058195823",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    38,
+    17
+  ],
+  "audio_forward_seconds": 0.47867640014737844
+}

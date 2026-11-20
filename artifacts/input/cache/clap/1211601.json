@@ -1,0 +1,41 @@
+{
+  "track_id": "1211601",
+  "split": "development",
+  "artist_id": "465566",
+  "captions": [
+    {
+      "caption_id": "367",
+      "caption": "Intense sentimental or emotional pop song featuring a melodic male voice accompanied by piano."
+    },
+    {
+      "caption_id": "455",
+      "caption": "Piano music with male singing in english with an american accent"
+    }
+  ],
+  "cache_key": "374c564a9c41c4c34bb46dff33e7b3195287043e57cb6f968437ad525e3d5fd1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f1de5263460c564ee8b5829467ac1fe8cf6daaac84538b0efbe7e1ea42ce9683",
+    "captions": [
+      {
+        "caption_id": "367",
+        "caption": "Intense sentimental or emotional pop song featuring a melodic male voice accompanied by piano."
+      },
+      {
+        "caption_id": "455",
+        "caption": "Piano music with male singing in english with an american accent"
+      }
+    ]
+  },
+  "npz_sha256": "4e8983fbb7c33451a93241f618817102177535fa0638109834acdf90410903c0",
+  "decoded_pcm_sha256": "a4887b64cb9f1081141e5e24a27225d6cfb6d632793c2542310f3d88bdbcf50c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19,
+    15
+  ],
+  "audio_forward_seconds": 0.43514780001714826
+}

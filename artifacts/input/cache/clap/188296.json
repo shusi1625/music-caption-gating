@@ -1,0 +1,32 @@
+{
+  "track_id": "188296",
+  "split": "evaluation",
+  "artist_id": "337296",
+  "captions": [
+    {
+      "caption_id": "782",
+      "caption": "Upbeat rock guitar song with a punk feel about love"
+    }
+  ],
+  "cache_key": "550d2f5eaf574567bd2af372c0737b13075eacb0e91a33bd5df22051f9129744",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "00cb1538ee41cc75ee5d4c702a3bd9252f7f07b0292ae9a089bd992967a309ba",
+    "captions": [
+      {
+        "caption_id": "782",
+        "caption": "Upbeat rock guitar song with a punk feel about love"
+      }
+    ]
+  },
+  "npz_sha256": "822bf932f1f641933300def4d12acc5a5933ef6cb607db3553cbcb46856d8954",
+  "decoded_pcm_sha256": "6a984e171b3ab4063b6b12cfd9e055674b09bb50b3baf4968da5e356a398241d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4990596999414265
+}

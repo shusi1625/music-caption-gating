@@ -1,0 +1,32 @@
+{
+  "track_id": "1135054",
+  "split": "evaluation",
+  "artist_id": "423882",
+  "captions": [
+    {
+      "caption_id": "914",
+      "caption": "Smooth chill electronic music featuring calming flute and techno beats."
+    }
+  ],
+  "cache_key": "e6d803d4f0a8e76c7037d471ffd3cc1d128b0186b1e5690f01c9ec8dea160549",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9bf5c88d17c40584542e410b8e416e95fb6eb57ff6c52c349d111dd2e6b71095",
+    "captions": [
+      {
+        "caption_id": "914",
+        "caption": "Smooth chill electronic music featuring calming flute and techno beats."
+      }
+    ]
+  },
+  "npz_sha256": "abcdab9e1885f661c212f0f7fb9af2fbe5bf9d2df2d423542fe7fa84394e5bfd",
+  "decoded_pcm_sha256": "e6e8ddf61c29661c98bd4fda78a557b860596e0fd21adc90b5892f305326e1d2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.5875033000484109
+}

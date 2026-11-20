@@ -1,0 +1,41 @@
+{
+  "track_id": "7247",
+  "split": "evaluation",
+  "artist_id": "1058",
+  "captions": [
+    {
+      "caption_id": "115",
+      "caption": "A moody, slow-building electronic track that gradually evolves from a dreamy, atmospheric opening into a driving, pulsing rhythm, staying purely instrumental throughout, except for the sound of some chirping birds towards the end."
+    },
+    {
+      "caption_id": "325",
+      "caption": "Instrumental electronic piece  of music with an ambient and experimental vibe that radiates calmness and luminosity thanks to a combination of harmonious and evocative sounds."
+    }
+  ],
+  "cache_key": "a8c3418b7836472e1aa8295f37d2d3745343120b8162140fa2d0cc51a144a071",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3b3c4255ce2c897b0db93a14d0fa96da50fbd921935f0159a3e30ad53694c002",
+    "captions": [
+      {
+        "caption_id": "115",
+        "caption": "A moody, slow-building electronic track that gradually evolves from a dreamy, atmospheric opening into a driving, pulsing rhythm, staying purely instrumental throughout, except for the sound of some chirping birds towards the end."
+      },
+      {
+        "caption_id": "325",
+        "caption": "Instrumental electronic piece  of music with an ambient and experimental vibe that radiates calmness and luminosity thanks to a combination of harmonious and evocative sounds."
+      }
+    ]
+  },
+  "npz_sha256": "35774141d0bee8824ea8941baa8aaaf3525bb23aa31ea3c271cbe0747c2712b7",
+  "decoded_pcm_sha256": "c19bca2957bda2945cca57a1472f9843df8ff358a5aa2e5765caf822778465fa",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    48,
+    36
+  ],
+  "audio_forward_seconds": 0.5382035002112389
+}

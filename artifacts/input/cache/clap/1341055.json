@@ -1,0 +1,41 @@
+{
+  "track_id": "1341055",
+  "split": "evaluation",
+  "artist_id": "360613",
+  "captions": [
+    {
+      "caption_id": "418",
+      "caption": "Dramatic Latin American rock reggae with reverberated vocals, dramatic rock guitar solos and wah pedal guitar comping"
+    },
+    {
+      "caption_id": "689",
+      "caption": "This funky song features a some spanish rapping and a solid electric guitar solo."
+    }
+  ],
+  "cache_key": "20f8ad7f98f28415cfd218656393e2538367b1e0b452cd282f7cf2cd2ea56486",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b75ad33a4f8ae46bd567131bc7a041a7b92b9bd4c7488f86d467c4b3ae7ef177",
+    "captions": [
+      {
+        "caption_id": "418",
+        "caption": "Dramatic Latin American rock reggae with reverberated vocals, dramatic rock guitar solos and wah pedal guitar comping"
+      },
+      {
+        "caption_id": "689",
+        "caption": "This funky song features a some spanish rapping and a solid electric guitar solo."
+      }
+    ]
+  },
+  "npz_sha256": "27244c390a3eab520b0162139b0d1dd56d85c8affc47d2616df0e7fbc8ef6885",
+  "decoded_pcm_sha256": "6f342610b61b0b5714729b0c4f9350d985ec6c424e79b50838ff7d9c0751ae4f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27,
+    19
+  ],
+  "audio_forward_seconds": 0.43826920026913285
+}

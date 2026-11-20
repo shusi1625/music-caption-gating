@@ -1,0 +1,9 @@
+# Preserve published scientific JSON bytes and their original SHA256 values.
+* -text
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+

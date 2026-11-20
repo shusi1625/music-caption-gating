@@ -1,0 +1,32 @@
+{
+  "track_id": "1176716",
+  "split": "evaluation",
+  "artist_id": "458008",
+  "captions": [
+    {
+      "caption_id": "505",
+      "caption": "Instrumental lounge song, with an 80s sounding vibe, a strong digital synth pad in the back, a prominent bass line and the overall feeling of a hotel waiting room."
+    }
+  ],
+  "cache_key": "9be4bde00a933737e21a191731dff8746807a5924ca0c0789d98df9047abf7e2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "be082e82f1c6e4313c27feaff872e694fbe7e10af52f167fb8b0857b03dc015e",
+    "captions": [
+      {
+        "caption_id": "505",
+        "caption": "Instrumental lounge song, with an 80s sounding vibe, a strong digital synth pad in the back, a prominent bass line and the overall feeling of a hotel waiting room."
+      }
+    ]
+  },
+  "npz_sha256": "cb6eea3f56039715920e17b943255b00d836962aaddfed93ab91b20962a4d3a5",
+  "decoded_pcm_sha256": "afe11e9d9f9b0db9cb9b01a87dcb5c4beb085cac3a52b6b79892c26858541816",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    38
+  ],
+  "audio_forward_seconds": 0.518683800008148
+}

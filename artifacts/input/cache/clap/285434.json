@@ -1,0 +1,32 @@
+{
+  "track_id": "285434",
+  "split": "evaluation",
+  "artist_id": "347596",
+  "captions": [
+    {
+      "caption_id": "802",
+      "caption": "Classical symphony, sounding like someone is doing something hastily"
+    }
+  ],
+  "cache_key": "fb87c876aa91c820de53360e3575bd8fc32f736c0f0354173011ad9c6a56d641",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "89e0099f87a4a76bd0e9cec15d6613b546a372a037bf5a19ded7b5ccd0bd5ccf",
+    "captions": [
+      {
+        "caption_id": "802",
+        "caption": "Classical symphony, sounding like someone is doing something hastily"
+      }
+    ]
+  },
+  "npz_sha256": "c22cbe0a26f3b17330a3fc2cb9fb22278ee6c019f3fc41e206370330d9f98d87",
+  "decoded_pcm_sha256": "73b12fac588ed49944ba7b20af7152b493a3d98cccd0379b1ebc5386c6e858a5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.5924359997734427
+}

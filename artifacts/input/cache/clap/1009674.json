@@ -1,0 +1,32 @@
+{
+  "track_id": "1009674",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "1032",
+      "caption": "The song builds up with an optimistic and hopeful feel using drums, bass guitar and a synth solo in the middle along with vocals talking about living on"
+    }
+  ],
+  "cache_key": "0b0ec7536e1afc527787946d28c9151772cb9c5b3fdb2b75843f62a53b61824a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3e5271d3d791797982317424a5248ef7f72c6acae89ba6a616e5482ec9d1cfeb",
+    "captions": [
+      {
+        "caption_id": "1032",
+        "caption": "The song builds up with an optimistic and hopeful feel using drums, bass guitar and a synth solo in the middle along with vocals talking about living on"
+      }
+    ]
+  },
+  "npz_sha256": "e8f6a2be288a380786148271bcd5e067028085e6047fc4de01badc77b2eeafe8",
+  "decoded_pcm_sha256": "263f2cd4fa19a36586258384d3eb90fc507f79ca39842fb479bc9690812d9431",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    31
+  ],
+  "audio_forward_seconds": 0.5083822002634406
+}

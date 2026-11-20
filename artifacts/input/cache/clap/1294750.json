@@ -1,0 +1,32 @@
+{
+  "track_id": "1294750",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "640",
+      "caption": "Poppy rock track that features an energetic drum and smooth male vocals reminds of 2000's rock anthems."
+    }
+  ],
+  "cache_key": "1b438d56d9bc3f751d4186e979f3eefea1bc6eebf7357568024578e8de494f74",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b6987d53a03e161f75f81035d30c633d20fd15c2a9137df9114cd78cb9ff144d",
+    "captions": [
+      {
+        "caption_id": "640",
+        "caption": "Poppy rock track that features an energetic drum and smooth male vocals reminds of 2000's rock anthems."
+      }
+    ]
+  },
+  "npz_sha256": "72fff451aa882ac7a409de29864807d3b13d3cda1124f3f106bd1ec4bf5d3f27",
+  "decoded_pcm_sha256": "91cfa866594cee69298d6b5f3e034f2d735216c9fbe13757799fc72effdbb3c9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.6248165001161397
+}

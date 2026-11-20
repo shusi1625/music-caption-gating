@@ -1,0 +1,32 @@
+{
+  "track_id": "6007",
+  "split": "development",
+  "artist_id": "795",
+  "captions": [
+    {
+      "caption_id": "683",
+      "caption": "This song starts with a piano that can be heard from far but then gets exciting with guitar and a fast-paced male vocal."
+    }
+  ],
+  "cache_key": "64f2b5dffaae4d60e6a80fe8acdf9e910db332bf2ef1ee2ab09245926e95114c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "eb28e0764de42e79936d8896766b1493d81dc73e74a138d6b90b69db2bc83276",
+    "captions": [
+      {
+        "caption_id": "683",
+        "caption": "This song starts with a piano that can be heard from far but then gets exciting with guitar and a fast-paced male vocal."
+      }
+    ]
+  },
+  "npz_sha256": "f9f5e7c26894b26177eefdde299d6a80ad16294742052e2b91ffaa7cc49e4886",
+  "decoded_pcm_sha256": "5eebc50eeac94d31b6dfdf48304ff75617ef8bca446a2c48ed95cc7f5909943e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.4904922996647656
+}

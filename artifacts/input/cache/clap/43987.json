@@ -1,0 +1,32 @@
+{
+  "track_id": "43987",
+  "split": "development",
+  "artist_id": "6079",
+  "captions": [
+    {
+      "caption_id": "737",
+      "caption": "Quivering male voice over solo acoustic guitar, indie folk rock, playful."
+    }
+  ],
+  "cache_key": "cd492a4d7bac281c5234ac1cd31b7685eb99670faf7162755423f6d41d962287",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1b48f5d3cc819058c2c7013d3e074e14d0b5fba6b620ea6bc704eafacae46920",
+    "captions": [
+      {
+        "caption_id": "737",
+        "caption": "Quivering male voice over solo acoustic guitar, indie folk rock, playful."
+      }
+    ]
+  },
+  "npz_sha256": "600d26e263aa8c70bf776a36d4159579ddeb04b8771777097bd63d90b5ee0d07",
+  "decoded_pcm_sha256": "bed29a96e7601fcbc3f4f8a76ef23551e27bb4346434695f390f3b3f492ed920",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.590867499820888
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "25250",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "232",
+      "caption": "Harp, suitable for library, game and film music."
+    }
+  ],
+  "cache_key": "72c65772ba0949a25cddad4db74cd1db81fecdf3f08eeac7937893de720f204c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b4b477e5346b763bfc255c5d5023746f3caed5e2fe77a62b03147538b0f1ac73",
+    "captions": [
+      {
+        "caption_id": "232",
+        "caption": "Harp, suitable for library, game and film music."
+      }
+    ]
+  },
+  "npz_sha256": "87397a30dc33bd6e9024af27a1166699914d8b4da96b96b8be8915a4a1d9332d",
+  "decoded_pcm_sha256": "3f4fc95dfd70c768754cc2e15d72bc50abdf24fb85588153c1b4c86229019641",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.5286561003886163
+}

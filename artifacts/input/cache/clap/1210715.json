@@ -1,0 +1,32 @@
+{
+  "track_id": "1210715",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "140",
+      "caption": "Upbeat commercial-sounding song with a simple drum rhythm, guitar chords and a simple but spacey-sounding synth melody"
+    }
+  ],
+  "cache_key": "2b42573af37f2e45779abc54d64e319d3cf1eb5da4b3a7ed3fc9bffc91c8618e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b47e1fbb1dcaa6b92b19ef6bdcf32790a0a6ab62ed86b096f0508e1ac85b71fe",
+    "captions": [
+      {
+        "caption_id": "140",
+        "caption": "Upbeat commercial-sounding song with a simple drum rhythm, guitar chords and a simple but spacey-sounding synth melody"
+      }
+    ]
+  },
+  "npz_sha256": "4413be3d16de5b0a1dcecd234697a9dc5e1249d91423dd678ccafc28fae0253e",
+  "decoded_pcm_sha256": "451ddcf0a7198841fb6459a49e56fa2800ed17d0e17a1075aaaf90f50e74cbbf",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.424301799852401
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "12301",
+  "split": "development",
+  "artist_id": "1858",
+  "captions": [
+    {
+      "caption_id": "23",
+      "caption": "Instrumental song with classical blues chords but played with a big band style."
+    },
+    {
+      "caption_id": "341",
+      "caption": "Energetic bluesy song with a harmonica and horn section in musical dialogue."
+    }
+  ],
+  "cache_key": "fb98f9878c637d149f8908e568d391f5fa2fb6e22163585b2249559d0b1daf74",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3ebb263b2e84a3d199e04d6c6556f99d673bf49dce2ccbdd25033c161a06a685",
+    "captions": [
+      {
+        "caption_id": "23",
+        "caption": "Instrumental song with classical blues chords but played with a big band style."
+      },
+      {
+        "caption_id": "341",
+        "caption": "Energetic bluesy song with a harmonica and horn section in musical dialogue."
+      }
+    ]
+  },
+  "npz_sha256": "260831204136a197f88f40f8dfaaa34abbf5f0c39402c419b955c022cc54f1ed",
+  "decoded_pcm_sha256": "3ae5c7dd6e8362c0c7145ae9828eba6e26bd53264ccb39e73dd152f287bb728a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18,
+    19
+  ],
+  "audio_forward_seconds": 0.5442856000736356
+}

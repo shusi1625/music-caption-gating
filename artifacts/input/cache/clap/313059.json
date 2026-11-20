@@ -1,0 +1,32 @@
+{
+  "track_id": "313059",
+  "split": "evaluation",
+  "artist_id": "336640",
+  "captions": [
+    {
+      "caption_id": "524",
+      "caption": "Bright synth swooshes in the opening followed by a prominent acoustic guitar and a happy-go-lucky bass-line and beat creating a light and breezy feeling evoking a shopping mall or tourist cafe."
+    }
+  ],
+  "cache_key": "ae07e9f400390ed1fd1d2d85fec6b1d0b058b2d62d96b4ddef7580e886862f0e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "67121554bf8fe80fd553aa8fa164ca6a548abd983b1bf5c4577a540feda6f555",
+    "captions": [
+      {
+        "caption_id": "524",
+        "caption": "Bright synth swooshes in the opening followed by a prominent acoustic guitar and a happy-go-lucky bass-line and beat creating a light and breezy feeling evoking a shopping mall or tourist cafe."
+      }
+    ]
+  },
+  "npz_sha256": "d6e43673c0d024b96f27109c0d7eca8e5b8d85a4583dd6da1bf365b5725a2d6d",
+  "decoded_pcm_sha256": "86c5d282032e003bde1f12eaae46e522cea5cd3ea851c9fa96b149c2d72b0cc3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    45
+  ],
+  "audio_forward_seconds": 0.5608632997609675
+}

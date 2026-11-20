@@ -1,0 +1,41 @@
+{
+  "track_id": "1135703",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "200",
+      "caption": "It is an upbeat song, with vocals, drums, acoustic guitar, and synth, which can be heard while cooking, running, exercising, etc."
+    },
+    {
+      "caption_id": "412",
+      "caption": "Contemporary trendy optimistic indie pop, with dirty drums, happy guitar comping and synthesizer solo"
+    }
+  ],
+  "cache_key": "855121d4c17c7b459b6b14c80283c9453cd7ccfa44fe5c83fdb98699489f2edc",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "95f1a5f302e2a91cd4d0c0e1d4ce232173be1048432a74b04dfc3151c15f18f9",
+    "captions": [
+      {
+        "caption_id": "200",
+        "caption": "It is an upbeat song, with vocals, drums, acoustic guitar, and synth, which can be heard while cooking, running, exercising, etc."
+      },
+      {
+        "caption_id": "412",
+        "caption": "Contemporary trendy optimistic indie pop, with dirty drums, happy guitar comping and synthesizer solo"
+      }
+    ]
+  },
+  "npz_sha256": "32300a2a9c2b7b92c79662f46bd350d36ae9f1c0b14753441b71d655f04950f0",
+  "decoded_pcm_sha256": "3bd76552ef51e66a4d04fc4768b2226877c625a48a6fc49aa8734886d6212f19",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32,
+    21
+  ],
+  "audio_forward_seconds": 0.5222851000726223
+}

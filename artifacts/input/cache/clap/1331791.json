@@ -1,0 +1,32 @@
+{
+  "track_id": "1331791",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "516",
+      "caption": "Ambient song with duduk and oriental drums perfect for starting a trip to east."
+    }
+  ],
+  "cache_key": "9e02af8ab8fdca7b52be5ca10ebd0ba3cdb4c65693ec9ecd39ec9897ef71a345",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "cb24229726ce16ddbdc9b1e2038f3c72f45d6015e7e91a467d3d78db56a08846",
+    "captions": [
+      {
+        "caption_id": "516",
+        "caption": "Ambient song with duduk and oriental drums perfect for starting a trip to east."
+      }
+    ]
+  },
+  "npz_sha256": "0d238b9d8672c516bf78555e1965333e5fdd4e349537a987168be7d3ac0281ac",
+  "decoded_pcm_sha256": "3492b7a74115151cbd79bd452ec2a247649b0bbf8794428c72968736a483fa9a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4453401998616755
+}

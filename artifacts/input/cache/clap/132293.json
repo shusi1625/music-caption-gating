@@ -1,0 +1,32 @@
+{
+  "track_id": "132293",
+  "split": "evaluation",
+  "artist_id": "338058",
+  "captions": [
+    {
+      "caption_id": "78",
+      "caption": "A romantic song which features a couple who just reconciled after going through individual hardships or challenge in their relationship"
+    }
+  ],
+  "cache_key": "405e115580b5c34a525db6fe1700367eb1e9899be822fba94b706721f292d6df",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7930615ab903ce33906665aa9f63dfaa31427c82b10fcacd0fe65c98b90b82a5",
+    "captions": [
+      {
+        "caption_id": "78",
+        "caption": "A romantic song which features a couple who just reconciled after going through individual hardships or challenge in their relationship"
+      }
+    ]
+  },
+  "npz_sha256": "5c303893cf548e44903659e4a2d9e9d7597e2452bb1957a737ce525696cc47cb",
+  "decoded_pcm_sha256": "d61fce3946b9117197160c6a226846a4cc72814e00055c6b1f8df24d6764a9d8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.6513787000440061
+}

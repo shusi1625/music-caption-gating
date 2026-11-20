@@ -1,0 +1,32 @@
+{
+  "track_id": "1245184",
+  "split": "evaluation",
+  "artist_id": "476715",
+  "captions": [
+    {
+      "caption_id": "890",
+      "caption": "A medium-paced EDM-style song with an intro by a synthesizer, features some ambient sound and simple drum."
+    }
+  ],
+  "cache_key": "9f2d0ff872e027d16f47ce0e81515f8d180e84207ba8156d8dea329c69b7536c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5a1cf56c0da3a1cd9c3dcb6d82770c1b5bf71d3498db47cad4c66e39751cafb7",
+    "captions": [
+      {
+        "caption_id": "890",
+        "caption": "A medium-paced EDM-style song with an intro by a synthesizer, features some ambient sound and simple drum."
+      }
+    ]
+  },
+  "npz_sha256": "005426b1dce5801c9f1145a4447298be7b348c92cf213023abedbf23b9cc4026",
+  "decoded_pcm_sha256": "8eee063fa4cc4d1fe6c04eec93efec6e62a2489d89c79e188ac78d512104ab0f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.4878918998874724
+}

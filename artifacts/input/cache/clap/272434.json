@@ -1,0 +1,32 @@
+{
+  "track_id": "272434",
+  "split": "development",
+  "artist_id": "346071",
+  "captions": [
+    {
+      "caption_id": "991",
+      "caption": "Haunting expansive sound as if you are in space"
+    }
+  ],
+  "cache_key": "0862d9d6d098672d36d7bd41b160713ee328205f159097f67be9d6cf2839da77",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "33b16ef36e32cc510c37138352d09b19f8763ac91cfb40dcb3d9b1e0e0625ab9",
+    "captions": [
+      {
+        "caption_id": "991",
+        "caption": "Haunting expansive sound as if you are in space"
+      }
+    ]
+  },
+  "npz_sha256": "341054951eea9c478e02637e3f103c07a9fcb0d2e4941dfa5b40864db04e556b",
+  "decoded_pcm_sha256": "e53973e617fb61621419021e6f302c636af7cff0622346fd9ac6862436cd447b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    12
+  ],
+  "audio_forward_seconds": 0.42413089983165264
+}

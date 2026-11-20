@@ -1,0 +1,32 @@
+{
+  "track_id": "1135707",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "638",
+      "caption": "Energetic pop rock track that will surely keep the dancefloor moving in a live concert."
+    }
+  ],
+  "cache_key": "4a839162805b1c90eee1764ce60789d43b653b2809c9c444c47ebe6154a539a3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "34b48f906fd63eccd19e4e690c3a1280f6c3a1c86255f4cefc22e1addc264110",
+    "captions": [
+      {
+        "caption_id": "638",
+        "caption": "Energetic pop rock track that will surely keep the dancefloor moving in a live concert."
+      }
+    ]
+  },
+  "npz_sha256": "6b18c9d26a97278633b6d4c77ae2c4a73ba0fb9c415f0c9788ac8e8e4e5a0257",
+  "decoded_pcm_sha256": "ecdfd8094fe0074e0bbcbc80f1e2a78d93a72e6b6e024bb649d3eaa87a381eda",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4746610000729561
+}

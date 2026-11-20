@@ -1,0 +1,32 @@
+{
+  "track_id": "882462",
+  "split": "evaluation",
+  "artist_id": "369146",
+  "captions": [
+    {
+      "caption_id": "270",
+      "caption": "A country blues song, with a strong slid acoustic guitar component, a banjo and two male singers, with the beat being mainly kick and claps."
+    }
+  ],
+  "cache_key": "b80b247c3bb1b4ca9f326c03add03498ab66bf5cdbee135f1fbadabae014cd88",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "041b59dbea70ce0201528ef95331402f804b6bbe960064012ef4c70c42c1a878",
+    "captions": [
+      {
+        "caption_id": "270",
+        "caption": "A country blues song, with a strong slid acoustic guitar component, a banjo and two male singers, with the beat being mainly kick and claps."
+      }
+    ]
+  },
+  "npz_sha256": "d191ab7998a64ef6aa7117343df4fc28e82d0b3875d40b1a2bfd1d81dd0c985b",
+  "decoded_pcm_sha256": "7590c3c36c81d72b00148b1f41311458f5540e3d54bdcf0510dc024e7f5b7334",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4413986001163721
+}

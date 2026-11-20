@@ -1,0 +1,41 @@
+{
+  "track_id": "457120",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "562",
+      "caption": "Elegant and sophisticated Latin jazz piece with a Cuban base and a whispered melodic female voice."
+    },
+    {
+      "caption_id": "936",
+      "caption": "The song has a spanish jazz blues vibe that uses a bunch of instruments to complement the vocals, bass and acoustic melody which one can listen to while relaxing having a glass of wine either in a bar or at home"
+    }
+  ],
+  "cache_key": "f5578154d9bf0fdf93a4b4555e7aa94eb98a42cafacd587ec39119d44db1e54c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "33c8df03233a9d767b0acee96e3dd87c3ccb693df9ce8d27f91f5a01e72a576c",
+    "captions": [
+      {
+        "caption_id": "562",
+        "caption": "Elegant and sophisticated Latin jazz piece with a Cuban base and a whispered melodic female voice."
+      },
+      {
+        "caption_id": "936",
+        "caption": "The song has a spanish jazz blues vibe that uses a bunch of instruments to complement the vocals, bass and acoustic melody which one can listen to while relaxing having a glass of wine either in a bar or at home"
+      }
+    ]
+  },
+  "npz_sha256": "6d70b35f361c39f6bd2d673b5cc424101e195d9bf02a8ca01121f11e966e59de",
+  "decoded_pcm_sha256": "83efd8ecb7fcc321432f7039c47d4d3d1d0e5c566c99dc51be61156cabc9d1c3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22,
+    45
+  ],
+  "audio_forward_seconds": 0.4334001000970602
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1093793",
+  "split": "evaluation",
+  "artist_id": "440692",
+  "captions": [
+    {
+      "caption_id": "1057",
+      "caption": "Electronic disco music about love that builds up quickly and has a dance beat to it"
+    }
+  ],
+  "cache_key": "bd53512fce7fd3e0bdbc9531fa237a7afddb074461bd2c4d7b6daf6c40e023bf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c51a0e55c01a19c86f9c14b460af769a2b47d318f30cbcba672c513c6cc910b3",
+    "captions": [
+      {
+        "caption_id": "1057",
+        "caption": "Electronic disco music about love that builds up quickly and has a dance beat to it"
+      }
+    ]
+  },
+  "npz_sha256": "fa28d0037770dd3ddbf2a0d6c7b5daa7260b4f3e9910ed06057651f1db5bb624",
+  "decoded_pcm_sha256": "d342d75b488e325dfa207d4d27dde0f1c24bbdab0196e69b46652300c51bffda",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.5311360997147858
+}

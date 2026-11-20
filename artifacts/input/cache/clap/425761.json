@@ -1,0 +1,32 @@
+{
+  "track_id": "425761",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "853",
+      "caption": "Combination of electronic music and melodic lyrics with a sad futuristic sci fi feel"
+    }
+  ],
+  "cache_key": "eb7b23ec54650e422ffe94a9975a66886e4a9e481aba24959194b5108fa996e4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "06c5f7cb605295df52abb6eb32a32f29c434d0922cf3f07c85a068223ab0b03c",
+    "captions": [
+      {
+        "caption_id": "853",
+        "caption": "Combination of electronic music and melodic lyrics with a sad futuristic sci fi feel"
+      }
+    ]
+  },
+  "npz_sha256": "be6f69747cbd1d8acdf3bf79876386cdd947aa8234b9da1c2dce5adeda82324e",
+  "decoded_pcm_sha256": "93af5432b200a080c1e5b08e8e615c452d93b71620b39737c3f6d075d743eef7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.6025907001458108
+}

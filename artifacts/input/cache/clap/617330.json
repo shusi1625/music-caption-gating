@@ -1,0 +1,32 @@
+{
+  "track_id": "617330",
+  "split": "development",
+  "artist_id": "350774",
+  "captions": [
+    {
+      "caption_id": "371",
+      "caption": "Cheerful French love song in a reggae style, and with chorus in English."
+    }
+  ],
+  "cache_key": "fd5ee73a071e8e14e4ae4cfc279e702875417710e6e5e7af24d8b327e8751334",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "625f074cc284167a0457d53d78d3a3a843bca3993aec0b8db4d3a9783e864425",
+    "captions": [
+      {
+        "caption_id": "371",
+        "caption": "Cheerful French love song in a reggae style, and with chorus in English."
+      }
+    ]
+  },
+  "npz_sha256": "2ed7826ec6b7f505531756a92e2a3339c20f356d13a2c6af11f676352144ba9a",
+  "decoded_pcm_sha256": "2721f4b2f25438c7af7efb85a990126872baa6c9d9e3159ca6a0d1ec8f9e8649",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.5808571996167302
+}

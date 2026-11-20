@@ -1,0 +1,32 @@
+{
+  "track_id": "378306",
+  "split": "evaluation",
+  "artist_id": "336640",
+  "captions": [
+    {
+      "caption_id": "193",
+      "caption": "An ambient track perfect for meditations and focus tasks."
+    }
+  ],
+  "cache_key": "935dd09e1939e4c64cd7c91d751a0639bcc7705b2daa43845619632bf0aa3aba",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ed9ec35019f7fd9b14381a9c765811126fb998c4032e9c9a15301faa2ff5a856",
+    "captions": [
+      {
+        "caption_id": "193",
+        "caption": "An ambient track perfect for meditations and focus tasks."
+      }
+    ]
+  },
+  "npz_sha256": "41a9dd3df4c0c672ebeebfc6a0d41cf1969b3de2acfe9e1a4dc977d78ae1e308",
+  "decoded_pcm_sha256": "53321f6f13d83d0c1c117374bce28115a8c34a2613cc3dd62d6d4845ce8af1c1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.5823512999340892
+}

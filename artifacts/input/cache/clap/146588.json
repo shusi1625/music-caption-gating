@@ -1,0 +1,32 @@
+{
+  "track_id": "146588",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "1078",
+      "caption": "Innocent and playful classical music for orchestra featuring wind musical instruments such as oboes or fagots."
+    }
+  ],
+  "cache_key": "ba8aae72a0048390c52faec1bc5b4eb638a55ff055884492248e087aadd1213b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "498cbca81dd78a984b5fbaf0e61becb468c1fa693b0646e743b68fd55114cc6d",
+    "captions": [
+      {
+        "caption_id": "1078",
+        "caption": "Innocent and playful classical music for orchestra featuring wind musical instruments such as oboes or fagots."
+      }
+    ]
+  },
+  "npz_sha256": "8d72b27c95a256846822da40526b2a6c53cf1433edfce61c8b6ccb6e5b821643",
+  "decoded_pcm_sha256": "b25be5075de2d47ef494ab0f6aba06f66c5e1281a1f2b9af14ecd6ea4f3eeada",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.44926440017297864
+}

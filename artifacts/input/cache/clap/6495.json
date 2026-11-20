@@ -1,0 +1,32 @@
+{
+  "track_id": "6495",
+  "split": "evaluation",
+  "artist_id": "675",
+  "captions": [
+    {
+      "caption_id": "642",
+      "caption": "A very energetic and bright funk rock song which features a noticeably solid guitar licks."
+    }
+  ],
+  "cache_key": "b1f77059be18ea038f89b539cf29f577f06e19068f88ae91054317c4cab6953d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f42adef203fc9566c4ca0e27df67e4885ac1bff3f322088c82b93bd687aa11e4",
+    "captions": [
+      {
+        "caption_id": "642",
+        "caption": "A very energetic and bright funk rock song which features a noticeably solid guitar licks."
+      }
+    ]
+  },
+  "npz_sha256": "19673ab225af4027a26cabd96710d078b800dcffbd55c3fedfdd7d579a8922b5",
+  "decoded_pcm_sha256": "2aa25970f1a575ecc20125c99a5a1a048098a77e239d47364896b912a3c8c6a6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4480793001130223
+}

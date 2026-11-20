@@ -1,0 +1,41 @@
+{
+  "track_id": "415590",
+  "split": "evaluation",
+  "artist_id": "353120",
+  "captions": [
+    {
+      "caption_id": "271",
+      "caption": "An instrumental trip hop track, with a slow electronic beat dominated by synth pads, delayed guitar and guitar effects."
+    },
+    {
+      "caption_id": "573",
+      "caption": "Ambient music with acoustic drums and chilling vibe."
+    }
+  ],
+  "cache_key": "a2e1570f87f9e074c78eb323e8216ad03feb79f36a8a064080e32aeb8d0cb862",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "44e4f0377a0c9d247eee7e18409b0f31785a8d61f8886755e27c41340664ad39",
+    "captions": [
+      {
+        "caption_id": "271",
+        "caption": "An instrumental trip hop track, with a slow electronic beat dominated by synth pads, delayed guitar and guitar effects."
+      },
+      {
+        "caption_id": "573",
+        "caption": "Ambient music with acoustic drums and chilling vibe."
+      }
+    ]
+  },
+  "npz_sha256": "a541a25a935ee327178512abe40036c0266b8e40aa95373daf8020277bf4932b",
+  "decoded_pcm_sha256": "d5de4e1e359703ae2630680a5d45fc6fc7ce7bef9283d325d650f545a20c7081",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24,
+    12
+  ],
+  "audio_forward_seconds": 0.4390853000804782
+}

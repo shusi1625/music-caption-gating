@@ -1,0 +1,32 @@
+{
+  "track_id": "7257",
+  "split": "evaluation",
+  "artist_id": "1058",
+  "captions": [
+    {
+      "caption_id": "545",
+      "caption": "Filmic uplifiting non-vocal orchestral piece which builds into a synth and guitar based track"
+    }
+  ],
+  "cache_key": "44ba4ca0727b0bf3da91b21326a1443858660398b339feedd8493adc3d877054",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a71b018e2e94adf90edb2df418e77c176288965aecc9209db3bfb7e9b7a54cc1",
+    "captions": [
+      {
+        "caption_id": "545",
+        "caption": "Filmic uplifiting non-vocal orchestral piece which builds into a synth and guitar based track"
+      }
+    ]
+  },
+  "npz_sha256": "aec1928bd3e5e021551265c0dd344bad63acd549d0c3204a20acd0c96ab1a855",
+  "decoded_pcm_sha256": "141550bc2362b354dd4f5a34eb98a4b024bb8f254d9e8986d2d9d8cdacf272d6",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.535975799895823
+}

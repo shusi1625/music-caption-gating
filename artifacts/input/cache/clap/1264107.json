@@ -1,0 +1,32 @@
+{
+  "track_id": "1264107",
+  "split": "development",
+  "artist_id": "355162",
+  "captions": [
+    {
+      "caption_id": "636",
+      "caption": "This track featuring a solo piano gives a sense of safety, determinedness and vulnerability."
+    }
+  ],
+  "cache_key": "cb4b9c717c4a64a738a1b9eb1bbf380a780e0af451779eaf1c0b43d70b194bdc",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "423ec492202982f7c2140d10ed177114e48241b43bf819a95904f77db6c589c1",
+    "captions": [
+      {
+        "caption_id": "636",
+        "caption": "This track featuring a solo piano gives a sense of safety, determinedness and vulnerability."
+      }
+    ]
+  },
+  "npz_sha256": "c4ffbc0db54407cb057b1d63fc7f951489f5467c7c5bac2d2dcf892e68049d37",
+  "decoded_pcm_sha256": "50fb29f65179c533f5e6d0c3d368f5b8aa71666ef2c12d7de935e91d42c75dc5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.6250390997156501
+}

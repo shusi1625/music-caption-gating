@@ -1,0 +1,32 @@
+{
+  "track_id": "1315725",
+  "split": "evaluation",
+  "artist_id": "1058",
+  "captions": [
+    {
+      "caption_id": "141",
+      "caption": "An emotional, reverb-heavy track with cinematic strings, simple piano and guitar, and synth patterns for easy-listening"
+    }
+  ],
+  "cache_key": "8bedde638049a3686e6625790a7329e08252ced2d2428cc2994f2820d7d03ba5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b539d81f112769a01657c96b249d85daffeaae139e01f0055a408d7248a996ed",
+    "captions": [
+      {
+        "caption_id": "141",
+        "caption": "An emotional, reverb-heavy track with cinematic strings, simple piano and guitar, and synth patterns for easy-listening"
+      }
+    ]
+  },
+  "npz_sha256": "441e784b01a9f9758a0baafd74ff282d15aea9c56aabc69f6dba4d86131a1a48",
+  "decoded_pcm_sha256": "1180afcb96a6e402568a1d26b4a8d445b30e43aaf90454631fe2a67cb2170ca0",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.5014399001374841
+}

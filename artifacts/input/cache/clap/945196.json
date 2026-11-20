@@ -1,0 +1,41 @@
+{
+  "track_id": "945196",
+  "split": "evaluation",
+  "artist_id": "421686",
+  "captions": [
+    {
+      "caption_id": "316",
+      "caption": "Instrumental electrodance track with a straight drum machine beat and a vocal sampler at the start and a repetitive synth chord progression, with a pointy synth lead in the middle."
+    },
+    {
+      "caption_id": "801",
+      "caption": "Dancefloor, edm influenced instrumental, driven by a piano house progression layered with trance saws"
+    }
+  ],
+  "cache_key": "a47229ea9739d2eb923edfc1ba4e0883bc5681b76bad2bb4cf2cea61bd687bb2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "18b590d289ef0a12b0e4138f4acab2646b5c6fe7ac324990fd72292cf4e04a7d",
+    "captions": [
+      {
+        "caption_id": "316",
+        "caption": "Instrumental electrodance track with a straight drum machine beat and a vocal sampler at the start and a repetitive synth chord progression, with a pointy synth lead in the middle."
+      },
+      {
+        "caption_id": "801",
+        "caption": "Dancefloor, edm influenced instrumental, driven by a piano house progression layered with trance saws"
+      }
+    ]
+  },
+  "npz_sha256": "c36d01a715988e812a25e30d0729d24880e3d4d9ceab09fa52fc9c5e0c5c4b4c",
+  "decoded_pcm_sha256": "bf22f2660affa1d02d326cc3acae18f416dbe4866ca81c48ba16b09d43eccb25",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    40,
+    22
+  ],
+  "audio_forward_seconds": 0.48235190007835627
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "all_result_fields_except_artifact_hashes_match": true,
+  "all_22080_ranks_match_exactly": true,
+  "gates_and_assignments_match_exactly": true,
+  "bootstrap_weights_match_exactly": true,
+  "metric_absolute_tolerance": 2e-14,
+  "score_absolute_tolerance": 1e-05,
+  "auroc_absolute_tolerance": 2e-15,
+  "original_results_sha256": "dd773fd51f31eb076730ad2e8c0553060bc90216fb37584662fe1270eca2f370",
+  "reproduced_results_sha256": "78622139982109d37578e5d948edac9bea77ea2089bd972734863e1eb258a7cc",
+  "different_code_and_artifact_provenance_is_expected": true
+}

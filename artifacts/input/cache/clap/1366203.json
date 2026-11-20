@@ -1,0 +1,32 @@
+{
+  "track_id": "1366203",
+  "split": "evaluation",
+  "artist_id": "492228",
+  "captions": [
+    {
+      "caption_id": "416",
+      "caption": "Rap song with heavily processed backing track featuring high-pitch voices, smooth synthesizer harmonies, and synth lead motifs"
+    }
+  ],
+  "cache_key": "85e8970db3ba698d9cfd5c46938d0dd95deba960b9908737786ef4de65148e37",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "76e1234e9757894d395d132175c56f5a22d1ceec93a9a7c7db4cbab153abb11c",
+    "captions": [
+      {
+        "caption_id": "416",
+        "caption": "Rap song with heavily processed backing track featuring high-pitch voices, smooth synthesizer harmonies, and synth lead motifs"
+      }
+    ]
+  },
+  "npz_sha256": "6971289ef6aa0201e23a28118546881ef483b275521e19631b38272a6f0aa3e4",
+  "decoded_pcm_sha256": "de807297275beb17f2488d2381153ff07b51d817e75b972a966c55849205f214",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.5425169998779893
+}

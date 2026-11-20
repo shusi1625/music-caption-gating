@@ -1,0 +1,32 @@
+{
+  "track_id": "94725",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "746",
+      "caption": "energetic rock song about love with guitar and piano"
+    }
+  ],
+  "cache_key": "95b4de2725ce052b7d987be2b74648f2ffa7f068a3195fe0b37494ac332b1a58",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "12d7add34a9eb9c9510ed786874d4037ede1f3c02b115a58d4cbc288ad9db332",
+    "captions": [
+      {
+        "caption_id": "746",
+        "caption": "energetic rock song about love with guitar and piano"
+      }
+    ]
+  },
+  "npz_sha256": "f4284a792d3a3f03c965206106e63638b5ec41f07b8aa67679b735f4fa9fa067",
+  "decoded_pcm_sha256": "ba685ee5baf7f0cb524393a3f95abce96fcb7288cc7f2965ca0177db90385a2a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    12
+  ],
+  "audio_forward_seconds": 0.5046269996091723
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "296237",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "7",
+      "caption": "An instrumental track that starts out with dreamy string instruments, flutes and synths over an upbeat hip hop beat, while in the second half, a piano kicks in and gets more dominant and dynamic throughout, evoking melancholic feelings."
+    },
+    {
+      "caption_id": "512",
+      "caption": "An emotional instrumental piece consisting of electronic instruments of piano, drums and violin."
+    }
+  ],
+  "cache_key": "a8fd81f1b59d4e203b9f050f0f81481d3b870e430b7f055c11b3da63db1eb6cd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f3dda41867d6361181dcab6c08c512fff6261f3a0c08b9e71cd80128bcded4f7",
+    "captions": [
+      {
+        "caption_id": "7",
+        "caption": "An instrumental track that starts out with dreamy string instruments, flutes and synths over an upbeat hip hop beat, while in the second half, a piano kicks in and gets more dominant and dynamic throughout, evoking melancholic feelings."
+      },
+      {
+        "caption_id": "512",
+        "caption": "An emotional instrumental piece consisting of electronic instruments of piano, drums and violin."
+      }
+    ]
+  },
+  "npz_sha256": "f88fc468083d9531c09d42faed7671100bc3eb805d80bcf01bc63367918e7fba",
+  "decoded_pcm_sha256": "ed35271cb32ee6f5f6672bbc5d8dc330c14f80b2fe09699ae6decec8faa84613",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    50,
+    17
+  ],
+  "audio_forward_seconds": 0.4816584000363946
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "356420",
+  "split": "evaluation",
+  "artist_id": "340710",
+  "captions": [
+    {
+      "caption_id": "165",
+      "caption": "A slow and rather dark western style rock track featuring prominent male vocals, percussion and  guitars."
+    },
+    {
+      "caption_id": "328",
+      "caption": "Mysterious blues-rock song with a rather organic sound reminiscent of spaghetti westerns, singed by a hoarse male voice."
+    }
+  ],
+  "cache_key": "bfd575f0a8f039ac8671effe80dc36d1efb35052402721151d32b3d2a5f8e497",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "267947949f8562a7f871353649573653a63d3cdfda163843d1bcaba9c50b5b00",
+    "captions": [
+      {
+        "caption_id": "165",
+        "caption": "A slow and rather dark western style rock track featuring prominent male vocals, percussion and  guitars."
+      },
+      {
+        "caption_id": "328",
+        "caption": "Mysterious blues-rock song with a rather organic sound reminiscent of spaghetti westerns, singed by a hoarse male voice."
+      }
+    ]
+  },
+  "npz_sha256": "73e525a54d184464d4b7f1dbf4cbcf69abb7baec220b67266de05281abf5bac1",
+  "decoded_pcm_sha256": "0687dcaee344b62cf0284326947dc40fa3d51d3bb28cfe38326dee3aa9c4be1d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    29
+  ],
+  "audio_forward_seconds": 0.43670889968052506
+}

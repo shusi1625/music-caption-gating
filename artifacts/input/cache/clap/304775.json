@@ -1,0 +1,32 @@
+{
+  "track_id": "304775",
+  "split": "evaluation",
+  "artist_id": "348448",
+  "captions": [
+    {
+      "caption_id": "34",
+      "caption": "Bossa nova or samba duet with jazzy chords on a nylon guitar, and maracas"
+    }
+  ],
+  "cache_key": "435404d7338be77f6b52d4bab715b2f2cbe7f4e170f45e965917e36570b371bd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "43723ed0fd1bc3a1448175fa2459707dae44ff984c40f4596bb8ce1e4119cb6b",
+    "captions": [
+      {
+        "caption_id": "34",
+        "caption": "Bossa nova or samba duet with jazzy chords on a nylon guitar, and maracas"
+      }
+    ]
+  },
+  "npz_sha256": "7245a5053cdd44ce8b0741820a800117c7340a0b5b8f3525fd2d42c268280b9d",
+  "decoded_pcm_sha256": "7b98a20a9a14f6d84c5a7acbe0220558d0273b0e4119a9d621d4fb892cd58fd7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.4611021997407079
+}

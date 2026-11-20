@@ -1,0 +1,41 @@
+{
+  "track_id": "330655",
+  "split": "evaluation",
+  "artist_id": "349673",
+  "captions": [
+    {
+      "caption_id": "784",
+      "caption": "Electronic music that can be listened to in a passive setting"
+    },
+    {
+      "caption_id": "840",
+      "caption": "Fast-paced dancing music with a cyber feeling, reverberant vocal is added later."
+    }
+  ],
+  "cache_key": "c1e65a8e30898b6cfeb6a304f9776521fcf43dfb1d7ec54421b79256d99dfbd5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "aa1e15596cb8c1ff5418fb6d2fde75ed4b79c7b083476cc9c9dcb014793d695c",
+    "captions": [
+      {
+        "caption_id": "784",
+        "caption": "Electronic music that can be listened to in a passive setting"
+      },
+      {
+        "caption_id": "840",
+        "caption": "Fast-paced dancing music with a cyber feeling, reverberant vocal is added later."
+      }
+    ]
+  },
+  "npz_sha256": "5d286added0cecc5e089e48ef5bf2d58b9bd8cdcfe3bc136e83e1dd4b12728d8",
+  "decoded_pcm_sha256": "51e6ee75a9436d4aec40047aeac80fb8bef1df41560b423d6b12ffe02ed81631",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14,
+    19
+  ],
+  "audio_forward_seconds": 0.5444462997838855
+}

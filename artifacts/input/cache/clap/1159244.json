@@ -1,0 +1,32 @@
+{
+  "track_id": "1159244",
+  "split": "evaluation",
+  "artist_id": "442381",
+  "captions": [
+    {
+      "caption_id": "1033",
+      "caption": "Instrumental mostly on acoustic guitar and drums that has a lively feel and can be used before the start of a concert or event or in the background of a festival"
+    }
+  ],
+  "cache_key": "62eb4f3d8b2bb9fcb4984b8bfa3b4872daff49777c00bd389198963f1ee54255",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3904202de85861e8e457a2b2f4e80c19f2d98bd507a9123764e4d2224c38683e",
+    "captions": [
+      {
+        "caption_id": "1033",
+        "caption": "Instrumental mostly on acoustic guitar and drums that has a lively feel and can be used before the start of a concert or event or in the background of a festival"
+      }
+    ]
+  },
+  "npz_sha256": "33647450753d08068530d2aca5c25ab1bced769ce0cdbbd66e27516a7b360601",
+  "decoded_pcm_sha256": "2b8153801b184ebd08a6ae578e90eff8be9f4d512c83a01443190861b830afea",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    35
+  ],
+  "audio_forward_seconds": 0.5568431997671723
+}

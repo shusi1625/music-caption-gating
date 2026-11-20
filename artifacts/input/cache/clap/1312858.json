@@ -1,0 +1,32 @@
+{
+  "track_id": "1312858",
+  "split": "development",
+  "artist_id": "486972",
+  "captions": [
+    {
+      "caption_id": "677",
+      "caption": "A driving indie rock song sung in Spanish by a male vocalist."
+    }
+  ],
+  "cache_key": "bf0a99c952d163a43ea5e0cfa8b11ddf4225470c1a22512569c7eb2f08cb75e5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "98b1a824e07d8483301a64d614ab0dfb68037554e7903fd71ba0f105d0be9b17",
+    "captions": [
+      {
+        "caption_id": "677",
+        "caption": "A driving indie rock song sung in Spanish by a male vocalist."
+      }
+    ]
+  },
+  "npz_sha256": "3f547e34eef2577d7ee78711791bd6f67be168994b9cb59c446500f656036bfd",
+  "decoded_pcm_sha256": "77272036317e42949486e1465fdb870d8c40220515e3c05617fb400dd673b3a3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4258539997972548
+}

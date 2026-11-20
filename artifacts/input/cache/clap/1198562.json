@@ -1,0 +1,32 @@
+{
+  "track_id": "1198562",
+  "split": "evaluation",
+  "artist_id": "462340",
+  "captions": [
+    {
+      "caption_id": "131",
+      "caption": "A soothing and lightly melancholic piano composition that makes the listener desire to sing with it."
+    }
+  ],
+  "cache_key": "0872e7038e2e204c3562be077ccd3aaa5911a7184ef21b44d208122f5d92a30c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8cd5eead1e208cbfa7984594c1fe0c7a8ed365f3fbaa71b1d32654ca99429d96",
+    "captions": [
+      {
+        "caption_id": "131",
+        "caption": "A soothing and lightly melancholic piano composition that makes the listener desire to sing with it."
+      }
+    ]
+  },
+  "npz_sha256": "42da102069f4fd24b0f0aae42f28a5b8e77ad01bdf28fa12ee4a8ad563e7a32f",
+  "decoded_pcm_sha256": "329770686cd5fb1b72f50a8fb29894bb1c0c1d45a7d29ea0f3f5a6ad54509fc4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.5580902001820505
+}

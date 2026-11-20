@@ -1,0 +1,32 @@
+{
+  "track_id": "309856",
+  "split": "evaluation",
+  "artist_id": "338058",
+  "captions": [
+    {
+      "caption_id": "174",
+      "caption": "Mystical sounding composition of electronic instruments and sound effects, brass and background vocals."
+    }
+  ],
+  "cache_key": "6f417a41a30b5d59cb1eca61550f9c4014ed1237ea8c39971da4ea86c6d0c833",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c3ec88d6e2445d74e694f4f0f6741a39f56453f1fc8487739f9de31448873d6e",
+    "captions": [
+      {
+        "caption_id": "174",
+        "caption": "Mystical sounding composition of electronic instruments and sound effects, brass and background vocals."
+      }
+    ]
+  },
+  "npz_sha256": "a107781c05c7856dd5c8b6be4198bb409666445cfa01eeffe8e67f94b397afcd",
+  "decoded_pcm_sha256": "1e4cddc11e54e7664ae2581a75d156ce0013a39ffe846d8d9990f2bd404240ea",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.5927681000903249
+}

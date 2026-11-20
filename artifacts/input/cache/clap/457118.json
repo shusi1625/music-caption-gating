@@ -1,0 +1,41 @@
+{
+  "track_id": "457118",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "144",
+      "caption": "Dull Blues song with a salient female vocal."
+    },
+    {
+      "caption_id": "154",
+      "caption": "Simple 60's style finger picked acoustic guitar with a female singer"
+    }
+  ],
+  "cache_key": "97fd2584800267e3550b063954a985763d62042b88d705024b883f88b0d796df",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d64cebb2a93f339384c144dd02b43aff5be7331559f0f3d299c7f2f382b5ada2",
+    "captions": [
+      {
+        "caption_id": "144",
+        "caption": "Dull Blues song with a salient female vocal."
+      },
+      {
+        "caption_id": "154",
+        "caption": "Simple 60's style finger picked acoustic guitar with a female singer"
+      }
+    ]
+  },
+  "npz_sha256": "7afbb1a1007019a8a53c77330dae3eddbf75452945ab666bd2005df55a5923e8",
+  "decoded_pcm_sha256": "c8492e18eadaefea997333e6ba52bc2d1fe08eaabf361fb01a75914e4817edd2",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    12,
+    14
+  ],
+  "audio_forward_seconds": 0.44532749988138676
+}

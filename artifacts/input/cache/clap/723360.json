@@ -1,0 +1,32 @@
+{
+  "track_id": "723360",
+  "split": "development",
+  "artist_id": "340550",
+  "captions": [
+    {
+      "caption_id": "902",
+      "caption": "This is a very fast and dynamic gipsy track with trumpets and voices, that makes you want to jump."
+    }
+  ],
+  "cache_key": "bc427b56bc06b02be42aef3e108c443df8a6dd483b8f759e49ce5c35db90e7d5",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "283e4cdab20689e609ada0935dd5bed6a7a9a0def4c104127731c4a9211fbe66",
+    "captions": [
+      {
+        "caption_id": "902",
+        "caption": "This is a very fast and dynamic gipsy track with trumpets and voices, that makes you want to jump."
+      }
+    ]
+  },
+  "npz_sha256": "0defd90936f7c9fe23bf272e011e8106bfd0da0b07e00a676bc792ed0c5d64e5",
+  "decoded_pcm_sha256": "703b374c977c7ce9644b968cca84870a0f6e7d9e929df80596faefd29561f358",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.48969680024310946
+}

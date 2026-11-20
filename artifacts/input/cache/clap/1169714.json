@@ -1,0 +1,32 @@
+{
+  "track_id": "1169714",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "676",
+      "caption": "A piece of classical piano music of great expressiveness."
+    }
+  ],
+  "cache_key": "a534d8d0e16cf964d4443fb5cb112b33ac86ea843ca0b792dbf2d07b358cbc7e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e5aa51af11b9cf7d396323788b0cf2e8864e68994e54b083c0109f6be6aa0e42",
+    "captions": [
+      {
+        "caption_id": "676",
+        "caption": "A piece of classical piano music of great expressiveness."
+      }
+    ]
+  },
+  "npz_sha256": "22eafbf1db1e38396fd452983006492948123c63482994c8c1e6b4d1cf39646c",
+  "decoded_pcm_sha256": "6e859f4c75aa06c24f55e8492046fe6c7a47b7eed59e48877016c184310be29b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4288388998247683
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "66942",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "1086",
+      "caption": "Introspective, raw rock song with organic acoustic guitars and a raspy voice"
+    }
+  ],
+  "cache_key": "ad7e07ef31381419fdebb222b0d8ddf47df93f2ab7b07271a1dba8f5b320586b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "86f40745474937a3d1486db6b2f7635c20419599a4bd1e4ca05db899f66a7efc",
+    "captions": [
+      {
+        "caption_id": "1086",
+        "caption": "Introspective, raw rock song with organic acoustic guitars and a raspy voice"
+      }
+    ]
+  },
+  "npz_sha256": "693cf290a6a0e2d321ba47723a9bdc03ee5fc571eb3dafe2bc683a527a2309d0",
+  "decoded_pcm_sha256": "ae36af711f6b36d421c05a800776ff6e17c2f5425058a518ddb35fba0bb688b7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4895957000553608
+}

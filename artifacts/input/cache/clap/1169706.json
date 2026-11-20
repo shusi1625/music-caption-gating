@@ -1,0 +1,32 @@
+{
+  "track_id": "1169706",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "829",
+      "caption": "Calming and tense classical music played only on piano with strong variance in change of dynamics (velocity)"
+    }
+  ],
+  "cache_key": "3fc5ec199bbbbe97e48e6843378f8cb7724a6751e4b92fccc904e5874ac4045a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "fcb4250c029936c56ea72ecd8625dd2b2bac108a0e163bc9c21277c7d90ac14c",
+    "captions": [
+      {
+        "caption_id": "829",
+        "caption": "Calming and tense classical music played only on piano with strong variance in change of dynamics (velocity)"
+      }
+    ]
+  },
+  "npz_sha256": "9faeeff36067d1614b88937267a2af3cd50f7d3d4e84370c74d668c12068c50c",
+  "decoded_pcm_sha256": "f541831393b34142d13e3acee66eb4cc56a7e86c4e26dd2d122d26e4b9589a62",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.48991210013628006
+}

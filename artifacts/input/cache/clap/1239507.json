@@ -1,0 +1,32 @@
+{
+  "track_id": "1239507",
+  "split": "development",
+  "artist_id": "459422",
+  "captions": [
+    {
+      "caption_id": "333",
+      "caption": "Mysterious piece of jazz music for a typical film noir scene, played on piano, bass (and with a trumpet solo section)."
+    }
+  ],
+  "cache_key": "d052e6c0cfde2681e132fb4385f4177b260e0a7c5de642800a45f9b29deba5e2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ff5a28cf46faaefa91858648819131f7658b053e2c897d691bd74cfc1f9067c5",
+    "captions": [
+      {
+        "caption_id": "333",
+        "caption": "Mysterious piece of jazz music for a typical film noir scene, played on piano, bass (and with a trumpet solo section)."
+      }
+    ]
+  },
+  "npz_sha256": "14a21611ca4fcd01dbb4493a86540cb64889012215b8f076f8981f874c4fbcf7",
+  "decoded_pcm_sha256": "3853d9e85c5cb310c448d27ad718377cf6cac0b70f3c5480b691a158ccc5264a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    30
+  ],
+  "audio_forward_seconds": 0.432349500246346
+}

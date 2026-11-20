@@ -1,0 +1,32 @@
+{
+  "track_id": "457078",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "499",
+      "caption": "Country drinking song with a ragtime or blusey vibe, featuring a female voice."
+    }
+  ],
+  "cache_key": "25615ae3ba1b530914b41a42860bd808edde625f1923b40f7f7abc25335d69e1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3a1be1fd8b720c61a7dd69730c4bcb6ab1562769d4d1dff6fda34898d6007c94",
+    "captions": [
+      {
+        "caption_id": "499",
+        "caption": "Country drinking song with a ragtime or blusey vibe, featuring a female voice."
+      }
+    ]
+  },
+  "npz_sha256": "793522d12541826d2ba3c335425b2cc576fa1c40c1229e04cc13696b4f2cda5c",
+  "decoded_pcm_sha256": "d2392529e17f43f80e4d1fef3fc3f6692fc366aadae968c41a90cd9f185bb81f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.5400661998428404
+}

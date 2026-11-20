@@ -1,0 +1,32 @@
+{
+  "track_id": "364840",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "434",
+      "caption": "Eurodance pop track, with a simple rough synth chord progression and a straightforward drum beat punctuated by a female voice sample."
+    }
+  ],
+  "cache_key": "59b3037acbc7790137436d066ff74351632232bebf093632b338f0f4c3e6960a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a0ad6c23156149d7bd9cfdfcb16242977eec1e2e07c50bbe555dd1922e006db8",
+    "captions": [
+      {
+        "caption_id": "434",
+        "caption": "Eurodance pop track, with a simple rough synth chord progression and a straightforward drum beat punctuated by a female voice sample."
+      }
+    ]
+  },
+  "npz_sha256": "2817334ad4106680a634568d504a86c4ecc1c3666881e256d60815e5b14795e3",
+  "decoded_pcm_sha256": "f5d864d34a8fc0a7a701ebc0ebee77f68bc10a95e158a357339a3c98d72b46f7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.7462411001324654
+}

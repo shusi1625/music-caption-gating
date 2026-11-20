@@ -1,0 +1,32 @@
+{
+  "track_id": "457126",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "255",
+      "caption": "A slow drumbeat is complimented by a slow, moody guitar riff and a female lead that sings about the kind of man she desires"
+    }
+  ],
+  "cache_key": "38324dda529ac20b082d061a90fad4567095bbd217edff7abefcebd9081000a1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a72daef87a0b2b248981fd5f42ed7f3ed6a9751f7f8b018257f7100cc9394400",
+    "captions": [
+      {
+        "caption_id": "255",
+        "caption": "A slow drumbeat is complimented by a slow, moody guitar riff and a female lead that sings about the kind of man she desires"
+      }
+    ]
+  },
+  "npz_sha256": "4b4c4c99f0f1109611c4590ed780f68700c78f420978e74fe47be6876371aaef",
+  "decoded_pcm_sha256": "21509af9901556711bed2364314a4fde1590b94d5529f9f9e3652207bcfcbfe5",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    30
+  ],
+  "audio_forward_seconds": 0.4417822998948395
+}

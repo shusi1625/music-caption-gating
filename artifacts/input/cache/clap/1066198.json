@@ -1,0 +1,32 @@
+{
+  "track_id": "1066198",
+  "split": "evaluation",
+  "artist_id": "437998",
+  "captions": [
+    {
+      "caption_id": "1095",
+      "caption": "Instrumental song with a sad but intense romantic Latin vibe, the melody is carried by a piano."
+    }
+  ],
+  "cache_key": "175115025e81ec370449aaaabc1a95c86bb7b69a048d563a611594f531c7db79",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "91d0abb3c024ffce4f42f4b8861d3d9f019be8e6e83771c9026a1c2d474cde4a",
+    "captions": [
+      {
+        "caption_id": "1095",
+        "caption": "Instrumental song with a sad but intense romantic Latin vibe, the melody is carried by a piano."
+      }
+    ]
+  },
+  "npz_sha256": "20effb6396f1fb507698869d87c2eb25467b12a21048ceba4c8092ad704ad775",
+  "decoded_pcm_sha256": "e235aa0105c796d3f49caf9dcb55268c74cb9edc4591d8e4a91ebbf866c6036e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.4274891996756196
+}

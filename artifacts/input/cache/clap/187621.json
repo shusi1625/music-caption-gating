@@ -1,0 +1,32 @@
+{
+  "track_id": "187621",
+  "split": "evaluation",
+  "artist_id": "340494",
+  "captions": [
+    {
+      "caption_id": "666",
+      "caption": "A dynamic instrumental jam with a brass section arrangement that leads into a high energy ska song."
+    }
+  ],
+  "cache_key": "06503fae557558062a43c06f16863ff325f3f32cd7de2483070321f86e1f5f9c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "773edbb1b9a7cd8213aa74849775b168f1e395c640d18c61034ff75879bf25eb",
+    "captions": [
+      {
+        "caption_id": "666",
+        "caption": "A dynamic instrumental jam with a brass section arrangement that leads into a high energy ska song."
+      }
+    ]
+  },
+  "npz_sha256": "f02dff625d3e72c71f87b847400fb43fc1cbc1caf7ad9e7bd14ed80dcb5d397a",
+  "decoded_pcm_sha256": "9f1effb64f5fb07f83a20c19459e4ec76444dd39108fd084e66b6a83e5f92ae4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.42012770008295774
+}

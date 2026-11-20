@@ -1,0 +1,41 @@
+{
+  "track_id": "1100002",
+  "split": "evaluation",
+  "artist_id": "4488",
+  "captions": [
+    {
+      "caption_id": "60",
+      "caption": "An simple, upbeat, jazzy tune with a cheesy instrumentation and french male vocals"
+    },
+    {
+      "caption_id": "956",
+      "caption": "A jazz track to have a pleasant time during lunch."
+    }
+  ],
+  "cache_key": "6cb09aaaa777d95c305880d4134a5ce0a3fb00cfa8d4f3bb9dcfcc1397db396e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e3661ee68f6f82582573130b2e09bc903668d341db31a2fee748b35f213bb651",
+    "captions": [
+      {
+        "caption_id": "60",
+        "caption": "An simple, upbeat, jazzy tune with a cheesy instrumentation and french male vocals"
+      },
+      {
+        "caption_id": "956",
+        "caption": "A jazz track to have a pleasant time during lunch."
+      }
+    ]
+  },
+  "npz_sha256": "dc7879a46252cc58888509a8bb4552a467e861f840a97bf8a8a89942c2f053c8",
+  "decoded_pcm_sha256": "44fb3a4d5bd2c8b5e8752e101c77f8b6a5f3b37876fe63d4bc4246636f43d31c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20,
+    13
+  ],
+  "audio_forward_seconds": 0.4357221000827849
+}

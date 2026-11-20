@@ -1,0 +1,32 @@
+{
+  "track_id": "397582",
+  "split": "development",
+  "artist_id": "352409",
+  "captions": [
+    {
+      "caption_id": "662",
+      "caption": "A luminous and moving instrumental piece for piano."
+    }
+  ],
+  "cache_key": "fd296ebdb9fa8489341bf565f5c9d883d65fb06deed9c35900fcaef60f4c9bf9",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "307b986818526d5615a1a8b27f0dc709817c11f67bde26eb4848a715c172b5d6",
+    "captions": [
+      {
+        "caption_id": "662",
+        "caption": "A luminous and moving instrumental piece for piano."
+      }
+    ]
+  },
+  "npz_sha256": "b5598a21f2a66fa334d23279725ec60c7fe3226b7fd2a854d7656b07b6835ffe",
+  "decoded_pcm_sha256": "17c1c60aac20a49b9e6bb9a72925a152393e2c1736c5ff81ecebda105e87b135",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    12
+  ],
+  "audio_forward_seconds": 0.5304928999394178
+}

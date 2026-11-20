@@ -1,0 +1,32 @@
+{
+  "track_id": "1356344",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "535",
+      "caption": "Lush vocals on well-reverbed guitars give a nice sensation at first but then makes the listener ask for more."
+    }
+  ],
+  "cache_key": "a6ac67d56510b5ce2b2bd97020349d32dca293973f804f1cc4bcfdfbd9f60790",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "343d06cfbe862e17cfb21503dcc7ec70f567a39d9dea06a420b8b0d7ce8aefa9",
+    "captions": [
+      {
+        "caption_id": "535",
+        "caption": "Lush vocals on well-reverbed guitars give a nice sensation at first but then makes the listener ask for more."
+      }
+    ]
+  },
+  "npz_sha256": "6ebd80224887a2e933d72b3dffa30df1aea38ed9823423932fbc056e3561b8e9",
+  "decoded_pcm_sha256": "b7f6c00b14732d365044913d7f72dbbd12701375b460652d3492be63c4b60337",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.43936590012162924
+}

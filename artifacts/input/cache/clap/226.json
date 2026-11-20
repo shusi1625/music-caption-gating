@@ -1,0 +1,41 @@
+{
+  "track_id": "226",
+  "split": "evaluation",
+  "artist_id": "14",
+  "captions": [
+    {
+      "caption_id": "1028",
+      "caption": "A loud rock/metal song in French with guitars and drums"
+    },
+    {
+      "caption_id": "1090",
+      "caption": "Fast tempo screaming vocals metal that gets one all pumped up either for gym or letting out anger"
+    }
+  ],
+  "cache_key": "aab225f823724ffe015b07611699a200c33a5fa7a88982911a63bea115fcbee0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "0461604f4cc15a85839685647a7a1a1c55450e0095e61960a241bcf6d092fab7",
+    "captions": [
+      {
+        "caption_id": "1028",
+        "caption": "A loud rock/metal song in French with guitars and drums"
+      },
+      {
+        "caption_id": "1090",
+        "caption": "Fast tempo screaming vocals metal that gets one all pumped up either for gym or letting out anger"
+      }
+    ]
+  },
+  "npz_sha256": "19777d3635452998d312f1b3ee1ae6bfd94bbf72dd3893807bc30421e5b0843f",
+  "decoded_pcm_sha256": "e9e377380cd137023d6534ef3e4f3cde613de6aeaff926cc18d07b0395f8cd7c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14,
+    20
+  ],
+  "audio_forward_seconds": 0.4919094000943005
+}

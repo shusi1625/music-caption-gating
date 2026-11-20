@@ -1,0 +1,32 @@
+{
+  "track_id": "48719",
+  "split": "development",
+  "artist_id": "696",
+  "captions": [
+    {
+      "caption_id": "444",
+      "caption": "A self-contained instrumental with a reggae vibe, played mainly on electric guitars, giving way to an electric guitar solo in the middle of the track."
+    }
+  ],
+  "cache_key": "1a3288f7843852569133607b18522cebe1e1ff728add51181192cca7375eb5a2",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c9f0a95fbae2bc9c069cdb27fdb7014ac63dcd499647938491274b64bcb9ffc7",
+    "captions": [
+      {
+        "caption_id": "444",
+        "caption": "A self-contained instrumental with a reggae vibe, played mainly on electric guitars, giving way to an electric guitar solo in the middle of the track."
+      }
+    ]
+  },
+  "npz_sha256": "e5ec27d46d204cc1ec156f946c4505fbe834b9ea3d204aa00d1759a36fdfcfa3",
+  "decoded_pcm_sha256": "3aa8b5af68d2035caeb73fd21b32040627362fe861ef59dcc7f5f3c3bbeb3c45",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.6092585003934801
+}

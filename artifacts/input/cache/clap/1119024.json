@@ -1,0 +1,41 @@
+{
+  "track_id": "1119024",
+  "split": "development",
+  "artist_id": "6615",
+  "captions": [
+    {
+      "caption_id": "282",
+      "caption": "A crunchy rock tune that is up-tempo and features a verbose male vocalist that gets help from big guitars in the chorus, although the verse relies mostly on the drums and rhythm guitar."
+    },
+    {
+      "caption_id": "442",
+      "caption": "An energetic and danceable indie rock song featuring electric guitars and male vocals."
+    }
+  ],
+  "cache_key": "8444fb054adbaaeaec1aed6748a64eef4681ce5bbd53ea4e4a2a0781b8311506",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e32dac2d7d318d7f1a81d64cab35df312dff956615564c6b6af08527ca1f67fa",
+    "captions": [
+      {
+        "caption_id": "282",
+        "caption": "A crunchy rock tune that is up-tempo and features a verbose male vocalist that gets help from big guitars in the chorus, although the verse relies mostly on the drums and rhythm guitar."
+      },
+      {
+        "caption_id": "442",
+        "caption": "An energetic and danceable indie rock song featuring electric guitars and male vocals."
+      }
+    ]
+  },
+  "npz_sha256": "ef92428dfbd0b828f1cfed051e52801050ce9340c6cf88b649ef62af3e7dce43",
+  "decoded_pcm_sha256": "316a1868b6c3d58b3ebde6e4fd87d3c8325ca4e220f9d4900cbd02571f01b7b4",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    43,
+    17
+  ],
+  "audio_forward_seconds": 0.4724492998793721
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "1126719",
+  "split": "evaluation",
+  "artist_id": "443948",
+  "captions": [
+    {
+      "caption_id": "1088",
+      "caption": "Alternative electronic song with experimental sounds and unsettling vibe"
+    }
+  ],
+  "cache_key": "d749f3d297e11fa0e40fd2d78a3ac69d933e0df191b541ff363ed50a4d1246f7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c6f246844d63427268070541c876b25b7c8315d6693f26b086af33151eedba34",
+    "captions": [
+      {
+        "caption_id": "1088",
+        "caption": "Alternative electronic song with experimental sounds and unsettling vibe"
+      }
+    ]
+  },
+  "npz_sha256": "074531c9a755eef838136f7007882519bf38039a59cdf2cfaa134184f4b40308",
+  "decoded_pcm_sha256": "d43d735252168e3bb6feeb8e127c6186ada2e0b546f9a9ad4be201be663cb1d8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    11
+  ],
+  "audio_forward_seconds": 0.45401629991829395
+}

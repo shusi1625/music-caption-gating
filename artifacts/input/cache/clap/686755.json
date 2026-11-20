@@ -1,0 +1,32 @@
+{
+  "track_id": "686755",
+  "split": "evaluation",
+  "artist_id": "364767",
+  "captions": [
+    {
+      "caption_id": "536",
+      "caption": "There is an accordion playing on a waltz rhythm later accompanied with cajon on percussion."
+    }
+  ],
+  "cache_key": "3c067fdd1d568c18d384f66913100f829cf40d9ec0ba281849e37e6614998d86",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3f8a9bd40274283d975c38472b0de1a410f76d61eb1e1b4e87c853d35777249a",
+    "captions": [
+      {
+        "caption_id": "536",
+        "caption": "There is an accordion playing on a waltz rhythm later accompanied with cajon on percussion."
+      }
+    ]
+  },
+  "npz_sha256": "4b5513f365689e070823feeb2aabc7299e88d4f9b56411e999aebd0606f58928",
+  "decoded_pcm_sha256": "c8fa7198177226068b38104cb6782ee3484deb9ae05fc21f7644b14f8bc93e21",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.5572185995988548
+}

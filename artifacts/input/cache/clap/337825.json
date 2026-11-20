@@ -1,0 +1,32 @@
+{
+  "track_id": "337825",
+  "split": "evaluation",
+  "artist_id": "5104",
+  "captions": [
+    {
+      "caption_id": "823",
+      "caption": "Eerie and anxious feel that picks up with various sample instruments in a loop"
+    }
+  ],
+  "cache_key": "da493813505eab4767393f367cbd174cf9fed42da5d113372020f55406baaadb",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4de61a5af979996fb51e91a002db7fc169de5bffc29beed19e4c7c79e9dd8c33",
+    "captions": [
+      {
+        "caption_id": "823",
+        "caption": "Eerie and anxious feel that picks up with various sample instruments in a loop"
+      }
+    ]
+  },
+  "npz_sha256": "79a5de683eed5cd2d347b7899f8af399aec01f91aaaea8b807c84afd576ce8ca",
+  "decoded_pcm_sha256": "b635a22d379e7594c79428d16c5296793d91f83af994f458cf6877b9b8322e8d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.4368080999702215
+}

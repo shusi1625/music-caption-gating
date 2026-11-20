@@ -1,0 +1,32 @@
+{
+  "track_id": "1336433",
+  "split": "evaluation",
+  "artist_id": "424522",
+  "captions": [
+    {
+      "caption_id": "335",
+      "caption": "Soft techno song with vocal samples that could be played in summer beach clubs."
+    }
+  ],
+  "cache_key": "7826b17498fad4ef7e08ae2b4f56734fbf124b968466aa2198e22a76e820bed0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "76c6d3e3e909d20d829e9eb2ffbf948d5a0f0226161434d740d809fbc749caaa",
+    "captions": [
+      {
+        "caption_id": "335",
+        "caption": "Soft techno song with vocal samples that could be played in summer beach clubs."
+      }
+    ]
+  },
+  "npz_sha256": "efc4ef2a63914ef7461aa0316bab4dbc3b43b55f84570dc8cbd85e943e7f676b",
+  "decoded_pcm_sha256": "0812e2a00ec0b206079404153eba82e0ff0f4a851c23766dfbe3f78e7b496e6d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.5255988999269903
+}

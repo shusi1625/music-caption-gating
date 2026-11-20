@@ -1,0 +1,41 @@
+{
+  "track_id": "1357117",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "180",
+      "caption": "A laid back alternative rock track with male singer and dark lyrics."
+    },
+    {
+      "caption_id": "979",
+      "caption": "Starts with a electronic guitar sound very likely to a 80s rock style which feels like they performs in a live stage."
+    }
+  ],
+  "cache_key": "6874ac78bc333d7c3b609264199a0ccc9624e4b20784ccad89dc311d1cfe5174",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a065ef879f7d2f83a3556bec752b8336b5953d69f6e596b38b227c4d03a51f22",
+    "captions": [
+      {
+        "caption_id": "180",
+        "caption": "A laid back alternative rock track with male singer and dark lyrics."
+      },
+      {
+        "caption_id": "979",
+        "caption": "Starts with a electronic guitar sound very likely to a 80s rock style which feels like they performs in a live stage."
+      }
+    ]
+  },
+  "npz_sha256": "8f7b39665a7ed490d83fea9601125f375fcf709712c3d795415b4e0054e449c2",
+  "decoded_pcm_sha256": "19213c614019a9ee02b4f0198241172bb0de74e7d14f4f477c83ab878378f72c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15,
+    27
+  ],
+  "audio_forward_seconds": 0.4304632004350424
+}

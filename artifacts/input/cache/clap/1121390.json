@@ -1,0 +1,32 @@
+{
+  "track_id": "1121390",
+  "split": "evaluation",
+  "artist_id": "340225",
+  "captions": [
+    {
+      "caption_id": "452",
+      "caption": "medium tempo ambient sounds to begin with and slow guitar plucking layering followed by an ambient rhythmic beat and then remove the layering in the opposite direction"
+    }
+  ],
+  "cache_key": "2ba05752bc974a7063772e1e7c32c4e3ac85dbea5b252ac7065dd93927a8d769",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4758103c235c8ed636b7008ff4e41b34a310db7e2be6375c34a346ddb4d27029",
+    "captions": [
+      {
+        "caption_id": "452",
+        "caption": "medium tempo ambient sounds to begin with and slow guitar plucking layering followed by an ambient rhythmic beat and then remove the layering in the opposite direction"
+      }
+    ]
+  },
+  "npz_sha256": "101147c5a8af96b23deed53ef9680af82597ed3c7d6b735760d40aa205556ad2",
+  "decoded_pcm_sha256": "d02ffe521520d86bfe80cae2cbd1cd895e2e2018b811a5116bfe032fa1f57781",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4459408996626735
+}

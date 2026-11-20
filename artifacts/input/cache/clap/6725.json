@@ -1,0 +1,32 @@
+{
+  "track_id": "6725",
+  "split": "evaluation",
+  "artist_id": "937",
+  "captions": [
+    {
+      "caption_id": "315",
+      "caption": "An romantic song with only piano and vocals that is contemplative yet relaxing"
+    }
+  ],
+  "cache_key": "328b69aee235452f2556400f6f6e67a6825612d3abe96eabc97ac3806d654c57",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5066c4b164f8ccbd12930ee7c5840ecd3b4fa5d80d5f315bb6255845f8628cee",
+    "captions": [
+      {
+        "caption_id": "315",
+        "caption": "An romantic song with only piano and vocals that is contemplative yet relaxing"
+      }
+    ]
+  },
+  "npz_sha256": "99bcbd84a1786f6c2e5b88d2c354461c341532f5e7514e18204b7b3f84cbdc3b",
+  "decoded_pcm_sha256": "20b5e6fc245b9e24eefd9ca38c567e364a9122bf82325f08f9fce07e9fc96deb",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16
+  ],
+  "audio_forward_seconds": 0.4622010998427868
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "700217",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "424",
+      "caption": "Unusual track with combines retro keyboard sounds with cinematic strings"
+    },
+    {
+      "caption_id": "602",
+      "caption": "Genre seems like a electric music played with violin and feels like I'm about to do some challenging things, and the mood is pretty dark"
+    }
+  ],
+  "cache_key": "4555866bb94f19e9005573baa349d843fb5a0bd6bc8463df523b888d9e32f74d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "4ecdf66d4cca3d672d93dcc5154a498baa92039868bf2d6d99b45d52faa2b0f1",
+    "captions": [
+      {
+        "caption_id": "424",
+        "caption": "Unusual track with combines retro keyboard sounds with cinematic strings"
+      },
+      {
+        "caption_id": "602",
+        "caption": "Genre seems like a electric music played with violin and feels like I'm about to do some challenging things, and the mood is pretty dark"
+      }
+    ]
+  },
+  "npz_sha256": "5b5d265e1e68a8f0c01b6f21ba18424886c7b0526735bd968d443c5969834545",
+  "decoded_pcm_sha256": "51217b60c5e3023bb7e5b9139a4f9e274f3cdc0e3df926592d37d95334dbfca9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13,
+    30
+  ],
+  "audio_forward_seconds": 0.4367577997036278
+}

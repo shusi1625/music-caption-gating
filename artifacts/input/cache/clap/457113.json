@@ -1,0 +1,32 @@
+{
+  "track_id": "457113",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "501",
+      "caption": "A folksy ditty featuring a warbling woman narrating a story over a variety of jamming, Western-sounding instruments, which evokes a nostalgic sense of older country, bluesy rock."
+    }
+  ],
+  "cache_key": "4e0e60525f325731af306795a12c9b6d5dc55b60d2d7df690fbe5f6f61507264",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "6358006c77ef1d069f532163bc6ef0de4d4ceeceba87db35dae2030d6cf866c3",
+    "captions": [
+      {
+        "caption_id": "501",
+        "caption": "A folksy ditty featuring a warbling woman narrating a story over a variety of jamming, Western-sounding instruments, which evokes a nostalgic sense of older country, bluesy rock."
+      }
+    ]
+  },
+  "npz_sha256": "73f7e4cd0d0c2689f54e54f7b3e9752971a3b505d59a2194aaf10c99a0ed099d",
+  "decoded_pcm_sha256": "f416f003c89b898cca3acc3e14d4df422b2b699166e1ef2694266a8e73ea73cf",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    42
+  ],
+  "audio_forward_seconds": 0.6123335999436677
+}

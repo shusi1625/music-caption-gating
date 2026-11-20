@@ -1,0 +1,41 @@
+{
+  "track_id": "1156054",
+  "split": "evaluation",
+  "artist_id": "434614",
+  "captions": [
+    {
+      "caption_id": "87",
+      "caption": "A slow paced acoustic folk/indie type song featuring a man and his guitar"
+    },
+    {
+      "caption_id": "657",
+      "caption": "A gentle folk song with an acoustic guitar and a male voice that conveys a sense of fragility and hope."
+    }
+  ],
+  "cache_key": "ca255be6be72b32893ddeab508fe4ca08cd6927583207f7892e30a3fd805966e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7ce70d55521fea0313706d8f89d12b804e5c80396ad13b385a2eb2b83653eef9",
+    "captions": [
+      {
+        "caption_id": "87",
+        "caption": "A slow paced acoustic folk/indie type song featuring a man and his guitar"
+      },
+      {
+        "caption_id": "657",
+        "caption": "A gentle folk song with an acoustic guitar and a male voice that conveys a sense of fragility and hope."
+      }
+    ]
+  },
+  "npz_sha256": "9532ed82703e4935ce0a6947387b9859531b79bccea0ee0863a038aba77816b8",
+  "decoded_pcm_sha256": "6d5f6961715ec46a0865524c48070af3604205bdb4ae59198543b5479b94fc19",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18,
+    25
+  ],
+  "audio_forward_seconds": 0.43833120027557015
+}

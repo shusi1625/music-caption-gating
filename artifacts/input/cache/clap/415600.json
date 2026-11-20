@@ -1,0 +1,41 @@
+{
+  "track_id": "415600",
+  "split": "evaluation",
+  "artist_id": "353120",
+  "captions": [
+    {
+      "caption_id": "913",
+      "caption": "This song has rhythmical beat and makes me feel  mysterious"
+    },
+    {
+      "caption_id": "931",
+      "caption": "A meditative track with some reggae influences, composed by a very repetitive drums/guitar pattern and some dreamy notes made by asian instruments"
+    }
+  ],
+  "cache_key": "6c8ee1e9db495b6050ce2b3296b7b1e3eadb219f4be5249496a4e944910be34e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ca3155741c64e61858c0e68aaac563da39c7ef74210cf240a83d6ad3d2170343",
+    "captions": [
+      {
+        "caption_id": "913",
+        "caption": "This song has rhythmical beat and makes me feel  mysterious"
+      },
+      {
+        "caption_id": "931",
+        "caption": "A meditative track with some reggae influences, composed by a very repetitive drums/guitar pattern and some dreamy notes made by asian instruments"
+      }
+    ]
+  },
+  "npz_sha256": "1a227d767ecb3d960e7a703dcfb7092100a3d6e33d39493c1cf1472b6a6943e4",
+  "decoded_pcm_sha256": "36b231cbf3e4abc966a990587d2f326ba78cdd776cf0fc0068f26f1fca92c606",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14,
+    33
+  ],
+  "audio_forward_seconds": 0.4507395997643471
+}

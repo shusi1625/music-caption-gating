@@ -1,0 +1,32 @@
+{
+  "track_id": "359655",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "950",
+      "caption": "A joyful classical track performed on a grand piano."
+    }
+  ],
+  "cache_key": "8723f681e0daacd5d9da1bc9f66836a15dae63f9e942eb3cb82f750c9b71291c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8322f84be3ace66d8bedd635f9bdb1f9020a1418bf78a3c40aafaab4e1793d1f",
+    "captions": [
+      {
+        "caption_id": "950",
+        "caption": "A joyful classical track performed on a grand piano."
+      }
+    ]
+  },
+  "npz_sha256": "4d35854d51329613968a7f60202f0e391a29000b6b1faa3fb8e226ad1258d4e9",
+  "decoded_pcm_sha256": "dff43d6e49c341736997a365555c2b097106c5464874917485cd4f3cc0794a1f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    12
+  ],
+  "audio_forward_seconds": 0.45135590014979243
+}

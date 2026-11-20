@@ -1,0 +1,32 @@
+{
+  "track_id": "461018",
+  "split": "development",
+  "artist_id": "352042",
+  "captions": [
+    {
+      "caption_id": "612",
+      "caption": "This song starts with a piano and guitar duet going through an emotional phase and then joined with a dramatic electric guitar."
+    }
+  ],
+  "cache_key": "ec9b5f3148f1f73dc49bbc2e2efcad268c529f59bfd5de279e20babb35bfa119",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "29ce06d7b81e33672ebf6b49a3d8cb08fae522d066d7122b3e25516c29b00684",
+    "captions": [
+      {
+        "caption_id": "612",
+        "caption": "This song starts with a piano and guitar duet going through an emotional phase and then joined with a dramatic electric guitar."
+      }
+    ]
+  },
+  "npz_sha256": "363121ae3c462d56aea063bedc4fccb1f23490cc2d5a748a84acd200eab7163d",
+  "decoded_pcm_sha256": "3f96856ae0f56d672cb04293dc6d62b654ff92dd61460dddd6202e708e861d29",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.5567799001000822
+}

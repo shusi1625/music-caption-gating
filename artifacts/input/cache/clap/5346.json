@@ -1,0 +1,41 @@
+{
+  "track_id": "5346",
+  "split": "evaluation",
+  "artist_id": "245",
+  "captions": [
+    {
+      "caption_id": "157",
+      "caption": "Slow stoic pop piano with choir like vocals and string instrumentation later accented by modern feeling drums."
+    },
+    {
+      "caption_id": "513",
+      "caption": "A song with a slow ambient entry then leaves space for electronic drumkit."
+    }
+  ],
+  "cache_key": "a35f19737183888e88235f6fd73d59c3ba9e069bafa65e4467fc7dc1ddab5b0f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b1fcdb085091dd635a74be63ee38b7fa7fc0a686fc6708c0af9c6385b258c997",
+    "captions": [
+      {
+        "caption_id": "157",
+        "caption": "Slow stoic pop piano with choir like vocals and string instrumentation later accented by modern feeling drums."
+      },
+      {
+        "caption_id": "513",
+        "caption": "A song with a slow ambient entry then leaves space for electronic drumkit."
+      }
+    ]
+  },
+  "npz_sha256": "eb778cd6e221f8711f3932e01d5c88e6eb4a6e56335e248dfa396c3a1d9910b2",
+  "decoded_pcm_sha256": "ac0e4474834edc5ecc40a9804b1a6e31fdda40c6485af679bc83c0d5b57d230d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    17
+  ],
+  "audio_forward_seconds": 0.4541047001257539
+}

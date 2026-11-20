@@ -1,0 +1,41 @@
+{
+  "track_id": "457119",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "173",
+      "caption": "Happy swinging cabaret jazz track with female vocals, piano, brass and bass."
+    },
+    {
+      "caption_id": "774",
+      "caption": "A piano vocal track for a cosy night in a jazz bar."
+    }
+  ],
+  "cache_key": "a3e8066f9c76bebae7409ebbea0b07e304d556bb200f9116e8501bc309dabd08",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e34646a8ae40fef7bf09d0fcf3a1ab24d8bb1b86805a9a19084a2dedb7121c95",
+    "captions": [
+      {
+        "caption_id": "173",
+        "caption": "Happy swinging cabaret jazz track with female vocals, piano, brass and bass."
+      },
+      {
+        "caption_id": "774",
+        "caption": "A piano vocal track for a cosy night in a jazz bar."
+      }
+    ]
+  },
+  "npz_sha256": "79e971a5f98c3eec6359c77a6ba219cb565b98455ed6cab23137ffe4d473069a",
+  "decoded_pcm_sha256": "b0e3f84031ae8a06aeb78043fbe79ba136f920c179b3ab989ff850782df5fd56",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18,
+    16
+  ],
+  "audio_forward_seconds": 0.573426800314337
+}

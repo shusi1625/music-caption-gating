@@ -1,0 +1,32 @@
+{
+  "track_id": "1162011",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "208",
+      "caption": "Electronic rock high-energy song with vocals but no reverb that draws you in with instrumentation changes, syncopation, and panning."
+    }
+  ],
+  "cache_key": "f741c4f7606028e8d2a3ff423b0617ec324d8edbb71344c6cc8977d4f2b842d1",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5b1ea1f60ccc4b125d7b49589885614f99ecf545fc6cb796e81ecba364f209dc",
+    "captions": [
+      {
+        "caption_id": "208",
+        "caption": "Electronic rock high-energy song with vocals but no reverb that draws you in with instrumentation changes, syncopation, and panning."
+      }
+    ]
+  },
+  "npz_sha256": "aef3a1eaf91e26cbccbe34348ec27dd20b815e93dcd3c18f20e424d385e42311",
+  "decoded_pcm_sha256": "02960dc1aa481e799029213b5dc1fb1b9d2c1a6a476f00beb7bf0b85ca3bc5ca",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32
+  ],
+  "audio_forward_seconds": 0.5448727998882532
+}

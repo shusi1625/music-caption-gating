@@ -1,0 +1,32 @@
+{
+  "track_id": "1113971",
+  "split": "evaluation",
+  "artist_id": "340225",
+  "captions": [
+    {
+      "caption_id": "665",
+      "caption": "Progressive electronic song with an intro of African percussions."
+    }
+  ],
+  "cache_key": "a228391157825ebf287c06852ea4f3e2298361f26b34ca39a4200f0a9a43f8cf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "113fe47c5102a05e326a07403c75d2ef2ce93cf15bde6c874a19f4f68bc21c76",
+    "captions": [
+      {
+        "caption_id": "665",
+        "caption": "Progressive electronic song with an intro of African percussions."
+      }
+    ]
+  },
+  "npz_sha256": "126d1504a9b61550c1e85881df778613939a50fb043acc6ab97534235d83ab3d",
+  "decoded_pcm_sha256": "764759635eb4770670112a17ac5fe714fc1c5f76356e6c82a3a80d23d1fc047b",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.48166010016575456
+}

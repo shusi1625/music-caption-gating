@@ -1,0 +1,21 @@
+{
+  "scope": "feature extraction only, no evaluation scoring",
+  "processed": 372,
+  "reused": 36,
+  "errors": [],
+  "excluded_short_audio": 31,
+  "total_requested": 439,
+  "elapsed_seconds": 1006.5632396000437,
+  "gpu": "NVIDIA GeForce RTX 2070 SUPER",
+  "gpu_peak_allocated_mib": 628.65087890625,
+  "process_peak_working_set_gib": 1.4924049377441406,
+  "versions": {
+    "torch": "2.0.1+cu118",
+    "torchaudio": "2.0.2+cu118",
+    "transformers": "4.30.0",
+    "numpy": "1.23.5",
+    "soundfile": "0.12.1"
+  },
+  "manifest_sha256": "60f62280ae13f3a99b9143f089f134db46c7504c2182e2d03da5c1d2860d4f46",
+  "model_spec_sha256": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f"
+}

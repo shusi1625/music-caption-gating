@@ -1,0 +1,41 @@
+{
+  "track_id": "1057890",
+  "split": "evaluation",
+  "artist_id": "436941",
+  "captions": [
+    {
+      "caption_id": "974",
+      "caption": "A cinematic electronic soundtrack which announces the epic journey the protagonist will undertake in a post-apocalyptic world."
+    },
+    {
+      "caption_id": "1056",
+      "caption": "A symphonic orchestra intro, followed by piano and electronic sounds, builds into a modern calm electronic song with female vocals and some ethnic atmosphere."
+    }
+  ],
+  "cache_key": "622e064cb64c242111cffeb04883d0fc543df5d24d58a9f50eb5626ca179fe97",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "53bea7da496bebab9d360ee8deedb9aee9450e5a55d23a2ed92fd18c7bfec040",
+    "captions": [
+      {
+        "caption_id": "974",
+        "caption": "A cinematic electronic soundtrack which announces the epic journey the protagonist will undertake in a post-apocalyptic world."
+      },
+      {
+        "caption_id": "1056",
+        "caption": "A symphonic orchestra intro, followed by piano and electronic sounds, builds into a modern calm electronic song with female vocals and some ethnic atmosphere."
+      }
+    ]
+  },
+  "npz_sha256": "32c298dff3f0c79b0d835303926424bc5a448843ce9070fe45e0988123b84538",
+  "decoded_pcm_sha256": "eed837c3a313bc2b83d3fb9b1b3296d206379027188352270768ad42e6d7ca04",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23,
+    31
+  ],
+  "audio_forward_seconds": 0.4280292997136712
+}

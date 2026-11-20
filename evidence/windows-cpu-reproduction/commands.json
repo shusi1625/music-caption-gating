@@ -1,0 +1,18 @@
+{
+  "paths": "Local paths are replaced with role placeholders; source audio/weights were not copied or newly downloaded in this run.",
+  "successful_install_sequence": [
+    "python -m pip install --no-cache-dir -r requirements-source.txt filelock typing-extensions sympy networkx jinja2",
+    "python -m pip install --no-cache-dir --no-deps torch==2.0.1+cpu torchaudio==2.0.2+cpu --index-url https://download.pytorch.org/whl/cpu",
+    "python -m pip check"
+  ],
+  "source_command": "python scripts/prepare_features.py --data-dir artifacts/input --audio-dir <verified-audio> --feature-dir <new-private-features> --weights-dir <verified-weights> --device cpu --no-download",
+  "evaluation_command": "python scripts/reproduce.py --data-dir artifacts/input --output-dir <new-results> --regenerated-features <new-private-features>",
+  "ordinary_dependency_versions": {
+    "filelock": "4.1.0",
+    "typing_extensions": "4.16.0",
+    "sympy": "1.14.0",
+    "networkx": "3.4.2",
+    "Jinja2": "3.1.6"
+  },
+  "table_export_command": "python scripts/export_paper_tables.py --data-dir artifacts/input --result-dir <new-results> --output-dir <new-results>/paper_tables"
+}

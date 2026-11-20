@@ -1,0 +1,32 @@
+{
+  "track_id": "1069500",
+  "split": "development",
+  "artist_id": "362552",
+  "captions": [
+    {
+      "caption_id": "1094",
+      "caption": "Elegant and pure sounds that convey a sense of order and cleanliness"
+    }
+  ],
+  "cache_key": "da962121eb131981f2924c0a67b8b4d534e500be374aa768e4dd1a353a5b8f7e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f9245b8d539915901fdb38dfc9ad45a1751cbc29a04fdad1ba7f6da26373acd2",
+    "captions": [
+      {
+        "caption_id": "1094",
+        "caption": "Elegant and pure sounds that convey a sense of order and cleanliness"
+      }
+    ]
+  },
+  "npz_sha256": "7fc65be5c8ee3352a532911fffc61e00aa9045e264ea323737bafb77e1c07b9d",
+  "decoded_pcm_sha256": "a3719127c1c12d6cbe55c7711a3ecfea83303d5ecbeb79f5726f63fa3ba574a3",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.45023340033367276
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "913321",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "121",
+      "caption": "Alternative pop rock that is appealing that is appealing to the 2010s audience."
+    }
+  ],
+  "cache_key": "6075e019af8272c1904dc7d21d1afaded654a387d1aece8f6c050fca7e791528",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ec43ea4b9c9fc8688ef2bf69ee0e29ea52efabe35e072d89e7613d28790d5031",
+    "captions": [
+      {
+        "caption_id": "121",
+        "caption": "Alternative pop rock that is appealing that is appealing to the 2010s audience."
+      }
+    ]
+  },
+  "npz_sha256": "0cab209190c6f82e085dab58cd2c91e9b5dc68fc0ceaffc27fe0d6c08976ca1a",
+  "decoded_pcm_sha256": "404b818b1f471e6a8268ffcbdcba3a6c5cf64ec3fb073fb34ba552d1539a5d94",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.5026271003298461
+}

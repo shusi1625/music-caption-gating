@@ -1,0 +1,32 @@
+{
+  "track_id": "260839",
+  "split": "development",
+  "artist_id": "345952",
+  "captions": [
+    {
+      "caption_id": "1076",
+      "caption": "slow tempo country song featuring a crawling female voice and a harmonica, perfect for a live music night in a bar in Mississippi"
+    }
+  ],
+  "cache_key": "be1fd1fbb9da15fed3b5b35f7adf0776fba4fba9ab5252e5d32f04984208a147",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1e70d297f1c1d6b8452b0e80dc806b1927e31f8ebc689615409f8f8bdfe60ed4",
+    "captions": [
+      {
+        "caption_id": "1076",
+        "caption": "slow tempo country song featuring a crawling female voice and a harmonica, perfect for a live music night in a bar in Mississippi"
+      }
+    ]
+  },
+  "npz_sha256": "3c6d2f7467a31d25f7a8dbe90c4294cf4bf47320d957ae69736298e51c158fa0",
+  "decoded_pcm_sha256": "6d29130f537d75667a6c773bba6d93e0be56190b47376db259bd43bad8005692",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.41127789998427033
+}

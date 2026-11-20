@@ -1,0 +1,32 @@
+{
+  "track_id": "599221",
+  "split": "development",
+  "artist_id": "348998",
+  "captions": [
+    {
+      "caption_id": "710",
+      "caption": "A harmless and samey pop-rock backing track without vocals"
+    }
+  ],
+  "cache_key": "fb3fa8e5b3b3411e9f44d7d2d3e4f898a91ee96f41dd1cfb0b170f277a370c80",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5f1867559a7e00ff43e58bc832cc3b2058b44d6449380e31c827da0bbe2e52da",
+    "captions": [
+      {
+        "caption_id": "710",
+        "caption": "A harmless and samey pop-rock backing track without vocals"
+      }
+    ]
+  },
+  "npz_sha256": "4c72ed07ce129cbe428fd8a66a642a1d2cade0a2f72a522122c869826d0498b4",
+  "decoded_pcm_sha256": "a8a8883eef9702e411b9f2f165ae66724176e7ef504a366c2cd70faef24470db",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    14
+  ],
+  "audio_forward_seconds": 0.6772861001081765
+}

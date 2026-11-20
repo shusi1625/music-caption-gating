@@ -1,0 +1,32 @@
+{
+  "track_id": "518603",
+  "split": "evaluation",
+  "artist_id": "336640",
+  "captions": [
+    {
+      "caption_id": "420",
+      "caption": "Synth-y, spacey art-pop track with a catchy beat"
+    }
+  ],
+  "cache_key": "6ecd8878d3ab4b88fa324e25607b98449a3445ec2be791f6f191c0e3c1915d84",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "391dc43b5acc529d37ef872c6ac69a8b2a11b63f2aa5a97b1a5402a77b98fa43",
+    "captions": [
+      {
+        "caption_id": "420",
+        "caption": "Synth-y, spacey art-pop track with a catchy beat"
+      }
+    ]
+  },
+  "npz_sha256": "7342035b125d122928b7460c67adf893c3165c6df9b32d3e2b823821dd7a1692",
+  "decoded_pcm_sha256": "4ef198fedfc5eecebc53b4885d3d7c7a69000f4de93b8cfca7280c23da68431c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.5368249998427927
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "348881",
+  "split": "evaluation",
+  "artist_id": "6568",
+  "captions": [
+    {
+      "caption_id": "123",
+      "caption": "Intriguing, slowly progressing electronic tune perfectly match for an indie platform game"
+    },
+    {
+      "caption_id": "226",
+      "caption": "Library music with bass and percussion instrument looping"
+    }
+  ],
+  "cache_key": "2f4de85b76b4f70282acc01f8554b442628dd5852136e734a26224752b7bd872",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "29693a0ac727a0fa06db88770a3c402660c39c44ba57d37aa8ec5ce01b9fd6ee",
+    "captions": [
+      {
+        "caption_id": "123",
+        "caption": "Intriguing, slowly progressing electronic tune perfectly match for an indie platform game"
+      },
+      {
+        "caption_id": "226",
+        "caption": "Library music with bass and percussion instrument looping"
+      }
+    ]
+  },
+  "npz_sha256": "6123be8a30246c43c5bf867bf74cb9f935c0f88d1bf1e24653a81643e2d45e15",
+  "decoded_pcm_sha256": "2ac0efa1b911324278b0798ed676327d7382a8e1d8a209c49e2eb99fbd87b88b",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17,
+    11
+  ],
+  "audio_forward_seconds": 0.42845540028065443
+}

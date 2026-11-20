@@ -1,0 +1,32 @@
+{
+  "track_id": "1051193",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "672",
+      "caption": "Melodic and heartfelt piano ballad performed by a female voice accompanied by piano."
+    }
+  ],
+  "cache_key": "6acfd03de08dbc42d8173c84cf3541d70115a9af34090907c3445873e2bb2613",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "33427c6fec05bd96b7b1896155242d465115c29918420f5b49fb84adf3040b24",
+    "captions": [
+      {
+        "caption_id": "672",
+        "caption": "Melodic and heartfelt piano ballad performed by a female voice accompanied by piano."
+      }
+    ]
+  },
+  "npz_sha256": "1159ce162df5b87f459cfd4b7ee98dea6c76ae0d3d4c526c0644e5b444bf57fa",
+  "decoded_pcm_sha256": "39452ba70f14ff1094fa2f2ee6fe39d8732b2f2142cf732b408d8a64e91d6fcf",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.4428151003085077
+}

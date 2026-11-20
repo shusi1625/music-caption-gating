@@ -1,0 +1,41 @@
+{
+  "track_id": "402063",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "436",
+      "caption": "This is a villainous military march with a strong rhythmic feel"
+    },
+    {
+      "caption_id": "845",
+      "caption": "Grand, ambitious movie music with powerful, march-like drum beats, as well as brass melody."
+    }
+  ],
+  "cache_key": "c9b45b852175580509436b20cd55b83be5a82ca12d682f746a2be1c112306e63",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "470435569c419959f64b4e0f4fe6a95e49d7aa6a8d40b9aaabe65fb0c46d4511",
+    "captions": [
+      {
+        "caption_id": "436",
+        "caption": "This is a villainous military march with a strong rhythmic feel"
+      },
+      {
+        "caption_id": "845",
+        "caption": "Grand, ambitious movie music with powerful, march-like drum beats, as well as brass melody."
+      }
+    ]
+  },
+  "npz_sha256": "3b06e76750dc856e91463ac3feb6e064f4619c710e667931c5a12be204f03cd1",
+  "decoded_pcm_sha256": "1b61086e86983277b325ef03235566fbce8c1288e57adfcca2a3ee1b7db34b52",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    15,
+    22
+  ],
+  "audio_forward_seconds": 0.43638009997084737
+}

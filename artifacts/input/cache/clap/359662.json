@@ -1,0 +1,32 @@
+{
+  "track_id": "359662",
+  "split": "evaluation",
+  "artist_id": "347016",
+  "captions": [
+    {
+      "caption_id": "701",
+      "caption": "initially calm and slightly solemn solo piano with pronounced quick double attacks on some notes making it more lively later on"
+    }
+  ],
+  "cache_key": "d01cb7d9ffdaa08a0da2da90ab8d89b918f5ea5eab5e35e67ec7ec073ddca071",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "84b23257fcb137151b585b6eb71fc4867e97a7353e2121f0f6aa884ec3f859f5",
+    "captions": [
+      {
+        "caption_id": "701",
+        "caption": "initially calm and slightly solemn solo piano with pronounced quick double attacks on some notes making it more lively later on"
+      }
+    ]
+  },
+  "npz_sha256": "99b88a9e0b4b13d4f39adcd0dca9fc9a01c803c6d5c693bb180662dc4b95a8d3",
+  "decoded_pcm_sha256": "82d163446177e9226f09f246fc9b8af1764ff7b5039bc0b84e1e8b9ada5126de",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.502925300039351
+}

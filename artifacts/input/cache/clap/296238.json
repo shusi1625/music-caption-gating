@@ -1,0 +1,41 @@
+{
+  "track_id": "296238",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "752",
+      "caption": "this song starts with an emotional piano melody and then drops into a kind of DnB track with drum break samples and a thumping bass, keeping the piano and later on it has a drum break, whe a violin is added."
+    },
+    {
+      "caption_id": "967",
+      "caption": "Starts with a melancholic piano with a breakbeat coming in around 30 seconds"
+    }
+  ],
+  "cache_key": "cdcbfd8752d70d9648bcb16e7c6b11aef64dec7605ed2a2ffbf2363b2d5dc2fe",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7337041273d096f7024335644dae5d521a5271ad24008b9f9775fbfb96c76d5f",
+    "captions": [
+      {
+        "caption_id": "752",
+        "caption": "this song starts with an emotional piano melody and then drops into a kind of DnB track with drum break samples and a thumping bass, keeping the piano and later on it has a drum break, whe a violin is added."
+      },
+      {
+        "caption_id": "967",
+        "caption": "Starts with a melancholic piano with a breakbeat coming in around 30 seconds"
+      }
+    ]
+  },
+  "npz_sha256": "7dd7acb81aeebad7b6663c63ff00d784bd7e37970b963ead241a787de0b06aa4",
+  "decoded_pcm_sha256": "c4f3e243754c7ab4e8a93039e7488f132425b6f44d3b791aef34d4d0904a4d09",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    49,
+    18
+  ],
+  "audio_forward_seconds": 0.44875700026750565
+}

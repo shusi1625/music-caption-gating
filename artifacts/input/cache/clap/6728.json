@@ -1,0 +1,32 @@
+{
+  "track_id": "6728",
+  "split": "evaluation",
+  "artist_id": "937",
+  "captions": [
+    {
+      "caption_id": "1046",
+      "caption": "A sad pop song using piano and vocals that has lyrics around someone they love"
+    }
+  ],
+  "cache_key": "10a403b4bf64f3d8e2f29c4e9a68be59c0c37c75242020de9c089dc2d47798df",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a594fc768115e6994e36eff0e0343e926728c8caa5751be1230c45ff5c1b9623",
+    "captions": [
+      {
+        "caption_id": "1046",
+        "caption": "A sad pop song using piano and vocals that has lyrics around someone they love"
+      }
+    ]
+  },
+  "npz_sha256": "41982976add1f5cb0da043e09df8f7b803d4abc85717d5c9d6bf12135fa0b78c",
+  "decoded_pcm_sha256": "2327c8b7ed2202b93f2a69bfe3486791401db8fc361bff325d47088461c94e43",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.43543519964441657
+}

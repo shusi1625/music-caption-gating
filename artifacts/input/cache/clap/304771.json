@@ -1,0 +1,32 @@
+{
+  "track_id": "304771",
+  "split": "evaluation",
+  "artist_id": "348448",
+  "captions": [
+    {
+      "caption_id": "50",
+      "caption": "Traditional salsa music starting with Spanish dialogue from an old film and exploding into a colourful burst of horns, guitars, vocals, over a reggaeton beat"
+    }
+  ],
+  "cache_key": "cc74b1f4c2cdeb64f5f80b65baf559b9ea90f52e07e2126593a3658fd19fe03d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c51991f937106abe91a23e7c135437a763569869cce6e6c42dc488066b988324",
+    "captions": [
+      {
+        "caption_id": "50",
+        "caption": "Traditional salsa music starting with Spanish dialogue from an old film and exploding into a colourful burst of horns, guitars, vocals, over a reggaeton beat"
+      }
+    ]
+  },
+  "npz_sha256": "b8b098399019a8d59ea57f0c032aef9c4fe3c03ff57deacb7423a92ecea942fb",
+  "decoded_pcm_sha256": "d86bad22d562fb6fb58926c2c9486d6ab4a3d926105213c63eb258341f7d36db",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32
+  ],
+  "audio_forward_seconds": 0.43380620004609227
+}

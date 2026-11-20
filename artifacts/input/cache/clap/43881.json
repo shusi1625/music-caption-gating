@@ -1,0 +1,32 @@
+{
+  "track_id": "43881",
+  "split": "evaluation",
+  "artist_id": "4777",
+  "captions": [
+    {
+      "caption_id": "699",
+      "caption": "Driving rock song with an energetic chorus, featuring heavily distorted guitars and male vocals."
+    }
+  ],
+  "cache_key": "9509633f15d96a9fedb7eea738c8bf3fce29df485c09bef9f892d86a6eee0931",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1a4cc1ab88cde2b0578b83241e0f99a8e3138e886262721aa2b9b62da2c9c4c9",
+    "captions": [
+      {
+        "caption_id": "699",
+        "caption": "Driving rock song with an energetic chorus, featuring heavily distorted guitars and male vocals."
+      }
+    ]
+  },
+  "npz_sha256": "e2a26751b40aa87a8499dc919c9421efecf6b79fa642aca0d102561ce6562be1",
+  "decoded_pcm_sha256": "f81848a4ef43964468557d3437fc7a3dee4f87e2580dea37d6d90bde44b65e90",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.5370792001485825
+}

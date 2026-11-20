@@ -1,0 +1,32 @@
+{
+  "track_id": "171574",
+  "split": "development",
+  "artist_id": "340035",
+  "captions": [
+    {
+      "caption_id": "94",
+      "caption": "One cannot avoid moving the feet and neck listening to this fast and loopy brazilian tune."
+    }
+  ],
+  "cache_key": "6d69025bac97099a860c4c716b13f7b65ff1e88b99342e4a9d13fd7a35125ec7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d68d68408692c9f35ce4b3344d4269585d080eaa7143df40e271075500f6acd0",
+    "captions": [
+      {
+        "caption_id": "94",
+        "caption": "One cannot avoid moving the feet and neck listening to this fast and loopy brazilian tune."
+      }
+    ]
+  },
+  "npz_sha256": "0c94be2339822d399d16fdc1ac6d916ecffe61ef166b789a0a7c61fa4112252a",
+  "decoded_pcm_sha256": "272dd67eb04c4489327aba4c4b976fece6102a77ad02fe8e9bef813eecca36de",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    22
+  ],
+  "audio_forward_seconds": 0.41619750019162893
+}

@@ -1,0 +1,41 @@
+{
+  "track_id": "461012",
+  "split": "development",
+  "artist_id": "352042",
+  "captions": [
+    {
+      "caption_id": "10",
+      "caption": "starts with guitar ostinato over a descending cyclic minor harmonic progression, inducing some melancholic tension, after which the B section consists of a lyrical heavy rock / metal guitar solo"
+    },
+    {
+      "caption_id": "380",
+      "caption": "This electronic track combines synths with guitar, builds up slowly and then bangs it with a electric guitar solo."
+    }
+  ],
+  "cache_key": "8427258ad87af949623e0b0f08dbddb46083d27d91a482614a18b62b436cbe2b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "ba2783f84c3ee2e1b5b7cbacd2a3408540eb13e420adeb987445a27aeb650423",
+    "captions": [
+      {
+        "caption_id": "10",
+        "caption": "starts with guitar ostinato over a descending cyclic minor harmonic progression, inducing some melancholic tension, after which the B section consists of a lyrical heavy rock / metal guitar solo"
+      },
+      {
+        "caption_id": "380",
+        "caption": "This electronic track combines synths with guitar, builds up slowly and then bangs it with a electric guitar solo."
+      }
+    ]
+  },
+  "npz_sha256": "11ed32b554facc5ceee85ba78651429ec433876efb5cca53a58ec0357370726d",
+  "decoded_pcm_sha256": "10c4e22bb998c01b684fa35e29b9d49b8732f5148e7042c871df138ff83c6ac1",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    40,
+    25
+  ],
+  "audio_forward_seconds": 0.5481870998628438
+}

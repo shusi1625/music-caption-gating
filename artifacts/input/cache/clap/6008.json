@@ -1,0 +1,32 @@
+{
+  "track_id": "6008",
+  "split": "development",
+  "artist_id": "795",
+  "captions": [
+    {
+      "caption_id": "930",
+      "caption": "Typical reggae song with a male singer supported by some soft drums and bass"
+    }
+  ],
+  "cache_key": "e4dc82ade83abb16439387cdef79acce8ec8357efc51c1bc0830987ee05197fe",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "a8f068602fac9418d76e2d4c73d1b2a2cbda11b4a70654c3932e76d81b25ca41",
+    "captions": [
+      {
+        "caption_id": "930",
+        "caption": "Typical reggae song with a male singer supported by some soft drums and bass"
+      }
+    ]
+  },
+  "npz_sha256": "b7665ec55fde29076b44426c0cfa8a2041acdab5b07f0690f0eae8793e4c8f8e",
+  "decoded_pcm_sha256": "7ca8ab306392d48b550982c5768c83640d7795922a21a9249449d69969a91f4d",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.41947960015386343
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "330650",
+  "split": "evaluation",
+  "artist_id": "349673",
+  "captions": [
+    {
+      "caption_id": "894",
+      "caption": "This is an electro track with punchy drums and a synth that makes you want to dance."
+    }
+  ],
+  "cache_key": "5bc86da4de7ea0037604a75450ca2a70f1b8ccb5ca2a2dc23daf7c5060051817",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "f841e20d7bbb5f11ff68645080e87a5a027a11c47bcf96d8a43ad7c13918bc41",
+    "captions": [
+      {
+        "caption_id": "894",
+        "caption": "This is an electro track with punchy drums and a synth that makes you want to dance."
+      }
+    ]
+  },
+  "npz_sha256": "141818ad4f279c4eba316e9f6a0a7178e54eaa96ddaa29d000f51b184fcbaaca",
+  "decoded_pcm_sha256": "79e16c2aa09dff543e2b82e81b426abab01ad0177c7f651d315c579cda5c80c3",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4685129001736641
+}

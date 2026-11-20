@@ -1,0 +1,32 @@
+{
+  "track_id": "191044",
+  "split": "evaluation",
+  "artist_id": "4658",
+  "captions": [
+    {
+      "caption_id": "1085",
+      "caption": "Instrumental ambient track with an 80s chillout vibe, featuring bongos and a piano melody."
+    }
+  ],
+  "cache_key": "e72038d82e5190c3e555872142624faff623dec8bf9b21a08deb002e68d1305d",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2bfd394f7880afdd5a88b16254753412e3bd077799c357de1c3fd633543af90a",
+    "captions": [
+      {
+        "caption_id": "1085",
+        "caption": "Instrumental ambient track with an 80s chillout vibe, featuring bongos and a piano melody."
+      }
+    ]
+  },
+  "npz_sha256": "00e6bbb3ea559b846cbb929c781a9241c53ef0f7bd54c759362bcede08f243cd",
+  "decoded_pcm_sha256": "c3697f1f5f653dfdd41d4bdceeeb0ccfd09b8138f0c8d576ec91cc1f0e1a3fbc",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.6466580000706017
+}

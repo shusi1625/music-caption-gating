@@ -1,0 +1,32 @@
+{
+  "track_id": "1367174",
+  "split": "evaluation",
+  "artist_id": "2208",
+  "captions": [
+    {
+      "caption_id": "1101",
+      "caption": "The song is an instrumental played on electronic midi and has a dark element to it caused by the low bass octave that is prominent throughout the song"
+    }
+  ],
+  "cache_key": "6b9d4ab5cc1034b4f4d05e223351c0c0cfffbf61d7df36ebccc1a41ea2505d88",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "47318ba007b7488f9a97bd7b4cb25a70837d2a7654bb4d297b6088dbcf33ac4e",
+    "captions": [
+      {
+        "caption_id": "1101",
+        "caption": "The song is an instrumental played on electronic midi and has a dark element to it caused by the low bass octave that is prominent throughout the song"
+      }
+    ]
+  },
+  "npz_sha256": "906c4baa48d9959d03e649b4ab7f93a3e1da885d1ed94ecfe8d3e6eda6e8e6b3",
+  "decoded_pcm_sha256": "4b4a2a8d9d4f2532d332c74f8cca6995bf54437c8b7a5b07f4125da1b35cd4c9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    32
+  ],
+  "audio_forward_seconds": 0.4853570996783674
+}

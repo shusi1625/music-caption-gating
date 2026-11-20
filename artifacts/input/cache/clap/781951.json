@@ -1,0 +1,32 @@
+{
+  "track_id": "781951",
+  "split": "evaluation",
+  "artist_id": "368880",
+  "captions": [
+    {
+      "caption_id": "1073",
+      "caption": "driving and minimalistic techno beat perfect for a big venue"
+    }
+  ],
+  "cache_key": "7b36d8612c4f86eba8b0133b9e992656f8d954a3cc6431eba3bd1cd7574abd1a",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9dd93ac25dea4c87a6253198bd6bf2d4d418d4871da1fd46336608beb71b40f4",
+    "captions": [
+      {
+        "caption_id": "1073",
+        "caption": "driving and minimalistic techno beat perfect for a big venue"
+      }
+    ]
+  },
+  "npz_sha256": "6d55b414901e42bcea875b6aed77b63506b9f73a48340f9ee53cfd891c423073",
+  "decoded_pcm_sha256": "cc704dcd2b0155388c89259f363b9f587063a8df315dd8df312481fba8c091a7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4403671999461949
+}

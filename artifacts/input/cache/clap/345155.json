@@ -1,0 +1,32 @@
+{
+  "track_id": "345155",
+  "split": "evaluation",
+  "artist_id": "340710",
+  "captions": [
+    {
+      "caption_id": "146",
+      "caption": "A fun song with guitar, drums, brass instruments and a male vocal."
+    }
+  ],
+  "cache_key": "34ec06355fa122fad1a553b477f143d37982179d76c4f4afa7d49f4affccff0e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bc4380d894a911b4d214c05b498950f10479b4467ac163424cf820dbec7f397e",
+    "captions": [
+      {
+        "caption_id": "146",
+        "caption": "A fun song with guitar, drums, brass instruments and a male vocal."
+      }
+    ]
+  },
+  "npz_sha256": "74f2bbc212a3f59adbf876fbc1eeda830edba1a8c7c26d49f74d1e6acc922f2a",
+  "decoded_pcm_sha256": "d7219b4e1862b4fcd762ef8c0f0fa0c53d6610955e30827f751e66867696c88e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.42721829982474446
+}

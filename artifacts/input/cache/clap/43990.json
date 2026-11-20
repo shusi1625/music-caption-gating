@@ -1,0 +1,41 @@
+{
+  "track_id": "43990",
+  "split": "development",
+  "artist_id": "6079",
+  "captions": [
+    {
+      "caption_id": "117",
+      "caption": "With its intimate acoustic guitar intro and soft yet deeply emotional male vocals, this minimalistic folk song gradually builds with subtle percussion, evoking a sense of raw vulnerability and introspection, making it the perfect soundtrack for a quiet, introspective moment."
+    },
+    {
+      "caption_id": "278",
+      "caption": "Acoustic guitar brings in a rueful tune to begin; finger-picking provides accompaniment to a male vocalist who sings a pretty and lamenting tune that reminds me of a song that would be played at the end of a drama TV show while a montage plays."
+    }
+  ],
+  "cache_key": "56af9805137800473789d6337e852b22964976246cba8dbf5d4cfcb236b06520",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d290c11e55577e34e78a67d51a67e658e919c16e256d7bebc34223cd596fa6c7",
+    "captions": [
+      {
+        "caption_id": "117",
+        "caption": "With its intimate acoustic guitar intro and soft yet deeply emotional male vocals, this minimalistic folk song gradually builds with subtle percussion, evoking a sense of raw vulnerability and introspection, making it the perfect soundtrack for a quiet, introspective moment."
+      },
+      {
+        "caption_id": "278",
+        "caption": "Acoustic guitar brings in a rueful tune to begin; finger-picking provides accompaniment to a male vocalist who sings a pretty and lamenting tune that reminds me of a song that would be played at the end of a drama TV show while a montage plays."
+      }
+    ]
+  },
+  "npz_sha256": "1645c50f5f540f4e91ee6c00f020aae5a626da9e54d2eae27b528988560a8e0b",
+  "decoded_pcm_sha256": "3bfe0a81b981371dd08c0ef30121853091c294e573fc3ac5dff3a1dc0d607583",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    51,
+    58
+  ],
+  "audio_forward_seconds": 0.5244040000252426
+}

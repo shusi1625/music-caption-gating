@@ -1,0 +1,32 @@
+{
+  "track_id": "1061369",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "125",
+      "caption": "Probably a three piece band with melodic guitar, heavy bass and drums playing an instrumental and energetic piece."
+    }
+  ],
+  "cache_key": "70a3470d23c47870185ea618972594e04d6b0e6497dd626594f93464259a6ab7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "2a41b83718474937b74a729e017a27a050e1a5abff58921df8ec710447c9e810",
+    "captions": [
+      {
+        "caption_id": "125",
+        "caption": "Probably a three piece band with melodic guitar, heavy bass and drums playing an instrumental and energetic piece."
+      }
+    ]
+  },
+  "npz_sha256": "61360d7c393afe0745a5fa2b2507809946aaabe84f477e80400de10ba1495d15",
+  "decoded_pcm_sha256": "2a477ed599f4e15b65eecd827c3a6c3a864a2067656b2eb90ad84f21a4c67c93",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    23
+  ],
+  "audio_forward_seconds": 0.5194660001434386
+}

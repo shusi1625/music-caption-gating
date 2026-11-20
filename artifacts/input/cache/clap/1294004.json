@@ -1,0 +1,32 @@
+{
+  "track_id": "1294004",
+  "split": "evaluation",
+  "artist_id": "434614",
+  "captions": [
+    {
+      "caption_id": "993",
+      "caption": "A modern country song with romantic themed lyrics."
+    }
+  ],
+  "cache_key": "b601a560de13339e7ab8ccf82ac5bde3dfb327038031936151f2d2eb7ea0d3e0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "c7433cb89101cff708f214600c5e18956e59c5600bcbe376b47f3dc044079764",
+    "captions": [
+      {
+        "caption_id": "993",
+        "caption": "A modern country song with romantic themed lyrics."
+      }
+    ]
+  },
+  "npz_sha256": "b565b925414cfa4a05e207f765b80488c52d0f26691c749a81faa2fdedd3449e",
+  "decoded_pcm_sha256": "590c6d52d969a83dd00b7dec3dc6f2976d7ef2fe068c3264d4224dcaa89f40fa",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    11
+  ],
+  "audio_forward_seconds": 0.44008140033110976
+}

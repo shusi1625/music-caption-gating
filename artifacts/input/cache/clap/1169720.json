@@ -1,0 +1,32 @@
+{
+  "track_id": "1169720",
+  "split": "evaluation",
+  "artist_id": "338649",
+  "captions": [
+    {
+      "caption_id": "373",
+      "caption": "A piece of classical instrumental piano music in the Romanticism style with deep emotion and expressiveness."
+    }
+  ],
+  "cache_key": "50a3b840de22ccd47bd894f6d03cf0b9892f7b2ae61de1b85d8a2bc4001df77b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b029f4bf98b4e43d8381b4c617e2e35c244d80856d793bbd978d24a37a7a22ce",
+    "captions": [
+      {
+        "caption_id": "373",
+        "caption": "A piece of classical instrumental piano music in the Romanticism style with deep emotion and expressiveness."
+      }
+    ]
+  },
+  "npz_sha256": "889c9e20c9a4aae41576b7b75fcfc5e0a135ebab7a6098e21ea8ecd6b52afe6c",
+  "decoded_pcm_sha256": "a3bdce843f90c4b504c8a90f48e10ffb1be5f9a14135776c48b0712383671631",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.523658599704504
+}

@@ -1,0 +1,32 @@
+{
+  "track_id": "66949",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "89",
+      "caption": "A country or folk acoustic song singed by a man melancholically."
+    }
+  ],
+  "cache_key": "a949e4111fb625dbc82a056bb060cfe77a8788d37e85649701333c90eb557af7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e60f1d4dba72a8bc2debad8fbfe1005517b6199c52997c0fb9fccbaa75daa7bd",
+    "captions": [
+      {
+        "caption_id": "89",
+        "caption": "A country or folk acoustic song singed by a man melancholically."
+      }
+    ]
+  },
+  "npz_sha256": "3895cb876603b9ea5667a877f4b19c44c1d33596696289abd6b69814283e2e5a",
+  "decoded_pcm_sha256": "3b4f0be07604c3c0bf20bcd24919d2a271a2d451f43b53ccf8c5809e0360b990",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.4224408003501594
+}

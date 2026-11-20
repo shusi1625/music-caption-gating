@@ -1,0 +1,32 @@
+{
+  "track_id": "458252",
+  "split": "evaluation",
+  "artist_id": "354771",
+  "captions": [
+    {
+      "caption_id": "295",
+      "caption": "This folk ballad sung by a man in French (slightly off tune) has a nostalgic mood and features violins and guitars."
+    }
+  ],
+  "cache_key": "0062514ed0c8415bb36d426167582dc5f1a770168c84210f2cd310cb1442d002",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "62b828b151fe3c5b653e8b142bb2f6ce31bdf25b8918944faba782fd2806832a",
+    "captions": [
+      {
+        "caption_id": "295",
+        "caption": "This folk ballad sung by a man in French (slightly off tune) has a nostalgic mood and features violins and guitars."
+      }
+    ]
+  },
+  "npz_sha256": "e23da4ccf60cfa4e38d62931bb505f5fda2c9e706e47a41fbf328121ea624e54",
+  "decoded_pcm_sha256": "e594c140e9e0f98ccaaeaa5551adba6748deacc2ea0c5d805769d42723949b2c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.4477354004047811
+}

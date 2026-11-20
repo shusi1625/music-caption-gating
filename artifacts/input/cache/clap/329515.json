@@ -1,0 +1,32 @@
+{
+  "track_id": "329515",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "670",
+      "caption": "Energetic electronic track based on 8-bit synths and sampled female vocals."
+    }
+  ],
+  "cache_key": "ecbd454260912de965a3dea7b9977a07010ce5358d9aeb4f4751f110792efc8c",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "741b15e0074e9275a95b58f0c9caf2dd6fbfbf27d95aa3777e70aa5d66a2c859",
+    "captions": [
+      {
+        "caption_id": "670",
+        "caption": "Energetic electronic track based on 8-bit synths and sampled female vocals."
+      }
+    ]
+  },
+  "npz_sha256": "f68debdab34a721db8acf001b0ec76f1f131ae92ed4c0ba8f76beff54acaf011",
+  "decoded_pcm_sha256": "9e4f03ff033e001de391f8cefe2e81d95ffe68c0e5769be823edc4bf3c949e19",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4688268001191318
+}

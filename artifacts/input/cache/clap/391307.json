@@ -1,0 +1,32 @@
+{
+  "track_id": "391307",
+  "split": "evaluation",
+  "artist_id": "342618",
+  "captions": [
+    {
+      "caption_id": "379",
+      "caption": "Creepy electronic track gives a sensation of suspense and intrigue."
+    }
+  ],
+  "cache_key": "6627a7e91845bdf89ebfa1fb8e324d56c79215b5127d1cdf1af6b6588c263009",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "71a96d5fecc41eaa6bdededa8af332b6074c4bcaca7a56b3726849705ae42338",
+    "captions": [
+      {
+        "caption_id": "379",
+        "caption": "Creepy electronic track gives a sensation of suspense and intrigue."
+      }
+    ]
+  },
+  "npz_sha256": "af9cb6011b2bb1cc3d8ef76574fc2fe0d0b994158816630c0072554d05cb30f9",
+  "decoded_pcm_sha256": "9d6e5d1fc64e7ebd55803f38116af494a7b75bd6d6a7bce64f7c2f0992b493e8",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    15
+  ],
+  "audio_forward_seconds": 0.4836054998449981
+}

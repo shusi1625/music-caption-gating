@@ -1,0 +1,32 @@
+{
+  "track_id": "156061",
+  "split": "evaluation",
+  "artist_id": "339061",
+  "captions": [
+    {
+      "caption_id": "375",
+      "caption": "This is an electronic music track with spacey ethereal synths accompanied with string like elements and later drums."
+    }
+  ],
+  "cache_key": "459117d3558e71df04564882b178596f5fa33f85b9b6f5a0ba98723030074e14",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "09eb4be65de450450984ef8c0a3f7cc074b35d5725b831a9d222bc7a9b00b845",
+    "captions": [
+      {
+        "caption_id": "375",
+        "caption": "This is an electronic music track with spacey ethereal synths accompanied with string like elements and later drums."
+      }
+    ]
+  },
+  "npz_sha256": "55de8b9e91677c444be2e016938631053382beaa290eaa7271f57e142f5436d8",
+  "decoded_pcm_sha256": "c7bdbe1d39d07b6df204ed507dba392ff1f7bcbcc1afe8a1ce33b9585e8b6332",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.5074104997329414
+}

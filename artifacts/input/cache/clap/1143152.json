@@ -1,0 +1,41 @@
+{
+  "track_id": "1143152",
+  "split": "evaluation",
+  "artist_id": "366613",
+  "captions": [
+    {
+      "caption_id": "81",
+      "caption": "This song has a meditating vibe to it, what I would listen to calm things down after an anxious encounter."
+    },
+    {
+      "caption_id": "327",
+      "caption": "Instrumental piano piece with a slightly classical touch and a nostalgic, bittersweet or blue mood."
+    }
+  ],
+  "cache_key": "a2bbd2bbabca1e0ac9a4a043d8ba9bf979bff3216bef801a5331c04921054740",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e7b946a2ee168453a382ef11a698a60cec42b4e4d36f701568f30c498e4574c9",
+    "captions": [
+      {
+        "caption_id": "81",
+        "caption": "This song has a meditating vibe to it, what I would listen to calm things down after an anxious encounter."
+      },
+      {
+        "caption_id": "327",
+        "caption": "Instrumental piano piece with a slightly classical touch and a nostalgic, bittersweet or blue mood."
+      }
+    ]
+  },
+  "npz_sha256": "78986b7b5cb4deae85665bd3427d0229737a1f29d627b8d0e09d8af75d87ddba",
+  "decoded_pcm_sha256": "6995da62b969b4a8de685cb534aea8fd764932b49f79e4d5f12185c3c46567eb",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    25,
+    22
+  ],
+  "audio_forward_seconds": 0.5281668999232352
+}

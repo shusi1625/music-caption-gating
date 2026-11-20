@@ -1,0 +1,32 @@
+{
+  "track_id": "285674",
+  "split": "development",
+  "artist_id": "347598",
+  "captions": [
+    {
+      "caption_id": "951",
+      "caption": "A classical track performed on an electric piano."
+    }
+  ],
+  "cache_key": "3bbab1a58cfb94c7e89e58d4def08e01c58bc9e2892724ee96cf7e713ce4c4c7",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9ada9f92af95dbb6164b8323358e6d760a5dc5770a35e42ecbab8deff19ccb76",
+    "captions": [
+      {
+        "caption_id": "951",
+        "caption": "A classical track performed on an electric piano."
+      }
+    ]
+  },
+  "npz_sha256": "37a2b2996d7e0cae610659cb580c1378ad3d84b483a9bb8345c414fc8231f4f0",
+  "decoded_pcm_sha256": "1115cf88102dd09455fef5e1ceeaafd24a1b6811f2c55938d81f5b1f14fc5a46",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    11
+  ],
+  "audio_forward_seconds": 0.4307435997761786
+}

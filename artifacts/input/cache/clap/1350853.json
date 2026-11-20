@@ -1,0 +1,32 @@
+{
+  "track_id": "1350853",
+  "split": "evaluation",
+  "artist_id": "337328",
+  "captions": [
+    {
+      "caption_id": "632",
+      "caption": "A musical call to be in the here and now with this deeply spiritual piece."
+    }
+  ],
+  "cache_key": "04305fee38ba1768ac04b640865a1ff650754bff87041682d7ccef8559a1b09f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "392bdd482fed519b2332d2d42d3035025056f9039a20fa7665b666b44ba44054",
+    "captions": [
+      {
+        "caption_id": "632",
+        "caption": "A musical call to be in the here and now with this deeply spiritual piece."
+      }
+    ]
+  },
+  "npz_sha256": "6fd7c88138e03d0e0a818c9cba9818d29990b88a0bcc2538ccf017f6b419454b",
+  "decoded_pcm_sha256": "d7f52e10733ca81e23e7251718e541dcf90f44cb72bd2dc4595c5f16624c836e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.44102169992402196
+}

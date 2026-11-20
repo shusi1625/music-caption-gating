@@ -1,0 +1,32 @@
+{
+  "track_id": "94736",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "514",
+      "caption": "An alternative rock piece with piano base, drums and male vocal which often does falsettos."
+    }
+  ],
+  "cache_key": "94357e7459431d3173032f16e23b1e3c4dd62cd1d45b2ea38ec2b8bae03aa52e",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "83236b6fd6eb89da3d9c6d67343b173f05299cdfd7fa26c9e45ad7c1d543e903",
+    "captions": [
+      {
+        "caption_id": "514",
+        "caption": "An alternative rock piece with piano base, drums and male vocal which often does falsettos."
+      }
+    ]
+  },
+  "npz_sha256": "8fd59b9922979324f5af53149f6d1c4539fab78703251ee62c4e49f8ac9386d1",
+  "decoded_pcm_sha256": "7c73a537ff3463d78d085145f6089979eca77db42770d41e09c1a28602ef899c",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.49464929988607764
+}

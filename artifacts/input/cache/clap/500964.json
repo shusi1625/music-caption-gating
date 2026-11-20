@@ -1,0 +1,32 @@
+{
+  "track_id": "500964",
+  "split": "development",
+  "artist_id": "338916",
+  "captions": [
+    {
+      "caption_id": "12",
+      "caption": "an energetic instrumental track with heavy use of synthesizers, the track would be used in a video game setting."
+    }
+  ],
+  "cache_key": "d5e4fc5bca4a8d803ebe5bed2f9e8a5329602c2ff6f364dc92da3364cc3849ed",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5f4e7528236a83ddeab49c5e6894a57a41d8cb29960b9ed921de2c6c7221cb89",
+    "captions": [
+      {
+        "caption_id": "12",
+        "caption": "an energetic instrumental track with heavy use of synthesizers, the track would be used in a video game setting."
+      }
+    ]
+  },
+  "npz_sha256": "b6ee2cac21ea3883781e306f42e5717ed0e1f3d907ee9e8006ce06638b21e0d2",
+  "decoded_pcm_sha256": "4ecf4fc31dab99fcbcde4249a74a7b26a5ce24119d75a0e6c258482aa0cafb4f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.44701229967176914
+}

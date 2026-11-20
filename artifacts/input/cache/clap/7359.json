@@ -1,0 +1,32 @@
+{
+  "track_id": "7359",
+  "split": "evaluation",
+  "artist_id": "937",
+  "captions": [
+    {
+      "caption_id": "631",
+      "caption": "A warm and slow paced song that has an R&B base invites to get closer."
+    }
+  ],
+  "cache_key": "156aa38b38da154ea7cf659c25041a1b59f5695c7c8a4450e6805761fba8537f",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bb3c3a3b4f0295e97fa608961041b9d6cf1b1e6b17b16ec04a8efb35c930c4ef",
+    "captions": [
+      {
+        "caption_id": "631",
+        "caption": "A warm and slow paced song that has an R&B base invites to get closer."
+      }
+    ]
+  },
+  "npz_sha256": "ee4a775f637ecb460eaeeba0d500d7fae739cfd5f24c8db77b0b38d002c9c716",
+  "decoded_pcm_sha256": "b26f0f5491d06cba5774784817788a6ae73c5c336f13c1cd334b5a6966ab4084",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    20
+  ],
+  "audio_forward_seconds": 0.4831282999366522
+}

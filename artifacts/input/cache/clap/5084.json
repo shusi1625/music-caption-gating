@@ -1,0 +1,32 @@
+{
+  "track_id": "5084",
+  "split": "development",
+  "artist_id": "696",
+  "captions": [
+    {
+      "caption_id": "4",
+      "caption": "Jazzy song with organs, a warm guitar lead, repetitive bassline, triangle on percussion, and drumming, reminiscent of an underground jazz bar."
+    }
+  ],
+  "cache_key": "beab3bae75ba74c842f6c914d06e21da666abd79d8f3c1b5d649db6e00da3ce8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "8b69c5085d29004a5899d1ff9537a84ad80e10aa3eb614fdc60daea66d55e061",
+    "captions": [
+      {
+        "caption_id": "4",
+        "caption": "Jazzy song with organs, a warm guitar lead, repetitive bassline, triangle on percussion, and drumming, reminiscent of an underground jazz bar."
+      }
+    ]
+  },
+  "npz_sha256": "d38f927336f82afff5f4bf999d06342698d8106b9ffc4858b0aa02a59cfe57e9",
+  "decoded_pcm_sha256": "90e7a67f0cccd456def8cd877bf02f3a3042ac024461526b6553393fb62dbe6f",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    33
+  ],
+  "audio_forward_seconds": 0.4301215000450611
+}

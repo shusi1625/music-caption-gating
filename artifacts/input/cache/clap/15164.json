@@ -1,0 +1,32 @@
+{
+  "track_id": "15164",
+  "split": "evaluation",
+  "artist_id": "2208",
+  "captions": [
+    {
+      "caption_id": "764",
+      "caption": "Organs and bells are building up tension progressively as we feel more and more endangered and trapped in a sinister place like a vampire castle."
+    }
+  ],
+  "cache_key": "35ed2fbaa5837ce88ef1b1d4778744fdf615309d9c19cef9b0398c03d7647c05",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "050c4752290b7cdd45c112bb1605b7140433864530ac5058d9ffb2d9fa4331cf",
+    "captions": [
+      {
+        "caption_id": "764",
+        "caption": "Organs and bells are building up tension progressively as we feel more and more endangered and trapped in a sinister place like a vampire castle."
+      }
+    ]
+  },
+  "npz_sha256": "bcb0d7850fb6fc50624c2538baa3996b1d33120e7c2d44025ea102e70bf352fc",
+  "decoded_pcm_sha256": "e249cbd704be485724b756058c13d85335f4001bd5cb5a159e2598b5815662f9",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.4862800999544561
+}

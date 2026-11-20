@@ -1,0 +1,41 @@
+{
+  "track_id": "1356313",
+  "split": "evaluation",
+  "artist_id": "467034",
+  "captions": [
+    {
+      "caption_id": "738",
+      "caption": "Power pop with drums and driving rock guitar, group vocal harmonies."
+    },
+    {
+      "caption_id": "892",
+      "caption": "This is pop song with drums, synth, electirc guitar and some lyrics, with a classical chord progression and a memorable melody."
+    }
+  ],
+  "cache_key": "58686cc917bc185acf26c95f964b4d0f19e521ad764f4d8b6f826407f395c1ae",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "0fa7e357315cb163eeb95c988e70ef6eff8a5d59adcdecd2674ad7e8b802af71",
+    "captions": [
+      {
+        "caption_id": "738",
+        "caption": "Power pop with drums and driving rock guitar, group vocal harmonies."
+      },
+      {
+        "caption_id": "892",
+        "caption": "This is pop song with drums, synth, electirc guitar and some lyrics, with a classical chord progression and a memorable melody."
+      }
+    ]
+  },
+  "npz_sha256": "bd2051c522d31b697fad5a92ee60e820872640bc4b6ac6fceb3d577ef8da5c69",
+  "decoded_pcm_sha256": "1037a05b5271c8726fda36d0584b5f856f6824055b3f39f8be906aff48b747e6",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    16,
+    28
+  ],
+  "audio_forward_seconds": 0.4456973997876048
+}

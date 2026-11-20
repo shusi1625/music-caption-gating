@@ -1,0 +1,41 @@
+{
+  "track_id": "1180601",
+  "split": "evaluation",
+  "artist_id": "7349",
+  "captions": [
+    {
+      "caption_id": "93",
+      "caption": "A dramatic R&B back beat with a dull melody but solid bass and hi-hat base reminiscent of 90s."
+    },
+    {
+      "caption_id": "310",
+      "caption": "Upbeat hip-hop with trap vibes and bubbly bass synth."
+    }
+  ],
+  "cache_key": "8640a3fffcf878f100a5bb422d1441820f0d042f26847ad649c0596fea67d15b",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "691dbc00e03e4ea735763d95b6b7d9440a7a2efe9449bf52b9b2600684f83674",
+    "captions": [
+      {
+        "caption_id": "93",
+        "caption": "A dramatic R&B back beat with a dull melody but solid bass and hi-hat base reminiscent of 90s."
+      },
+      {
+        "caption_id": "310",
+        "caption": "Upbeat hip-hop with trap vibes and bubbly bass synth."
+      }
+    ]
+  },
+  "npz_sha256": "1a39d36848d154a5d310572eefed7791678ad53086026519bd82ad185194d3aa",
+  "decoded_pcm_sha256": "d25dbe1b1f181f0de7b93bc49934afe0f6450ac13c7af5ccd227f1c72e3d8515",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26,
+    17
+  ],
+  "audio_forward_seconds": 0.4313533999957144
+}

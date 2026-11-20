@@ -1,0 +1,32 @@
+{
+  "track_id": "865116",
+  "split": "evaluation",
+  "artist_id": "369472",
+  "captions": [
+    {
+      "caption_id": "863",
+      "caption": "Sad melodic instrumental using violin and piano and elements of xylophone as a percussion"
+    }
+  ],
+  "cache_key": "b1646bb17fd95378e0bfe605dc423e493acf290f873b3a7090f9d32682c745e8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "d2a98af904a40c0f4c052a91a596797555981c4095196ee26109d8d1cce9dbbf",
+    "captions": [
+      {
+        "caption_id": "863",
+        "caption": "Sad melodic instrumental using violin and piano and elements of xylophone as a percussion"
+      }
+    ]
+  },
+  "npz_sha256": "471dc39035d47486a2206203d453e79e5af51f7a80e104710811fb69316528c0",
+  "decoded_pcm_sha256": "581a0d73a5a39d588ee57a160b22a03f6e2ec5743ee8ca2edc53c68799bab460",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    19
+  ],
+  "audio_forward_seconds": 0.4792134999297559
+}

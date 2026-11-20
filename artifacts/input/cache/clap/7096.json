@@ -1,0 +1,32 @@
+{
+  "track_id": "7096",
+  "split": "evaluation",
+  "artist_id": "949",
+  "captions": [
+    {
+      "caption_id": "30",
+      "caption": "Neo-soul song with nylon string guitar and female vocals in French"
+    }
+  ],
+  "cache_key": "86ec8ea8d7fe474661cc1deeb2ad5f6cb078372ada722e3810758c01047f87f0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "1b7d23e0f1cb774535ec7cba7732f3821be8ee120e51227505d6a3a5324c1137",
+    "captions": [
+      {
+        "caption_id": "30",
+        "caption": "Neo-soul song with nylon string guitar and female vocals in French"
+      }
+    ]
+  },
+  "npz_sha256": "96e8e7f8813ae37eb270e3a0823ca085485834adee8cb23dcec1378fbaa11fc5",
+  "decoded_pcm_sha256": "4c3e9590433ffd1523e2737483f118f306840d4dd0b433862e14c246cd13fc3a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    17
+  ],
+  "audio_forward_seconds": 0.6419137003831565
+}

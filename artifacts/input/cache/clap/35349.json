@@ -1,0 +1,32 @@
+{
+  "track_id": "35349",
+  "split": "evaluation",
+  "artist_id": "4927",
+  "captions": [
+    {
+      "caption_id": "759",
+      "caption": "Pop rock song with male lead singer containing slight dissonant passages between the lead guitar and the supporting piano chords."
+    }
+  ],
+  "cache_key": "1dfcb2cb317237a1d6756a9b50c347a18a1dfe493e3204068c4b1f4cec209dcf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "5f8ef3e0c5fd2b2cd65c2c4fc6c80e6538cbda39d6fd2f49fcb2d16ee06b45fa",
+    "captions": [
+      {
+        "caption_id": "759",
+        "caption": "Pop rock song with male lead singer containing slight dissonant passages between the lead guitar and the supporting piano chords."
+      }
+    ]
+  },
+  "npz_sha256": "3520c6b96c5d3e0d1fe1088e4588ebabd8af5144014b66d03a316e725743c374",
+  "decoded_pcm_sha256": "d45b523933ff31f3ec9deb81b84bc61542d71ae3ca99cadf82f605348588cea7",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.4600141001865268
+}

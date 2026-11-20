@@ -1,0 +1,32 @@
+{
+  "track_id": "238099",
+  "split": "evaluation",
+  "artist_id": "1435",
+  "captions": [
+    {
+      "caption_id": "626",
+      "caption": "Instrumental rock song that begins with an ambient intro and then progresses through various sections of electric guitars that intensify over time."
+    }
+  ],
+  "cache_key": "ffddef4db2290b01e739f0b388a8f5e67429f1b2c6fa36fd88b3010ba17caedf",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "3b0efe4f0806c05b7c064274f2d54af9749aa0832b802dfa6a6fe49bf20f0094",
+    "captions": [
+      {
+        "caption_id": "626",
+        "caption": "Instrumental rock song that begins with an ambient intro and then progresses through various sections of electric guitars that intensify over time."
+      }
+    ]
+  },
+  "npz_sha256": "c44790d12ea50635011c7a586a6592dfda2140a517bdf0432fa66ee18ec9e474",
+  "decoded_pcm_sha256": "e8e2aabbd438ebf9c798262017e69a8c157b5faa6777b19fa807bd71e27dd6f8",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    27
+  ],
+  "audio_forward_seconds": 0.5996658001095057
+}

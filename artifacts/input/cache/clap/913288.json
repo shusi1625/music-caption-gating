@@ -1,0 +1,32 @@
+{
+  "track_id": "913288",
+  "split": "evaluation",
+  "artist_id": "7063",
+  "captions": [
+    {
+      "caption_id": "772",
+      "caption": "A post-rock song for listening as a teenager."
+    }
+  ],
+  "cache_key": "f20a93c753ad01337e05a0b66b7d81113e14244db011f7a07cb6698c0c0ba026",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e485ae2b32ea94db6e98b41ae462f8c7b6e4466bea1d5b464280ccce3348e6c3",
+    "captions": [
+      {
+        "caption_id": "772",
+        "caption": "A post-rock song for listening as a teenager."
+      }
+    ]
+  },
+  "npz_sha256": "0a4d13a79ab73de0d4d13d4bd614811fb096c8c6c87b48567edc8566b2086c92",
+  "decoded_pcm_sha256": "a2fe1a39e864bad8b601558bc85b11ce0eb91a5488efa1debf8fe16faac8f637",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    13
+  ],
+  "audio_forward_seconds": 0.4442463000304997
+}

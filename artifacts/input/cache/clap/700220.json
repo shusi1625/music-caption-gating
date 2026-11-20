@@ -1,0 +1,32 @@
+{
+  "track_id": "700220",
+  "split": "evaluation",
+  "artist_id": "348064",
+  "captions": [
+    {
+      "caption_id": "97",
+      "caption": "Girl singing on top of a dramatic electronic tune with a violin and muted guitar."
+    }
+  ],
+  "cache_key": "8ad0c751fce020358286151cf545f293ed526c67e49160d1f852b6ee2ce2fba0",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "e0157b1537b56dbd06d75254ae27c71d1cae6c999cb79bdbba8a1a33a9954359",
+    "captions": [
+      {
+        "caption_id": "97",
+        "caption": "Girl singing on top of a dramatic electronic tune with a violin and muted guitar."
+      }
+    ]
+  },
+  "npz_sha256": "9e41d1cbdf5879e87077b4b2bb1759024cd0da8406bc629058edf6f414931344",
+  "decoded_pcm_sha256": "b6e9529e4fcf80de3190b13fd17475b9ac7d10e6af58d2bbc6af0d9a1e712d19",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.43669060012325644
+}

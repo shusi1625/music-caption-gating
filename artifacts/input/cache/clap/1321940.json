@@ -1,0 +1,32 @@
+{
+  "track_id": "1321940",
+  "split": "evaluation",
+  "artist_id": "2740",
+  "captions": [
+    {
+      "caption_id": "323",
+      "caption": "This song reminds me some film and movie scenes in which there is a lot of tension and fear"
+    }
+  ],
+  "cache_key": "4eedbd7fa56f21a5e682b3160c04f41d3103500efdf0a5d9b111ab3024dd0891",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "bf8556fb0889a5897aa65d6af594fff4de4da8b5512701d8e355f218288aa210",
+    "captions": [
+      {
+        "caption_id": "323",
+        "caption": "This song reminds me some film and movie scenes in which there is a lot of tension and fear"
+      }
+    ]
+  },
+  "npz_sha256": "89a0e2a9c6af12f22dbe31803542c462a870e205bf0ec1692da6968acf10cc49",
+  "decoded_pcm_sha256": "2846b75982438ec6aee774d8ee3a64ae25224302288b8bd564d7d309a5a7aa1a",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21
+  ],
+  "audio_forward_seconds": 0.4869059999473393
+}

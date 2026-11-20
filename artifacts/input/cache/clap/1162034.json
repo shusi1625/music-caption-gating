@@ -1,0 +1,32 @@
+{
+  "track_id": "1162034",
+  "split": "evaluation",
+  "artist_id": "454458",
+  "captions": [
+    {
+      "caption_id": "652",
+      "caption": "Step onto a cruise and sip your drink in your Hawaiian shirt while listening to this track under the afternoon breeze in St.Tropez."
+    }
+  ],
+  "cache_key": "9f7c744d7f2c8dd96be4415b88ea7b0861c44fcb097c96fc9902df75c31574dd",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "da43a86cba48dadf952d54aab8dcb4782be7a30f3ef10099a3a8cb38c83acb75",
+    "captions": [
+      {
+        "caption_id": "652",
+        "caption": "Step onto a cruise and sip your drink in your Hawaiian shirt while listening to this track under the afternoon breeze in St.Tropez."
+      }
+    ]
+  },
+  "npz_sha256": "8320fb40a0042d38e953721d22ac92fa4e785fe8349e46307bb63f1c029700c8",
+  "decoded_pcm_sha256": "4cd319f81092ef61d0a82d23cb105b0b17b9e2c29b3f7cf206af246d907e4361",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    29
+  ],
+  "audio_forward_seconds": 0.5031540002673864
+}

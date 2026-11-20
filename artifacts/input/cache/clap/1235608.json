@@ -1,0 +1,32 @@
+{
+  "track_id": "1235608",
+  "split": "evaluation",
+  "artist_id": "340663",
+  "captions": [
+    {
+      "caption_id": "1097",
+      "caption": "Relaxing jazz music with soothing melody that contains brass instruments and various keyboards."
+    }
+  ],
+  "cache_key": "58c5b908e8a81c4a18fcb5a664d12b5cdc2f6570561b77f685fdaa9f32c392d4",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "895e64bed8f65e518f4e6ab5300eade9d3c23cedeeb5d39c06bfb07ee78e6ec4",
+    "captions": [
+      {
+        "caption_id": "1097",
+        "caption": "Relaxing jazz music with soothing melody that contains brass instruments and various keyboards."
+      }
+    ]
+  },
+  "npz_sha256": "506cb0182184a4e4f7f4ae4fc3d45935920ab5e16b3945613a6602ab9b87dfe3",
+  "decoded_pcm_sha256": "9bb96bc307ecd54a009dcefd340b6f607d4f256a93279f43c5284db90742517e",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    18
+  ],
+  "audio_forward_seconds": 0.49207739997655153
+}

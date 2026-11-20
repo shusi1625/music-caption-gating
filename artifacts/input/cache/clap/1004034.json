@@ -1,0 +1,32 @@
+{
+  "track_id": "1004034",
+  "split": "evaluation",
+  "artist_id": "368880",
+  "captions": [
+    {
+      "caption_id": "859",
+      "caption": "Electronic music that has a constant melody throughout with accompanying instruments used to supplement the melody which can be heard in possibly a casual setting"
+    }
+  ],
+  "cache_key": "a893aae4243a24fe5819cb6eb9b988723cd5750ba607eecc360f0439310557a8",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "b84d399ff8f9f8ef71de86f8c7396753e75fcaea928d365d3113ba1d0d765f96",
+    "captions": [
+      {
+        "caption_id": "859",
+        "caption": "Electronic music that has a constant melody throughout with accompanying instruments used to supplement the melody which can be heard in possibly a casual setting"
+      }
+    ]
+  },
+  "npz_sha256": "3f4b38a7abc421f2e2ce058da5a5f1e0bbfef36b9dc32c231315dfd2f4f0460d",
+  "decoded_pcm_sha256": "a18ee5995cf8c8b18be08d500a3b3125745f0a84c4b6e1258766b23a8f1418ef",
+  "original_seconds": 119.98897916666667,
+  "padding_samples": 529,
+  "source_sample_rate": 48000,
+  "source_channels": 2,
+  "token_counts": [
+    28
+  ],
+  "audio_forward_seconds": 0.42968659987673163
+}

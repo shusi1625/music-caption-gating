@@ -1,0 +1,32 @@
+{
+  "track_id": "1136142",
+  "split": "evaluation",
+  "artist_id": "426658",
+  "captions": [
+    {
+      "caption_id": "88",
+      "caption": "A frantic rock intro with bass and drums turns into a happy and energetic ska punk song with a male vocalist."
+    }
+  ],
+  "cache_key": "4c26628b84f0a5c4b24ccf9db703c996f58efd3d48efaf0643a443ff27f2f3ae",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "92a9b7f4528f7dad865b65ec6815404da285dbb83c4dec8ec7fa32ef6d4b8683",
+    "captions": [
+      {
+        "caption_id": "88",
+        "caption": "A frantic rock intro with bass and drums turns into a happy and energetic ska punk song with a male vocalist."
+      }
+    ]
+  },
+  "npz_sha256": "3bb0b23b8a0e894e4f289b5c03b47da432ab0ff147c27ac4e46316643c8f1a10",
+  "decoded_pcm_sha256": "5606ebe10dd213c70b81ef31a3156bdd7c60639161d2611b17dc8fe2bc765a68",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    26
+  ],
+  "audio_forward_seconds": 0.45194460032507777
+}

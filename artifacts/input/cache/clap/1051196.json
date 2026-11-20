@@ -1,0 +1,41 @@
+{
+  "track_id": "1051196",
+  "split": "evaluation",
+  "artist_id": "436034",
+  "captions": [
+    {
+      "caption_id": "178",
+      "caption": "Strummed acoustic guitar and female vocal on an uplifting pop song performed by real musicians."
+    },
+    {
+      "caption_id": "715",
+      "caption": "country-pop relaxing song with happy mood and acoustic guitar, ideal for young girls going out shopping or dreaming about their love"
+    }
+  ],
+  "cache_key": "e10d5d0d9121dd5713df512b0db4611a473f37e47f8fee8da799fe58ae7078d3",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "7d9553ac982dd303d58c3f83549a676327265855287937158cca18796d5176be",
+    "captions": [
+      {
+        "caption_id": "178",
+        "caption": "Strummed acoustic guitar and female vocal on an uplifting pop song performed by real musicians."
+      },
+      {
+        "caption_id": "715",
+        "caption": "country-pop relaxing song with happy mood and acoustic guitar, ideal for young girls going out shopping or dreaming about their love"
+      }
+    ]
+  },
+  "npz_sha256": "73078e352c88384cfefdfa6d975ec89f5fe11daadbc462a63ac935c185e4f97d",
+  "decoded_pcm_sha256": "4382035aacd6d02beaddba1668229017d5429fef95cb5f28e82fd8f0ea907e94",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    21,
+    26
+  ],
+  "audio_forward_seconds": 0.4830229999497533
+}

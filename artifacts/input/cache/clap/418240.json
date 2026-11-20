@@ -1,0 +1,32 @@
+{
+  "track_id": "418240",
+  "split": "evaluation",
+  "artist_id": "343236",
+  "captions": [
+    {
+      "caption_id": "294",
+      "caption": "This somewhat experimental electro track features handclaps, a layering of multiple synth loops and a repetitive pattern."
+    }
+  ],
+  "cache_key": "b10fbaf3cf4e3c65deb1f0fcaea9b0258c3fc6049a269050834f62cb33d0e700",
+  "lineage": {
+    "spec": "11eff36ae8bef0c378a6ca63deff474e8a3941d72e87ca5261ecd358ae450c2f",
+    "audio_sha256": "9d3ea097e0a2cac0373c80e663fbec0ddb077fff4028f4a5b46cbed36023d6a9",
+    "captions": [
+      {
+        "caption_id": "294",
+        "caption": "This somewhat experimental electro track features handclaps, a layering of multiple synth loops and a repetitive pattern."
+      }
+    ]
+  },
+  "npz_sha256": "032940d406c7b32c061d96859e638218f86fae35b933292be4e95727dfb879bd",
+  "decoded_pcm_sha256": "8735eee0f7044c12d997fbcd9c7eaa8d8af0724bfcc921d78a57ca1a25f0f276",
+  "original_seconds": 119.99454166666666,
+  "padding_samples": 262,
+  "source_sample_rate": 44100,
+  "source_channels": 2,
+  "token_counts": [
+    24
+  ],
+  "audio_forward_seconds": 0.5781131000258029
+}
