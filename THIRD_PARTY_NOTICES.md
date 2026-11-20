@@ -23,7 +23,8 @@ The official repository's License section states:
 The upstream repository separately licenses its starter **software** under MIT.
 That software license is not used here as permission to relicense the captions.
 
-The caption-bearing JSON files in `artifacts/input/` are an adapted selection of
+The caption-bearing JSON files in `artifacts/input/` and the reproduced
+metadata/case files under `evidence/` are an adapted selection of
 the dataset: valid captions were selected, associated with track and artist IDs,
 assigned to fixed research splits, ordered by numeric caption ID, and placed in
 JSON manifests and reference cases. This selection is not the original dataset

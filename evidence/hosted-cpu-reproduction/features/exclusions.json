@@ -1,0 +1,502 @@
+[
+  {
+    "track_id": "5089",
+    "split": "development",
+    "artist_id": "696",
+    "captions": [
+      {
+        "caption_id": "836",
+        "caption": "A soft, calming jazz piece with a leading guitar, that's suitable for cafe environment"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 102.6606875,
+    "padding_samples": 0,
+    "audio_sha256": "5454f4185111d71b0364a156e983ce657c7b4ad5b4d618afe07873afc49fa5ce",
+    "decoded_pcm_sha256": "b8351dba064bcd8e737eb40ae65a11812901af960e1d8ca9473dfb82252ce65d"
+  },
+  {
+    "track_id": "17170",
+    "split": "evaluation",
+    "artist_id": "2534",
+    "captions": [
+      {
+        "caption_id": "1025",
+        "caption": "It has a ballet dance or circus music feel mostly played on the xylophone"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 65.29304166666667,
+    "padding_samples": 0,
+    "audio_sha256": "d73d48a26106300b47f4617fbbea5d1bf19b4601745160297917f4647d4fa9ba",
+    "decoded_pcm_sha256": "df9c36409a9e2c2934637b4ab2d94f6525347427067a4fc26c7827a13624eeaa"
+  },
+  {
+    "track_id": "22063",
+    "split": "evaluation",
+    "artist_id": "14",
+    "captions": [
+      {
+        "caption_id": "482",
+        "caption": "A weird track that starts with an acoustic guitar and a guttural male English speaking voice singing quietly until in the middle of song the voice becomes angry, says something in French and starts with an heavy metal scream beat that moves to a radio/tv like commercial ending."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 61.9460625,
+    "padding_samples": 0,
+    "audio_sha256": "57098935b47d6149c453f011d73f51bb7873f8401e3211cebe87d1d94689de9f",
+    "decoded_pcm_sha256": "27dba751af17795ec4d5d1c28d7409dd4d258d7e53b9539d50be2e5faaa656fd"
+  },
+  {
+    "track_id": "87893",
+    "split": "evaluation",
+    "artist_id": "1968",
+    "captions": [
+      {
+        "caption_id": "410",
+        "caption": "Calm sitar and Indian tabla with dramatic synthetic strings background"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 112.39279166666667,
+    "padding_samples": 0,
+    "audio_sha256": "11b956477ca87554d8e6b1b411abf5426f2452b9feca4aa7c9a80eadfc13d6f3",
+    "decoded_pcm_sha256": "ea17be48684a6d1bc7eafc288cdf8677640ee3adced6606425abcfa30ca49351"
+  },
+  {
+    "track_id": "103333",
+    "split": "evaluation",
+    "artist_id": "6568",
+    "captions": [
+      {
+        "caption_id": "1040",
+        "caption": "This is an instrumental track based on electronic samples that can be used before the start of a movie to give a doomsday or post apocalypse feel"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 93.52891666666666,
+    "padding_samples": 0,
+    "audio_sha256": "d64e164fe52ea97aa051da89f923921562f09dfebae838d17d81fe75b03ef8bb",
+    "decoded_pcm_sha256": "43a1b0a1bc9378a76a7870ebf975fadc83c03615ce51651c4586b0a81b87f367"
+  },
+  {
+    "track_id": "190781",
+    "split": "evaluation",
+    "artist_id": "340663",
+    "captions": [
+      {
+        "caption_id": "933",
+        "caption": "A whimsical string arrangement that feels like bouncing through some woods on an adventure in a video game, with a triumphant finish."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 118.03758333333333,
+    "padding_samples": 0,
+    "audio_sha256": "ece014bc81a45233c8eee658474ac36e3b54856687ad9e7edd4683727f61e514",
+    "decoded_pcm_sha256": "9db53529595a5a0c07bbec2944eafca104a1cd47375c7e6428e1bc6b403daf83"
+  },
+  {
+    "track_id": "305159",
+    "split": "evaluation",
+    "artist_id": "348448",
+    "captions": [
+      {
+        "caption_id": "818",
+        "caption": "Fast tempo percussion with an energetic beat and a vocal melody"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 100.81272916666667,
+    "padding_samples": 0,
+    "audio_sha256": "491b0f0bc2f39c79c6a13dec0da0457ffe0e1d2827c0cbd491e9fb0e48b5e81f",
+    "decoded_pcm_sha256": "477eb143a3a7615aab62d1d6e8f8ab511512fcb500d7db1231ff3d8b7c66ea9d"
+  },
+  {
+    "track_id": "352685",
+    "split": "evaluation",
+    "artist_id": "350716",
+    "captions": [
+      {
+        "caption_id": "143",
+        "caption": "A peaceful piano piece for relaxing by the fireplace."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 65.4060625,
+    "padding_samples": 0,
+    "audio_sha256": "da14542ec11a74cc7aee84b7fbb6eee4657c40ed47f4554f44cba25fbef35bd7",
+    "decoded_pcm_sha256": "3904772185243781deefdb4d35ba310e115e2a6d307027b265880b1348791803"
+  },
+  {
+    "track_id": "352694",
+    "split": "evaluation",
+    "artist_id": "350716",
+    "captions": [
+      {
+        "caption_id": "927",
+        "caption": "Piano ternary piece with a repetitive and dynamic pattern that modulate overtime with some 3-for-2 parts"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 93.82383333333334,
+    "padding_samples": 0,
+    "audio_sha256": "2ce886eaa70f56d6d90d1802adfcd8d81da92f432df4cf8e8840790345eed903",
+    "decoded_pcm_sha256": "c10ca0f01a9fd442bf2016555b694964a8acabd99c6b891c2275341b4b8f3305"
+  },
+  {
+    "track_id": "373229",
+    "split": "evaluation",
+    "artist_id": "341060",
+    "captions": [
+      {
+        "caption_id": "830",
+        "caption": "Strong emphasis on the guitar riff and screaming vocals invoking aggressive emotion for a metal genre"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 114.43939583333334,
+    "padding_samples": 0,
+    "audio_sha256": "0b7bf05ed97d1f4b2ca4855ab7c608afb2cc5220d315961853fbc3ba6809068a",
+    "decoded_pcm_sha256": "6a66298bba9e5cc13532305a04f07c1b1706d969d718c43d832ae3cc7607393a"
+  },
+  {
+    "track_id": "389520",
+    "split": "evaluation",
+    "artist_id": "352114",
+    "captions": [
+      {
+        "caption_id": "941",
+        "caption": "Instrumental mainly focused on clean electric guitar sound riffs and melody which might be fun to listen to on the background"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 113.62108333333333,
+    "padding_samples": 0,
+    "audio_sha256": "5691a6244a5898995a4bbe3c8e3f93f849873ce670a4a50065bbbbf387905a84",
+    "decoded_pcm_sha256": "6414f17e16362c46dc26753ae38442957c69565cd9ce585162767032e6fd4cf3"
+  },
+  {
+    "track_id": "402056",
+    "split": "evaluation",
+    "artist_id": "2740",
+    "captions": [
+      {
+        "caption_id": "332",
+        "caption": "Elegant and fragile piece of orchestral instrumental music for a film soundtrack set in the Middle Ages or in an Asian country, with a melody played by a violin accompanied by plucked strings."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 109.09789583333334,
+    "padding_samples": 0,
+    "audio_sha256": "0796435aca0243ad24a5011481a905798b076f76f690112502502935c0386941",
+    "decoded_pcm_sha256": "e301e6662dde3723c4ef93da56ff4d22f4f718a486335397ba327debce5e167e"
+  },
+  {
+    "track_id": "579646",
+    "split": "evaluation",
+    "artist_id": "7063",
+    "captions": [
+      {
+        "caption_id": "717",
+        "caption": "depressive music with only guitar and a sad voice for guys using drugs would be ideal for a rainy day to be even more sad"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 118.8661875,
+    "padding_samples": 0,
+    "audio_sha256": "501adc428ba05a9f0c6ea120d08d9364ea129d9ae95110430839dcfa6a7cc4fa",
+    "decoded_pcm_sha256": "adaef5ee45956df87285797e57e30b95f2401322ddc06da16cc290974dedac3c"
+  },
+  {
+    "track_id": "632094",
+    "split": "evaluation",
+    "artist_id": "361694",
+    "captions": [
+      {
+        "caption_id": "980",
+        "caption": "Christmas carol with only instruments feels like in a Disney land fill with toys."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 84.88995833333334,
+    "padding_samples": 0,
+    "audio_sha256": "c4e7022277a51e8e0069b90b481cb88e1a033b283e06554820e4d74892ba7de5",
+    "decoded_pcm_sha256": "9d032c8c5ea03d75c552843534d3ece3859b082205e1dfca34c6b01dbef2d38b"
+  },
+  {
+    "track_id": "938293",
+    "split": "evaluation",
+    "artist_id": "372092",
+    "captions": [
+      {
+        "caption_id": "504",
+        "caption": "Trance experimental electronic track with a weird sounding vocal sampled lead, hollow drums and a 8-bit sounding beat."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 66.81595833333333,
+    "padding_samples": 0,
+    "audio_sha256": "050d1ec02bcafc976b137e43ef35f2f82c398be5c18ee45c373793b49d311ed1",
+    "decoded_pcm_sha256": "4956d94298efe59702026e417099e17b4f5a407f2d075e85d632fdeed323c92f"
+  },
+  {
+    "track_id": "1055022",
+    "split": "evaluation",
+    "artist_id": "436558",
+    "captions": [
+      {
+        "caption_id": "687",
+        "caption": "This song that features a piano, cello and oboe starts calmly and then arrives to a crescendo to give a triumphant atmosphere."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 86.9616875,
+    "padding_samples": 0,
+    "audio_sha256": "55a2367de8ee12a04be96df5f0563eddc5e41d27378d5ffba0163cf260f18b0a",
+    "decoded_pcm_sha256": "3cc31567dca1d277c74a8a05fd24a0bfbdb13c7bd10ba080b8df54364f9f5b4c"
+  },
+  {
+    "track_id": "1061473",
+    "split": "evaluation",
+    "artist_id": "7063",
+    "captions": [
+      {
+        "caption_id": "547",
+        "caption": "oh, this is kind of post punk music, remind me my high school memory."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 112.5979375,
+    "padding_samples": 0,
+    "audio_sha256": "cc20fdbf43ab6bcb7c8b238a873e6f3ce5286103b82a9e26566d7159226ba3bd",
+    "decoded_pcm_sha256": "f3f0bed0aaf6b11c2693b9ee11148ff87814e2792cb0a3c362d7715b78b74cad"
+  },
+  {
+    "track_id": "1061564",
+    "split": "evaluation",
+    "artist_id": "342608",
+    "captions": [
+      {
+        "caption_id": "205",
+        "caption": "A slow, amateur recording of a universally familiar song in spanish, perhaps sent as part of an e-card."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 95.72320833333333,
+    "padding_samples": 0,
+    "audio_sha256": "7117200577981cc4825668d8b5254d6440f8bb5ff605344fbe15c7d5420d1413",
+    "decoded_pcm_sha256": "a162e8258a6307d43593bf0d436c07f780476b0d53d225b1aa01378dc5fb0392"
+  },
+  {
+    "track_id": "1063454",
+    "split": "evaluation",
+    "artist_id": "437571",
+    "captions": [
+      {
+        "caption_id": "634",
+        "caption": "A deeply soothing track featuring two string instruments makes one peaceful with theirselves and the world."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 119.4060625,
+    "padding_samples": 0,
+    "audio_sha256": "7283a28ae3d994719d3e7e68feeb5b17ddbc6cbe3e441feed81a1b40365d4d6a",
+    "decoded_pcm_sha256": "a9aea1364348a0f6d8fe768ae08f791c96b427f94eb6a992c8188e5a61608d10"
+  },
+  {
+    "track_id": "1108553",
+    "split": "evaluation",
+    "artist_id": "442559",
+    "captions": [
+      {
+        "caption_id": "172",
+        "caption": "Suspenseful instrumental track with synthesizer, drums and percussion."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 49.95666666666666,
+    "padding_samples": 2080,
+    "audio_sha256": "f118043c40c2ab162f53d38fbf2fde7cf383896159856eb50de2d91dd4f12b19",
+    "decoded_pcm_sha256": "018372e4d0de3fd3337da91733dda1595ac420ff7bdeecbf74b4727bffbde402"
+  },
+  {
+    "track_id": "1116406",
+    "split": "evaluation",
+    "artist_id": "437998",
+    "captions": [
+      {
+        "caption_id": "713",
+        "caption": "slow and arpeggiated solo piano with a boatload of reverb"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 89.9060625,
+    "padding_samples": 0,
+    "audio_sha256": "b1f90d3bb231fb0ea321fd4dcf4d4c7db5edc8b2882fbdf0545ecbba1ae2fe48",
+    "decoded_pcm_sha256": "5316aa417f6a6ddb816abc2f96eae68af018dbdf034d38d17a6d0b2cf759918f"
+  },
+  {
+    "track_id": "1119403",
+    "split": "evaluation",
+    "artist_id": "442397",
+    "captions": [
+      {
+        "caption_id": "153",
+        "caption": "It is an orchestral piece with a hopeful mood and expectations ahead of an adventure."
+      },
+      {
+        "caption_id": "692",
+        "caption": "A strings orchestra and piano combine in this waltz to give a fantasy feeling."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 89.9060625,
+    "padding_samples": 0,
+    "audio_sha256": "e89599fed0cd823a60105e07bbdf3a90ecaeed8fd0b616933f8563e12191fef1",
+    "decoded_pcm_sha256": "ce9bc29ef4fa4ef59409b75de658b290e7b75de16881768a7680a2cbe3478bdd"
+  },
+  {
+    "track_id": "1166680",
+    "split": "evaluation",
+    "artist_id": "442397",
+    "captions": [
+      {
+        "caption_id": "940",
+        "caption": "Positive vibe like something good is happening or about to happen based primarily on finger picking acoustic"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 63.1788125,
+    "padding_samples": 0,
+    "audio_sha256": "fb0e967bee979fd6935cf731da3a4fb9fd214997348a663f23304518b9827a72",
+    "decoded_pcm_sha256": "3b8e0bcc3d3a9acd272e835910dacdb769d3cbabeb1e3f6edfadcd5f0087120d"
+  },
+  {
+    "track_id": "1169734",
+    "split": "evaluation",
+    "artist_id": "338649",
+    "captions": [
+      {
+        "caption_id": "266",
+        "caption": "It is an instrumental piano song, with a moody relaxing and gentle tone"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 93.9460625,
+    "padding_samples": 0,
+    "audio_sha256": "f81e9944f9c7c49ec2f94de64d37eaa8e1e3242d81632ee79569f39f0abafeff",
+    "decoded_pcm_sha256": "f8bae0b6babd6369aad65f468324ac99421ceb332a6bade2c3b87da46264e217"
+  },
+  {
+    "track_id": "1176657",
+    "split": "evaluation",
+    "artist_id": "458008",
+    "captions": [
+      {
+        "caption_id": "1037",
+        "caption": "Spacial projection with calm undertones plus slightly funky"
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 119.9060625,
+    "padding_samples": 0,
+    "audio_sha256": "92102781233e5312ef107fc68238dd471d45ae6713fb0f907c84969052ae1e78",
+    "decoded_pcm_sha256": "53f85b63858a9a40a9485d869b2853c11b79a4cb689cc27ff7b24f800eb8026c"
+  },
+  {
+    "track_id": "1313212",
+    "split": "evaluation",
+    "artist_id": "455057",
+    "captions": [
+      {
+        "caption_id": "99",
+        "caption": "8-bit melody brings one back to the arcade saloons while keeping the desire to dance."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 113.68383333333334,
+    "padding_samples": 0,
+    "audio_sha256": "19f4afcd94129d5c5fa9c2c930c1bb47ca9257f7ba6aa45c3319f7e1877db45e",
+    "decoded_pcm_sha256": "c2890848a6502bbf5c120987a9299abc21d6f86d5674c9e53a9011c36fed6463"
+  },
+  {
+    "track_id": "1347915",
+    "split": "evaluation",
+    "artist_id": "490314",
+    "captions": [
+      {
+        "caption_id": "703",
+        "caption": "a sinister medieval-sounding piece with a synthesized flute or organ and strong downbeats at a marching pace."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 62.30608333333333,
+    "padding_samples": 0,
+    "audio_sha256": "fb921681c4e0896dda9e116f2689431207348dd30e8146044ab73bc46763133f",
+    "decoded_pcm_sha256": "9ef75e3129f438d6102ad7c21239f1507c92836068d5e80c8b1ffaac80d658da"
+  },
+  {
+    "track_id": "1353972",
+    "split": "evaluation",
+    "artist_id": "454165",
+    "captions": [
+      {
+        "caption_id": "472",
+        "caption": "Instrumental jazz ensemble with a bossa nova rhythmic vibe that conveys a sense of positivity."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 33.891375,
+    "padding_samples": 0,
+    "audio_sha256": "1e6ab2b1c4561dd239fa264b8d565d58adb35f4d140da11583faa0b3d5e17e6d",
+    "decoded_pcm_sha256": "ea3a3453fe55facd8a71dd98c05e7d4f286c542677d97bc155860560f5846b1a"
+  },
+  {
+    "track_id": "1382988",
+    "split": "evaluation",
+    "artist_id": "483387",
+    "captions": [
+      {
+        "caption_id": "644",
+        "caption": "This track sounds like the backing track to an informative video about a campaign or a new product."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 51.9060625,
+    "padding_samples": 0,
+    "audio_sha256": "1b6519e65cb1c4e7202fa9dac757f1f5f9b8c7141eca7cbb404e113edcada44d",
+    "decoded_pcm_sha256": "de1d78195de7bf12a0b5505ecd39ccad6251f349a1f7d3f3fad60b7bda66ba29"
+  },
+  {
+    "track_id": "1388899",
+    "split": "evaluation",
+    "artist_id": "494324",
+    "captions": [
+      {
+        "caption_id": "364",
+        "caption": "This is a shiny lullaby gently performed on a piano."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 104.43939583333334,
+    "padding_samples": 0,
+    "audio_sha256": "fa673c7f7303b55846dd8293c7e76746c7b24d67d573c46fcf6503ce9f5a9f40",
+    "decoded_pcm_sha256": "10df0df87be8eccdb7d5037bc4a027e2a0a6c14a63bf96841f858fb187358211"
+  },
+  {
+    "track_id": "1393140",
+    "split": "evaluation",
+    "artist_id": "456894",
+    "captions": [
+      {
+        "caption_id": "448",
+        "caption": "An instrumental Christmas carol with a trumpet that leads the melody and a choir of \"ahhs\"."
+      }
+    ],
+    "reason": "fewer_than_twelve_complete_windows",
+    "original_seconds": 62.150375,
+    "padding_samples": 0,
+    "audio_sha256": "e268954128f261275fe99b10f0de53d23b54143a25e1f4211dcb3a39bd03d3d2",
+    "decoded_pcm_sha256": "819f518a0e14b4ca6555675ad422c8aa25096f0f9548add8f1c1c55d6317df2b"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "scope": "cache-based development and evaluation reproduction",
+  "feature_source": {
+    "mode": "regenerated_features",
+    "score_absolute_tolerance_to_original": 1e-05,
+    "development_threshold_absolute_tolerance": 1e-05,
+    "metric_absolute_tolerance_to_original": 2e-14,
+    "ranks_gates_assignments_must_match_original_exactly": true,
+    "original_frozen_thresholds_and_lambda_used": true,
+    "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+    "regenerated_manifest_sha256": "53a1e52a52bb454e4fa12ffa245accba77218bbcc693bf49e65702850af6fefe",
+    "regenerated_exclusions_sha256": "b4a66abf53c8ad1d7ca0da95c1c9ff4b07a327ccfe8384a27bf5e3e9e515617f",
+    "regenerated_model_spec_sha256": "198c4a833c74e4c056af2f171f06d3ec514b2b35665e96ad505c7c14b645113a",
+    "regenerated_provenance_sha256": "ed7e73a25c20cf09035332d6f4044c4ed34a8765c63b1c3834d292b70bc96474",
+    "regeneration_provenance": {
+      "original_protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+      "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+      "original_frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+      "model_weight_sha256": "1cd3c601bc4afe0fa87be3de4c13dd2cfadd249fac1e29acf74a9b296c3219bb",
+      "model": "laion/clap-htsat-unfused",
+      "revision": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a",
+      "download_manifest_sha256": "25e66ac9da8e34a99a1d9b82ae695de5a67abc6f65120c45ea6958b82fbe9131",
+      "original_exclusions_sha256": "4925ee766cf07faa8241b6890d026101eee368f110d0ea7549511bddf8b96da2",
+      "model_spec_sha256": "4dee66b0e5ab652dbf307525fb12746e66527ebd2ad88fa67e158d7cdc5558c6",
+      "scope": "locally regenerated source features; no new parameter selection",
+      "score_absolute_tolerance": 1e-05,
+      "metric_absolute_tolerance": 2e-14,
+      "ranks_gates_assignments": "exact match required"
+    }
+  },
+  "new_audio_embedding_inference": false,
+  "gpu_used": false,
+  "frozen_settings_unchanged": true,
+  "selected_lambda": 0.25,
+  "thresholds": {
+    "first_window": 0.32523579597473146,
+    "normalized_12_window_mean": 0.47426729202270507
+  },
+  "development_tracks": 99,
+  "evaluation_tracks": 309,
+  "python": "3.10.22",
+  "packages": {
+    "numpy": "1.23.5",
+    "scipy": "1.10.1",
+    "scikit-learn": "1.7.2"
+  },
+  "protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+  "frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+  "portable_scripts_sha256": {
+    "download_audio.py": "a303ca7e432cb034495fe67cd0980885f8f4b937575a6fd9983e26cc89f258db",
+    "evaluate.py": "6d8fe7f336b05aeb7a71be0e0feb37da20ac12ded247bb52e0734b9b3312d94d",
+    "export_paper_tables.py": "02510178adef72edd1db652bc329d2c1cde257e42489c73dd97fb8e56c0938ca",
+    "feature_source.py": "d04e8bceea5f340de89417dae0e13cbf1283b491ee4ed1dfa90638d976310ca3",
+    "pipeline.py": "b2db85d717a5747c3bf44d0978b43935d93d81f42112c218c52dfb8cc6a07364",
+    "prepare_features.py": "6f5e604ad636a87992b880c9789f5ec22fac2b891f7eac2e6562072f67c59b9c",
+    "reproduce.py": "fed66aa037eca8122fd8f320bd51a8171164e17ea0b3222688d41166d0514371",
+    "verify_development.py": "80d29ad4766d0b3889e2dda9d08c670f6b740a828b36284082874f4ffccc7fd7",
+    "verify_evaluation.py": "cdf8993229f9b2ca9fe44056729f9c2fc65296aa91bf3a25102a3afc8ec486a9"
+  },
+  "historical_pipeline_sha256": "adedc8550b2e95b049a80937099235451f3757a172ba3be98fbc63902f2742c7",
+  "elapsed_seconds": 2.9018564630000583,
+  "independent_development_verification": "passed",
+  "independent_evaluation_verification": "passed",
+  "comparison_to_original_numeric_results": "passed"
+}

@@ -1,0 +1,15 @@
+{
+  "original_protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+  "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+  "original_frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+  "model_weight_sha256": "1cd3c601bc4afe0fa87be3de4c13dd2cfadd249fac1e29acf74a9b296c3219bb",
+  "model": "laion/clap-htsat-unfused",
+  "revision": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a",
+  "download_manifest_sha256": "25e66ac9da8e34a99a1d9b82ae695de5a67abc6f65120c45ea6958b82fbe9131",
+  "original_exclusions_sha256": "4925ee766cf07faa8241b6890d026101eee368f110d0ea7549511bddf8b96da2",
+  "model_spec_sha256": "4dee66b0e5ab652dbf307525fb12746e66527ebd2ad88fa67e158d7cdc5558c6",
+  "scope": "locally regenerated source features; no new parameter selection",
+  "score_absolute_tolerance": 1e-05,
+  "metric_absolute_tolerance": 2e-14,
+  "ranks_gates_assignments": "exact match required"
+}

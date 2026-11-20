@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "scope": "table export from completed results; no new scoring or tuning",
+  "tables": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "inputs_sha256": {
+    "result/development_match.json": "1197d93c02d986bf3f725c07408b3240d1a88d6954719be7d95c328ab0a689a5",
+    "result/development_verification.json": "2ceebd517a4118927103a9a7b5fc7a96d79059ada5ae2860cfa31cf8b278efa2",
+    "result/reference_comparison.json": "bb4e5ca381e4338a9f59b41fd59b190b7a61a19ab97f62492545fff1a22023f4",
+    "result/reproduction_summary.json": "935cd441265b842a863bc5000efd8df805288bb0d4caf6d11cf17c3e2f6567d1",
+    "result/evaluation/independent_verification.json": "29777ef8c90c7d00402189116d2cc729760244adc8250693c94ce254221ad9d1",
+    "data/data/experiment_manifest.json": "9fc382333639994c41f8ac3ac2a1c660088fdec430b90da5a90a8540168e1d91",
+    "data/cache/active_manifest.json": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+    "data/cache/exclusions.json": "4925ee766cf07faa8241b6890d026101eee368f110d0ea7549511bddf8b96da2",
+    "result/evaluation/results.json": "b69fdf0a2c15d5ee24d0045dbbc1851e84b3465897bff6e540a38513373c7295",
+    "result/evaluation/cases.json": "baaf917da8c6f779b355f3bda0769bde63fcac7552c5d5df8a71e3ab9a7bcf2c",
+    "result/evaluation/run_spec.json": "285fc9450a1085786dbb96499cfc6c94be61fba09016ec3182469a7fd61a148e"
+  },
+  "outputs": {
+    "table1_dataset_counts.csv": {
+      "table": 1,
+      "rows": 6,
+      "sha256": "d7353afaadf0eb060927c097b893015453196d4d743675cb581cc500778f63ea"
+    },
+    "table2_retrieval.csv": {
+      "table": 2,
+      "rows": 8,
+      "sha256": "b49ec67853a7b5f47bf3363c42c3725b0ad37a26ceacaf44241156c34a5f2efd"
+    },
+    "table3_primary_effects.csv": {
+      "table": 3,
+      "rows": 2,
+      "sha256": "f3ef0dfa00f700cce50091029ea60362171e25deddb2f8b65c45148121188e0c"
+    },
+    "table4_verifier_statistics.csv": {
+      "table": 4,
+      "rows": 2,
+      "sha256": "4c312161433ea479d2b013d4e5a76eef9f081ad8aec2bbb204338ea98d957a3d"
+    },
+    "table5_clean_case_ranks.csv": {
+      "table": 5,
+      "rows": 6,
+      "sha256": "a7c98b781ac6568dba51d91398bd6eadde7304d4d513baf1f6e383efa3d4762f"
+    }
+  },
+  "float_policy": "CSV preserves precision; manuscript uses 4 decimals in Tables 2/4 and 6 in Table 3"
+}

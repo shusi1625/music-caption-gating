@@ -1,0 +1,17 @@
+{
+  "head_sha": "c01402ab564ce8208193afd91772c6930986c433",
+  "status": "completed",
+  "conclusion": "success",
+  "html_url": "https://github.com/shusi1625/music-caption-gating/actions/runs/44746495012",
+  "id": 44746495012,
+  "event": "push",
+  "path": ".github/workflows/reproduce.yml",
+  "run_started_at": "2026-11-20T13:41:19Z",
+  "run_attempt": 1,
+  "updated_at": "2026-11-20T14:04:15Z",
+  "run_number": 1,
+  "head_branch": "main",
+  "created_at": "2026-11-20T13:41:19Z",
+  "repository_url": "https://github.com/shusi1625/music-caption-gating",
+  "privacy": "Only execution identity/status/timestamps retained; actor and commit-person objects omitted"
+}

@@ -2,7 +2,7 @@
 
 Reproduction package for an NLP HW2 study of **first-excerpt versus pooled-excerpt caption gates** with a frozen CLAP model. This package preserves the original negative and inconclusive findings. It does not select new settings on the evaluation set.
 
-Release status: the public repository is available. Full reproduction in a new Windows virtual environment has passed; the first fresh hosted-runner execution is being validated. See REPRODUCIBILITY.md for completed checks and their limits.
+Release status: the public repository is available, and full source-to-results reproduction passed on a fresh Ubuntu 22.04 CPU runner. [Hosted run 44746495012](https://github.com/shusi1625/music-caption-gating/actions/runs/44746495012) tested commit [`c01402a`](https://github.com/shusi1625/music-caption-gating/commit/c01402ab564ce8208193afd91772c6930986c433); downloaded evidence was independently checked against the frozen results. See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for scope and evidence.
 
 ## Experiment and expected result
 
@@ -19,7 +19,7 @@ See `reference_results/` for readable tables and `artifacts/input/expected/evalu
 
 ## Fresh-environment reproduction from official sources
 
-Use Python **3.10**, Git, an internet connection, and a CPU or compatible GPU. The reference workflow uses CPU execution on Ubuntu 22.04. No paid API, private dataset login or training is required. Allow at least **10 GiB of free disk** for packages, audio, weights and temporary files; the original downloaded audio alone is approximately 1.93 GiB. Runtime depends on the machine and network. An isolated Windows CPU smoke run took about 2.3 seconds for twelve windows after model loading; this is not a full-run time guarantee.
+Use Python **3.10**, Git, an internet connection, and a CPU or compatible GPU. The reference workflow uses CPU execution on Ubuntu 22.04. No paid API, private dataset login or training is required. Allow at least **10 GiB of free disk** for packages, audio, weights and temporary files; the original downloaded audio alone is approximately 1.93 GiB. Runtime depends on the machine and network. The verified hosted run took 626.06 seconds for audio acquisition, 691.62 seconds for feature regeneration after model setup, and 2.90 seconds for analysis and verification. These measurements are not runtime guarantees for other machines or networks.
 
 ```bash
 git clone https://github.com/shusi1625/music-caption-gating.git
@@ -55,7 +55,7 @@ Success requires a zero process exit code and `status: passed` in **all** of:
 - `outputs/reproduction/reference_comparison.json`
 - `outputs/reproduction/reproduction_summary.json`
 
-The pipeline independently reconstructs development quantiles/lambda and evaluation similarities, TF–IDF, assignments, gates, ranks and bootstrap intervals. **All 22,080 ranks, gates, assignments, bootstrap weights and the selected lambda must match exactly.** The original thresholds are always used for evaluation. Before the full CPU regeneration, cross-platform absolute tolerances were fixed at `1e-5` for feature-based scores/recomputed thresholds, `2e-14` for reported metrics, and `2e-15` for AUROC. A development discrepancy does not authorize overwriting frozen settings.
+The pipeline independently reconstructs development quantiles/lambda and evaluation similarities, TF–IDF, assignments, gates, ranks and bootstrap intervals. **All 22,080 rank values, all 49,440 gate values, caption assignments, 756,000 bootstrap-weight values, and the selected lambda must match exactly.** The original thresholds are always used for evaluation. Before the full CPU regeneration, cross-platform absolute tolerances were fixed at `1e-5` for feature-based scores/recomputed thresholds, `2e-14` for reported metrics, and `2e-15` for AUROC. A development discrepancy does not authorize overwriting frozen settings.
 
 Different machine/code provenance and NPZ bytes are expected when regenerating embeddings. The original JSON manifests retain their historical hashes; the new run has its own specification, feature hashes and environment record. A failed rank, gate or metric check is a reproducibility failure to investigate, not an accepted alternative result.
 
@@ -79,7 +79,7 @@ The exporter reads computed results, checks their artifact hashes, and refuses u
 
 `.github/workflows/reproduce.yml` provisions a fresh hosted CPU runner, installs dependencies, tests the implementation, downloads official audio and weights, creates features, and recomputes development settings and all evaluation outputs. It has no restored audio/model/feature cache. Only numeric outputs and execution metadata are uploaded; source audio, model weights and dense embeddings are excluded.
 
-Validation status and actual run links are recorded in [`REPRODUCIBILITY.md`](REPRODUCIBILITY.md). Workflow configuration alone is not evidence that a hosted run passed. The workflow can be run from GitHub's **Actions → Reproduce from source → Run workflow**; pushes affecting implementation, requirements or workflow files also run it. Documentation-only updates do not repeat costly inference.
+Validation reports and exported tables are retained in [`evidence/hosted-cpu-reproduction/`](evidence/hosted-cpu-reproduction/); the successful [hosted run](https://github.com/shusi1625/music-caption-gating/actions/runs/44746495012) tested `c01402ab564ce8208193afd91772c6930986c433`. GitHub run artifacts expire after 30 days, so the small public evidence files are also committed here. Workflow configuration alone is not evidence of success. The workflow can be run from GitHub's **Actions → Reproduce from source → Run workflow**; pushes affecting implementation, requirements or workflow files also run it. Later documentation/evidence-only commits do not rerun inference and do not change which commit was tested.
 
 ## Layout
 

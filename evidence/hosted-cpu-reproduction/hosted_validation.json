@@ -1,0 +1,144 @@
+{
+  "run_id": 44746495012,
+  "status": "passed",
+  "checks": [
+    "GitHub run completed successfully for the expected repository",
+    "Artifact source SHA matches run and committed Ubuntu workflow",
+    "Artifact excludes audio, model weights, and dense feature files",
+    "All 439 audio files reacquired; 408 features regenerated with identical 31 exclusions",
+    "Model/input/implementation hashes and feature lineage verified against run commit",
+    "Development isolation, original frozen settings, and all required verification reports pass",
+    "Independently compared all published ranks/gates/weights, scores, metrics and CIs to original artifacts",
+    "All five table hashes/inputs verified and table contents match Windows exports",
+    "Recorded CPU dependency versions and unit-test log verified"
+  ],
+  "evidence_sha256": {
+    "run_metadata": "6e6d8ce5299c7c91ce2a63c884b628e2f4828955217240dc9da6fb49350b1841",
+    "reference_comparison": "bb4e5ca381e4338a9f59b41fd59b190b7a61a19ab97f62492545fff1a22023f4",
+    "reproduction_summary": "935cd441265b842a863bc5000efd8df805288bb0d4caf6d11cf17c3e2f6567d1",
+    "feature_manifest": "53a1e52a52bb454e4fa12ffa245accba77218bbcc693bf49e65702850af6fefe"
+  },
+  "workflow_runner_label": "ubuntu-22.04",
+  "run_url": "https://github.com/shusi1625/music-caption-gating/actions/runs/44746495012",
+  "source_commit": "c01402ab564ce8208193afd91772c6930986c433",
+  "scope": "Fresh GitHub-hosted CPU source acquisition, feature regeneration, frozen analysis and table export",
+  "tolerances": {
+    "scores": 1e-05,
+    "metrics": 2e-14,
+    "AUROC": 2e-15,
+    "ranks_gates_assignments_bootstrap_weights": "exact"
+  },
+  "limitations": [
+    "No human scientific replication or listening validation is claimed.",
+    "No Colab or additional model execution is claimed."
+  ],
+  "maximum_association_score_difference": 3.1888484954833984e-06,
+  "counts": {
+    "downloaded_audio": 439,
+    "newly_encoded_tracks": 408,
+    "duration_exclusions": 31,
+    "audio_windows": 4896,
+    "text_embeddings": 498,
+    "development_tracks": 99,
+    "evaluation_tracks": 309,
+    "evaluation_queries": 69,
+    "rank_values": 22080,
+    "gate_values": 49440,
+    "bootstrap_weight_values": 756000,
+    "table_count": 5,
+    "unit_tests": 29
+  },
+  "tables": [
+    {
+      "table": 1,
+      "file": "table1_dataset_counts.csv",
+      "rows": 6,
+      "sha256": "d7353afaadf0eb060927c097b893015453196d4d743675cb581cc500778f63ea",
+      "matches_windows_at_display_precision": true,
+      "byte_identical_to_windows_export": true
+    },
+    {
+      "table": 2,
+      "file": "table2_retrieval.csv",
+      "rows": 8,
+      "sha256": "b49ec67853a7b5f47bf3363c42c3725b0ad37a26ceacaf44241156c34a5f2efd",
+      "matches_windows_at_display_precision": true,
+      "byte_identical_to_windows_export": true
+    },
+    {
+      "table": 3,
+      "file": "table3_primary_effects.csv",
+      "rows": 2,
+      "sha256": "f3ef0dfa00f700cce50091029ea60362171e25deddb2f8b65c45148121188e0c",
+      "matches_windows_at_display_precision": true,
+      "byte_identical_to_windows_export": false
+    },
+    {
+      "table": 4,
+      "file": "table4_verifier_statistics.csv",
+      "rows": 2,
+      "sha256": "4c312161433ea479d2b013d4e5a76eef9f081ad8aec2bbb204338ea98d957a3d",
+      "matches_windows_at_display_precision": true,
+      "byte_identical_to_windows_export": true
+    },
+    {
+      "table": 5,
+      "file": "table5_clean_case_ranks.csv",
+      "rows": 6,
+      "sha256": "a7c98b781ac6568dba51d91398bd6eadde7304d4d513baf1f6e383efa3d4762f",
+      "matches_windows_at_display_precision": true,
+      "byte_identical_to_windows_export": true
+    }
+  ],
+  "primary_effects": {
+    "H1": {
+      "definition": "clean_eval_reject_first_minus_mean12_all_catalog_tracks",
+      "unit": "catalog track",
+      "tracks": 309,
+      "artists": 108,
+      "estimate": -0.09385113268608414,
+      "lower": -0.1505394756223303,
+      "upper": -0.0329336393003467,
+      "level": 0.975
+    },
+    "H2": {
+      "definition": "MRR_mean12_minus_first_at_p0.25_query_tracks",
+      "unit": "query track",
+      "tracks": 69,
+      "artists": 38,
+      "estimate": -0.009737531242628172,
+      "lower": -0.02992422417428291,
+      "upper": 0.0008115781825438115,
+      "level": 0.975
+    }
+  },
+  "frozen": {
+    "selected_lambda": 0.25,
+    "thresholds": {
+      "first_window": 0.32523579597473146,
+      "normalized_12_window_mean": 0.47426729202270507
+    },
+    "settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b"
+  },
+  "run_attempt": 1,
+  "times_seconds": {
+    "source_download": 626.064345527,
+    "feature_regeneration_after_model_setup": 691.6159421480002,
+    "analysis_and_verification": 2.9018564630000583
+  },
+  "environment": {
+    "python": "Python 3.10.22",
+    "inference_device": "cpu",
+    "core_packages": {
+      "torch": "2.0.1+cpu",
+      "torchaudio": "2.0.2+cpu",
+      "transformers": "4.30.0",
+      "numpy": "1.23.5",
+      "soundfile": "0.12.1",
+      "huggingface-hub": "0.17.2",
+      "tokenizers": "0.13.3"
+    },
+    "runner_label_from_committed_workflow": "ubuntu-22.04"
+  },
+  "repository_url": "https://github.com/shusi1625/music-caption-gating"
+}

@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "repository_url": "https://github.com/shusi1625/music-caption-gating",
+  "run_url": "https://github.com/shusi1625/music-caption-gating/actions/runs/44746495012",
+  "run_id": 44746495012,
+  "source_commit": "c01402ab564ce8208193afd91772c6930986c433",
+  "run_attempt": 1,
+  "scope": "Automated fresh GitHub-hosted CPU reproduction from official audio and pinned model files",
+  "fresh_hosted_machine_execution": true,
+  "public_code_repository_available": true,
+  "automated_check": true,
+  "independent_human_replication": false,
+  "colab_tested": false,
+  "original_dense_features_reused": false,
+  "official_audio_and_model_downloaded_in_run": true,
+  "counts": {
+    "downloaded_audio": 439,
+    "newly_encoded_tracks": 408,
+    "duration_exclusions": 31,
+    "audio_windows": 4896,
+    "text_embeddings": 498,
+    "development_tracks": 99,
+    "evaluation_tracks": 309,
+    "evaluation_queries": 69,
+    "rank_values": 22080,
+    "gate_values": 49440,
+    "bootstrap_weight_values": 756000,
+    "table_count": 5,
+    "unit_tests": 29
+  },
+  "times_seconds": {
+    "source_download": 626.064345527,
+    "feature_regeneration_after_model_setup": 691.6159421480002,
+    "analysis_and_verification": 2.9018564630000583
+  },
+  "frozen": {
+    "selected_lambda": 0.25,
+    "thresholds": {
+      "first_window": 0.32523579597473146,
+      "normalized_12_window_mean": 0.47426729202270507
+    },
+    "settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b"
+  },
+  "tolerances": {
+    "scores": 1e-05,
+    "metrics": 2e-14,
+    "AUROC": 2e-15,
+    "ranks_gates_assignments_bootstrap_weights": "exact"
+  },
+  "maximum_association_score_difference": 3.1888484954833984e-06,
+  "all_five_main_tables_verified": true,
+  "original_negative_and_inconclusive_findings_preserved": true,
+  "no_audio_weights_or_dense_features_redistributed": true,
+  "public_github_person_metadata_included": false,
+  "source_validation_sha256": "627eb13dee9a125f144a6e7152d887ecda9c39f9363e1a48397ba56932d43c7a",
+  "source_run_metadata_sha256": "6e6d8ce5299c7c91ce2a63c884b628e2f4828955217240dc9da6fb49350b1841"
+}

@@ -1,0 +1,87 @@
+{
+  "status": "passed",
+  "verified_at_utc": "2026-11-20T14:04:11.071423+00:00",
+  "scope": "independent frozen evaluation arithmetic, assignments, artist bootstrap and exported cases",
+  "evaluation_features_opened": 309,
+  "development_features_opened": 0,
+  "catalog_tracks": 309,
+  "query_tracks": 69,
+  "rank_values_compared": 22080,
+  "gate_values_compared": 49440,
+  "verification_scores_compared": 24720,
+  "assignment_runs_compared": 40,
+  "bootstrap_weight_values_compared": 756000,
+  "retrieval_intervals_compared": 64,
+  "primary_effects": {
+    "H1": {
+      "estimate": -0.09385113268608414,
+      "lower": -0.15053947562233025,
+      "upper": -0.032933639300346686,
+      "level": 0.975
+    },
+    "H2": {
+      "estimate": -0.009737531242628168,
+      "lower": -0.029924224174282914,
+      "upper": 0.0008115781825438117,
+      "level": 0.975
+    }
+  },
+  "secondary_contrasts_compared": 12,
+  "auroc_values_compared": 40,
+  "preselected_cases_compared": 6,
+  "tfidf_vocabulary_size": 1149,
+  "checks": [
+    "frozen inputs and feature SHA256",
+    "split and caption roles",
+    "independent cross-artist permutation replay",
+    "random gate rejection counts and order",
+    "explicit token-count TF-IDF without sklearn",
+    "direct greater-than and ID-tie ranks",
+    "whole-artist resampling replay with multiplicities",
+    "paired CI by sorted linear interpolation",
+    "seed means before query-artist resampling",
+    "pairwise AUROC without sklearn",
+    "preselected cases and per-seed CSV"
+  ],
+  "imports_evaluate_or_pipeline": false,
+  "shared_metadata_validation_only": true,
+  "feature_source": {
+    "mode": "regenerated_features",
+    "score_absolute_tolerance_to_original": 1e-05,
+    "development_threshold_absolute_tolerance": 1e-05,
+    "metric_absolute_tolerance_to_original": 2e-14,
+    "ranks_gates_assignments_must_match_original_exactly": true,
+    "original_frozen_thresholds_and_lambda_used": true,
+    "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+    "regenerated_manifest_sha256": "53a1e52a52bb454e4fa12ffa245accba77218bbcc693bf49e65702850af6fefe",
+    "regenerated_exclusions_sha256": "b4a66abf53c8ad1d7ca0da95c1c9ff4b07a327ccfe8384a27bf5e3e9e515617f",
+    "regenerated_model_spec_sha256": "198c4a833c74e4c056af2f171f06d3ec514b2b35665e96ad505c7c14b645113a",
+    "regenerated_provenance_sha256": "ed7e73a25c20cf09035332d6f4044c4ed34a8765c63b1c3834d292b70bc96474",
+    "regeneration_provenance": {
+      "original_protocol_sha256": "512a98a739d598f1e596d921839fc9ed2d1f99bac1e546ab5175064a77e06ea6",
+      "original_active_manifest_sha256": "d539f76f57d4800fefd4abb2c9d13fa4f95b0f17365d81f16fe69610791eeb6f",
+      "original_frozen_settings_sha256": "a3a28e19e7ee8cecfb0bedbcfb6796eee6da80897b70d888a3641264ae7f540b",
+      "model_weight_sha256": "1cd3c601bc4afe0fa87be3de4c13dd2cfadd249fac1e29acf74a9b296c3219bb",
+      "model": "laion/clap-htsat-unfused",
+      "revision": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a",
+      "download_manifest_sha256": "25e66ac9da8e34a99a1d9b82ae695de5a67abc6f65120c45ea6958b82fbe9131",
+      "original_exclusions_sha256": "4925ee766cf07faa8241b6890d026101eee368f110d0ea7549511bddf8b96da2",
+      "model_spec_sha256": "4dee66b0e5ab652dbf307525fb12746e66527ebd2ad88fa67e158d7cdc5558c6",
+      "scope": "locally regenerated source features; no new parameter selection",
+      "score_absolute_tolerance": 1e-05,
+      "metric_absolute_tolerance": 2e-14,
+      "ranks_gates_assignments": "exact match required"
+    }
+  },
+  "verifier_sha256": "cdf8993229f9b2ca9fe44056729f9c2fc65296aa91bf3a25102a3afc8ec486a9",
+  "artifact_sha256": {
+    "results.json": "b69fdf0a2c15d5ee24d0045dbbc1851e84b3465897bff6e540a38513373c7295",
+    "run_spec.json": "285fc9450a1085786dbb96499cfc6c94be61fba09016ec3182469a7fd61a148e",
+    "raw_arrays.npz": "e8714f8ac0407a33f01fe16df64232217bd8ef1b8a4015ff6bbbc36f377991ee",
+    "bootstrap_weights.npz": "95e1b2f15e7f0114067c5c05cd5dad9a2e9d98b2912457713bea3e5d3e7cee1f",
+    "assignments.json": "d0507d66254d283bab8e9a6a9ca993b45280c32f1ba3b8f3217ec528c5a9dc05",
+    "cases.json": "baaf917da8c6f779b355f3bda0769bde63fcac7552c5d5df8a71e3ab9a7bcf2c",
+    "per_seed_retrieval.csv": "4e0fae401b094d258caa75477c26111b7c6cd335abcb4c5c9a03342938846dbe"
+  },
+  "elapsed_seconds": 1.23364363099995
+}
